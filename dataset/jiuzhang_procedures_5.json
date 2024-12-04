@@ -1,0 +1,218 @@
+[
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#0",
+        "text": "術曰穿地四爲壤五爲堅三爲墟四以穿地求壤五之求堅三之皆四而一以壤求穿四之求堅三之皆五而一以堅求穿四之求壤五之皆三而一",
+        "procedure_index": 0,
+        "id": "九章算術_5_#0",
+        "type": "earthwork conversion"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#1",
+        "text": "城垣隄溝壍渠皆同術術曰并上下廣而半之以高若深乘之又以袤乘之卽積尺",
+        "procedure_index": 1,
+        "id": "九章算術_5_#1",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#2",
+        "text": "術曰以積尺爲實程功尺數爲法實如法而一卽用徒人數",
+        "procedure_index": 2,
+        "id": "九章算術_5_#2",
+        "type": "earthwork manpower"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#3",
+        "text": "術曰置本人功去其五分之一餘爲法以溝積尺爲實實如法而一得用徒人數",
+        "procedure_index": 3,
+        "id": "九章算術_5_#3",
+        "type": "earthwork manpower"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#4",
+        "text": "術曰置本人功去其出土功五分之一又去沙礫水石之功太半餘爲法以壍積尺爲實實如法而一卽用徒人數",
+        "procedure_index": 4,
+        "id": "九章算術_5_#4",
+        "type": "earthwork manpower"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#5",
+        "text": "術曰以一人功尺數乘先到人數爲實并渠上下廣而半之以深乘之爲法實如法得袤尺",
+        "procedure_index": 5,
+        "id": "九章算術_5_#5",
+        "type": "earthwork manpower"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#6",
+        "text": "術曰方自乘以高乘之卽積尺",
+        "procedure_index": 6,
+        "id": "九章算術_5_#6",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#7",
+        "text": "術曰周自相乘以高乘之十二而一",
+        "procedure_index": 7,
+        "id": "九章算術_5_#7",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#8",
+        "text": "術曰上下方相乘又各自乘并之以高乘之三而一",
+        "procedure_index": 8,
+        "id": "九章算術_5_#8",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#9",
+        "text": "術曰上下周相乘又各自乘并之以高乘之三十六而一",
+        "procedure_index": 9,
+        "id": "九章算術_5_#9",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#10",
+        "text": "術曰下方自乘以高乘之三而一",
+        "procedure_index": 10,
+        "id": "九章算術_5_#10",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#11",
+        "text": "術曰下周自乘以高乘之三十六而一",
+        "procedure_index": 11,
+        "id": "九章算術_5_#11",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#12",
+        "text": "術曰廣袤相乘以高乘之二而一",
+        "procedure_index": 12,
+        "id": "九章算術_5_#12",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#13",
+        "text": "術曰廣袤相乘以高乘之三而一",
+        "procedure_index": 13,
+        "id": "九章算術_5_#13",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#14",
+        "text": "術曰廣袤相乘以高乘之六而一",
+        "procedure_index": 14,
+        "id": "九章算術_5_#14",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#15",
+        "text": "術曰并三廣以深乘之又以袤乘之六而一",
+        "procedure_index": 15,
+        "id": "九章算術_5_#15",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#16",
+        "text": "術曰倍下袤上袤從之以廣乘之又以高乘之六而一",
+        "procedure_index": 16,
+        "id": "九章算術_5_#16",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#17",
+        "text": "芻童曲池盤池冥谷皆同術術曰倍上袤下袤從之亦倍下袤上袤從之各以其廣乘之并以高若深乘之皆六而一其曲池者并上中外周而半之以爲上袤亦并下中外周而半之以爲下袤",
+        "procedure_index": 17,
+        "id": "九章算術_5_#17",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#18",
+        "text": "術曰以一籠積尺乘程行步數爲實往來上下棚除二當平道五置定往來步數十加一及載輸之間三十步以爲法除之所得卽一人所到尺以所到約積尺卽用徒人數",
+        "procedure_index": 18,
+        "id": "九章算術_5_#18",
+        "type": "earthwork manpower"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#19",
+        "text": "術曰以一車積尺乘程行步數爲實置今往來步數加載輸之間一里以車六人乘之爲法除之所得卽一人所到尺以所到約積尺卽用徒人數",
+        "procedure_index": 19,
+        "id": "九章算術_5_#19",
+        "type": "earthwork manpower"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "委粟",
+        "text": "委粟術曰下周自乘以高乘之三十六而一其依垣者十八而一其依垣内角者九而一程粟一斛積二尺七寸其米一斛積一尺六寸五分寸之一其菽荅麻麥一斛皆二尺四寸十分寸之三",
+        "procedure_index": 20,
+        "id": "九章算術_5_委粟",
+        "type": "volume of grain"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#21",
+        "text": "術曰置垣積尺四之爲實以深袤相乘又以三之爲法所得倍之減上廣餘卽下廣",
+        "procedure_index": 21,
+        "id": "九章算術_5_#21",
+        "type": "volume"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#22",
+        "text": "術曰置粟一萬斛積尺爲實廣袤相乘爲法實如法而一得高尺",
+        "procedure_index": 22,
+        "id": "九章算術_5_#22",
+        "type": "volume of grain"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 5,
+        "name": "#23",
+        "text": "術曰置米積尺以十二乘之令高而一所得開方除之卽周",
+        "procedure_index": 23,
+        "id": "九章算術_5_#23",
+        "type": "volume of grain"
+    }
+]

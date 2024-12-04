@@ -1,0 +1,416 @@
+[
+    {
+        "question": "今有粟一斗欲爲糲米問得幾何",
+        "answer": "荅曰爲糲米六升",
+        "procedure_id": "九章算術_2_#0",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 0,
+        "id": "九章算術_2_0"
+    },
+    {
+        "question": "今有粟二斗一升欲爲粺米問得幾何",
+        "answer": "荅曰爲粺米一斗一升五十分升之十七",
+        "procedure_id": "九章算術_2_#1",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 1,
+        "id": "九章算術_2_1"
+    },
+    {
+        "question": "今有粟四斗五升欲爲糳米問得幾何",
+        "answer": "荅曰爲糳米二斗一升五分升之三",
+        "procedure_id": "九章算術_2_#2",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 2,
+        "id": "九章算術_2_2"
+    },
+    {
+        "question": "今有粟七斗九升欲爲御米問得幾何",
+        "answer": "荅曰爲御米三斗三升五十分升之九",
+        "procedure_id": "九章算術_2_#3",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 3,
+        "id": "九章算術_2_3"
+    },
+    {
+        "question": "今有粟一斗欲爲小䵂問得幾何",
+        "answer": "荅曰爲小䵂二升一十分升之七",
+        "procedure_id": "九章算術_2_#4",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 4,
+        "id": "九章算術_2_4"
+    },
+    {
+        "question": "今有粟九斗八升欲爲大䵂問得幾何",
+        "answer": "荅曰爲大䵂一十斗五升二十五分升之二十一",
+        "procedure_id": "九章算術_2_#5",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 5,
+        "id": "九章算術_2_5"
+    },
+    {
+        "question": "今有粟二斗三升欲爲糲飯問得幾何",
+        "answer": "荅曰爲糲飯三斗四升半",
+        "procedure_id": "九章算術_2_#6",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 6,
+        "id": "九章算術_2_6"
+    },
+    {
+        "question": "今有粟三斗六升欲爲粺飯問得幾何",
+        "answer": "荅曰爲粺飯三斗八升二十五分升之二十二",
+        "procedure_id": "九章算術_2_#7",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 7,
+        "id": "九章算術_2_7"
+    },
+    {
+        "question": "今有粟八斗六升欲爲糳飯問得幾何",
+        "answer": "荅曰爲糳飯八斗二升二十五分升之一十四",
+        "procedure_id": "九章算術_2_#8",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 8,
+        "id": "九章算術_2_8"
+    },
+    {
+        "question": "今有粟九斗八升欲爲御飯問得幾何",
+        "answer": "荅曰爲御飯八斗二升二十五分升之八",
+        "procedure_id": "九章算術_2_#9",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 9,
+        "id": "九章算術_2_9"
+    },
+    {
+        "question": "今有粟三斗少半升欲爲菽問得幾何",
+        "answer": "荅曰爲菽二斗七升一十分升之三",
+        "procedure_id": "九章算術_2_#10",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 10,
+        "id": "九章算術_2_10"
+    },
+    {
+        "question": "今有粟四斗一升太半升欲爲荅問得幾何",
+        "answer": "荅曰爲荅三斗七升半",
+        "procedure_id": "九章算術_2_#10",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 11,
+        "id": "九章算術_2_11"
+    },
+    {
+        "question": "今有粟五斗太半升欲爲麻問得幾何",
+        "answer": "荅曰爲麻四斗五升五分升之三",
+        "procedure_id": "九章算術_2_#10",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 12,
+        "id": "九章算術_2_12"
+    },
+    {
+        "question": "今有粟一十斗八升五分升之二欲爲麥問得幾何",
+        "answer": "荅曰爲麥九斗七升二十五分升之一十四",
+        "procedure_id": "九章算術_2_#10",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 13,
+        "id": "九章算術_2_13"
+    },
+    {
+        "question": "今有粟七斗五升七分升之四欲爲稻問得幾何",
+        "answer": "荅曰爲稻九斗三十五分升之二十四",
+        "procedure_id": "九章算術_2_#11",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 14,
+        "id": "九章算術_2_14"
+    },
+    {
+        "question": "今有粟七斗八升欲爲䜴問得幾何",
+        "answer": "荅曰爲䜴九斗八升二十五分升之七",
+        "procedure_id": "九章算術_2_#12",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 15,
+        "id": "九章算術_2_15"
+    },
+    {
+        "question": "今有粟五斗五升欲爲飱問得幾何",
+        "answer": "荅曰爲飱九斗九升",
+        "procedure_id": "九章算術_2_#13",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 16,
+        "id": "九章算術_2_16"
+    },
+    {
+        "question": "今有粟四斗欲爲熟菽問得幾何",
+        "answer": "荅曰爲熟菽八斗二升五分升之四",
+        "procedure_id": "九章算術_2_#14",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 17,
+        "id": "九章算術_2_17"
+    },
+    {
+        "question": "今有粟二斗欲爲糵問得幾何",
+        "answer": "荅曰爲糵七斗",
+        "procedure_id": "九章算術_2_#15",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 18,
+        "id": "九章算術_2_18"
+    },
+    {
+        "question": "今有糲米十五斗五升五分升之二欲爲粟問得幾何",
+        "answer": "荅曰爲粟二十五斗九升",
+        "procedure_id": "九章算術_2_#16",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 19,
+        "id": "九章算術_2_19"
+    },
+    {
+        "question": "今有粺米二斗欲爲粟問得幾何",
+        "answer": "荅曰爲粟三斗七升二十七分升之一",
+        "procedure_id": "九章算術_2_#17",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 20,
+        "id": "九章算術_2_20"
+    },
+    {
+        "question": "今有糳米三斗少半升欲爲粟問得幾何",
+        "answer": "荅曰爲粟六斗三升三十六分升之七術日以糳米求粟二十五之十三而一",
+        "procedure_id": "九章算術_2_#18",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 21,
+        "id": "九章算術_2_21"
+    },
+    {
+        "question": "今有御米十四斗欲爲粟問得幾何",
+        "answer": "荅曰爲粟三十三斗三升少半升",
+        "procedure_id": "九章算術_2_#18",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 22,
+        "id": "九章算術_2_22"
+    },
+    {
+        "question": "今有稻一十二斗六升一十五分升之一十四欲爲粟問得幾何",
+        "answer": "荅曰爲粟一十斗五升九分升之七",
+        "procedure_id": "九章算術_2_#19",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 23,
+        "id": "九章算術_2_23"
+    },
+    {
+        "question": "今有糲米一十九斗二升七分升之一欲爲粺米問得幾何",
+        "answer": "荅曰爲粺米一十七斗二升一十四分升之一十三",
+        "procedure_id": "九章算術_2_#20",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 24,
+        "id": "九章算術_2_24"
+    },
+    {
+        "question": "今有糲米六斗四升五分升之三欲爲糲飯問得幾何",
+        "answer": "荅曰爲糲飯一十六斗一升半",
+        "procedure_id": "九章算術_2_#21",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 25,
+        "id": "九章算術_2_25"
+    },
+    {
+        "question": "今有糲飯七斗六升七分升之四欲爲飱問得幾何",
+        "answer": "荅曰爲飱九斗一升三十五分升之三十一",
+        "procedure_id": "九章算術_2_#22",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 26,
+        "id": "九章算術_2_26"
+    },
+    {
+        "question": "今有菽一斗欲爲熟菽問得幾何",
+        "answer": "荅曰爲熟菽二斗三升",
+        "procedure_id": "九章算術_2_#23",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 27,
+        "id": "九章算術_2_27"
+    },
+    {
+        "question": "今有菽二斗欲爲䜴問得幾何",
+        "answer": "荅曰爲䜴二斗八升",
+        "procedure_id": "九章算術_2_#24",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 28,
+        "id": "九章算術_2_28"
+    },
+    {
+        "question": "今有麥八斗六升七分升之三欲爲小䵂問得幾何",
+        "answer": "荅曰爲小䵂二斗五升一十四分升之一十三",
+        "procedure_id": "九章算術_2_#25",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 29,
+        "id": "九章算術_2_29"
+    },
+    {
+        "question": "今有麥一斗欲爲大䵂問得幾何",
+        "answer": "荅曰爲大䵂一斗二升",
+        "procedure_id": "九章算術_2_#26",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 30,
+        "id": "九章算術_2_30"
+    },
+    {
+        "question": "今有出錢一百六十買瓴甓十八枚問枚幾何",
+        "answer": "荅曰一枚八錢九分錢之八",
+        "procedure_id": "九章算術_2_#27",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 31,
+        "id": "九章算術_2_31"
+    },
+    {
+        "question": "今有出錢一萬三千五百買竹二千三百五十箇問箇幾何",
+        "answer": "荅曰一箇五錢四十七分錢之三十五",
+        "procedure_id": "九章算術_2_#27",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 32,
+        "id": "九章算術_2_32"
+    },
+    {
+        "question": "今有出錢五千七百八十五買漆一斛六斗七升太半升欲斗率之問斗幾何",
+        "answer": "荅曰一斗三百四十五錢五百三分錢之一十五",
+        "procedure_id": "九章算術_2_#28",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 33,
+        "id": "九章算術_2_33"
+    },
+    {
+        "question": "今有出錢七百二十買縑一匹二丈一尺欲丈率之問丈幾何",
+        "answer": "荅曰一丈一百一十八錢六十一分錢之二",
+        "procedure_id": "九章算術_2_#28",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 34,
+        "id": "九章算術_2_34"
+    },
+    {
+        "question": "今有出錢二千三百七十買布九匹二丈七尺欲匹率之問匹幾何",
+        "answer": "荅曰一匹二百四十四錢一百二十九分錢之一百二十四",
+        "procedure_id": "九章算術_2_#28",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 35,
+        "id": "九章算術_2_35"
+    },
+    {
+        "question": "今有出錢一萬三千六百七十買絲一石二鈞一十七斤欲石率之問石幾何",
+        "answer": "荅曰一石八千三百二十六錢一百九十七分錢之一百七十八",
+        "procedure_id": "九章算術_2_#28",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 36,
+        "id": "九章算術_2_36"
+    },
+    {
+        "question": "今有出錢五百七十六買竹七十八箇欲其大小率之問各幾何",
+        "answer": "荅曰其四十八箇箇七錢其三十箇箇八錢",
+        "procedure_id": "九章算術_2_#29",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 37,
+        "id": "九章算術_2_37"
+    },
+    {
+        "question": "今有出錢一千一百二十買絲一石二鈞十八斤欲其貴賤斤率之問各幾何",
+        "answer": "荅曰其二鈞八斤斤五錢其一石一十斤斤六錢",
+        "procedure_id": "九章算術_2_#29",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 38,
+        "id": "九章算術_2_38"
+    },
+    {
+        "question": "今有出錢一萬三千九百七十買絲一石二鈞二十八斤三兩五銖欲其貴賤石率之問各幾何",
+        "answer": "荅曰其一鈞九兩一十二銖石八千五十一錢其一石一鈞二十七斤九兩一十七銖石八千五十二錢",
+        "procedure_id": "九章算術_2_#29",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 39,
+        "id": "九章算術_2_39"
+    },
+    {
+        "question": "今有出錢一萬三千九百七十買絲一石二鈞二十八斤三兩五銖欲其貴賤鈞率之問各幾何",
+        "answer": "荅曰其七斤一十兩九銖鈞二千一十二錢其一石二鈞二十斤八兩二十銖鈞二千一十三錢",
+        "procedure_id": "九章算術_2_#29",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 40,
+        "id": "九章算術_2_40"
+    },
+    {
+        "question": "今有出錢一萬三千九百七十買絲一石二鈞二十八斤三兩五銖欲其貴賤斤率之問各幾何",
+        "answer": "荅曰其一石二鈞七斤十兩四銖斤六十七錢其二十斤九兩一銖斤六十八錢",
+        "procedure_id": "九章算術_2_#29",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 41,
+        "id": "九章算術_2_41"
+    },
+    {
+        "question": "今有出錢一萬三千九百七十買絲一石二鈞二十八斤三兩五銖欲其貴賤兩率之問各幾何",
+        "answer": "荅曰其一石一鈞一十七斤一十四兩一銖兩四錢其一鈞一十斤五兩四銖兩五錢",
+        "procedure_id": "九章算術_2_#29",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 42,
+        "id": "九章算術_2_42"
+    },
+    {
+        "question": "今有出錢一萬三千九百七十買絲一石二鈞二十八斤三兩五銖欲其貴賤銖率之問各幾何",
+        "answer": "荅曰其一鈞二十斤六兩十一銖五銖一錢其一石一鈞七斤一十二兩一十八銖六銖一錢",
+        "procedure_id": "九章算術_2_#30",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 43,
+        "id": "九章算術_2_43"
+    },
+    {
+        "question": "今有出錢六百二十買羽二千一百翭欲其貴賤率之問各幾何",
+        "answer": "荅曰其一千一百四十翭三翭一錢其九百六十翭四翭一錢",
+        "procedure_id": "九章算術_2_#30",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 44,
+        "id": "九章算術_2_44"
+    },
+    {
+        "question": "今有出錢九百八十買矢簳五千八百二十枚欲其貴賤率之問各幾何",
+        "answer": "荅曰其三百枚五枚一錢其五千五百二十枚六枚一錢",
+        "procedure_id": "九章算術_2_#30",
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "problem_index": 45,
+        "id": "九章算術_2_45"
+    }
+]

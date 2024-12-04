@@ -1,0 +1,137 @@
+[
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "盈不足",
+        "text": "盈不足術曰盈不足相與同共買物者置所出率盈不足各居其下令維乘所出率并以爲實并盈不足爲法有分者通之副置所出率以少減多餘以約法實實爲物價法爲人數",
+        "procedure_index": 0,
+        "id": "九章算術_7_盈不足",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "兩盈兩不足",
+        "text": "兩盈兩不足術曰兩盈兩不足相與同共買物者置所出率盈不足各居其下令維乘所出率以少減多餘爲實兩盈兩不足以少減多餘爲法有分者通之副置所出率以少減多餘以約法實實爲物價法爲人數",
+        "procedure_index": 1,
+        "id": "九章算術_7_兩盈兩不足",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "盈適足不足適足",
+        "text": "盈適足不足適足術曰以盈及不足之數爲實置所出率以少減多餘爲法實如法得一人其求物價者以適足乘人數得物價",
+        "procedure_index": 2,
+        "id": "九章算術_7_盈適足不足適足",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "#3",
+        "text": "術曰以盈不足術求之假令故米二斗不足二升令之三斗有餘二升",
+        "procedure_index": 3,
+        "id": "九章算術_7_#3",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "#4",
+        "text": "術曰假令五日不足五寸令之六日有餘一尺二寸",
+        "procedure_index": 4,
+        "id": "九章算術_7_#4",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "#5",
+        "text": "術曰假令二日不足一尺五寸令之三日有餘一尺七寸半",
+        "procedure_index": 5,
+        "id": "九章算術_7_#5",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "#6",
+        "text": "術曰假令二日不足五寸令之三日有餘三尺七寸半大鼠日倍二日合穿三尺小鼠日自半合穿一尺五寸并大鼠所穿合尺五寸課於垣厚五尺是爲不足五寸令之三日大鼠穿得七尺小鼠穿得一尺七寸半并之以減垣厚五尺有餘三尺七寸半以盈不足術求之卽得以後一日所穿乘日分子如日分母而一卽各得日分子之中所穿故各増二日定穿卽合所問也",
+        "procedure_index": 6,
+        "id": "九章算術_7_#6",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "#7",
+        "text": "術曰假令醇酒五升行酒一斗五升有餘一十令之醇酒二升行酒一斗八升不足二",
+        "procedure_index": 7,
+        "id": "九章算術_7_#7",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "#8",
+        "text": "術曰假令大器五斗小器亦五斗盈十斗令之大器五斗五升小器二斗五升不足二斗",
+        "procedure_index": 8,
+        "id": "九章算術_7_#8",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "#9",
+        "text": "術曰假令出漆九升不足六升令之出漆一斗二升有餘二升",
+        "procedure_index": 9,
+        "id": "九章算術_7_#9",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "#10",
+        "text": "術曰假令皆玉多十三兩令之皆石不足十四兩不足爲玉多爲石各以一寸之重乘之得玉石之積重",
+        "procedure_index": 10,
+        "id": "九章算術_7_#10",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "#11",
+        "text": "術曰假令善田二十畝惡田八十畝多一千七百一十四錢七分錢之二令之善田十畝惡田九十畝不足五百七十一錢七分錢之三",
+        "procedure_index": 11,
+        "id": "九章算術_7_#11",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "#12",
+        "text": "術曰假令黃金三斤白銀二斤十一分斤之五不足四十九於右行令之黃金二斤白銀一斤十一分斤之七多十五於左行以分母各乘其行内之數以盈不足維乘所出率并以爲實并盈不足爲法實如法得黃金重分母乘法以除得銀重約之得分也",
+        "procedure_index": 12,
+        "id": "九章算術_7_#12",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "#13",
+        "text": "術曰假令十五日不足三百三十七里半令之十六日多一百四十里以盈不足維乘假令之數并而爲實并盈不足爲法實如法而一得日數不盡者以等數除之而命分",
+        "procedure_index": 13,
+        "id": "九章算術_7_#13",
+        "type": "yingbuzu"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 7,
+        "name": "#14",
+        "text": "術曰假令本錢三萬不足一千七百三十八錢半令之四萬多三萬五千三百九十錢八分",
+        "procedure_index": 14,
+        "id": "九章算術_7_#14",
+        "type": "yingbuzu"
+    }
+]

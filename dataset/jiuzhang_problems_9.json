@@ -1,0 +1,218 @@
+[
+    {
+        "question": "今有句三尺股四尺問爲弦幾何",
+        "answer": "荅曰五尺",
+        "procedure_id": "九章算術_9_句股",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 0,
+        "id": "九章算術_9_0"
+    },
+    {
+        "question": "今有弦五尺句三尺問爲股幾何",
+        "answer": "荅曰四尺",
+        "procedure_id": "九章算術_9_句股",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 1,
+        "id": "九章算術_9_1"
+    },
+    {
+        "question": "今有股四尺弦五尺問爲句幾何",
+        "answer": "荅曰三尺",
+        "procedure_id": "九章算術_9_句股",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 2,
+        "id": "九章算術_9_2"
+    },
+    {
+        "question": "今有圓材徑二尺五寸欲爲方版令厚七寸問廣幾何",
+        "answer": "荅曰二尺四寸五分",
+        "procedure_id": "九章算術_9_#1",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 3,
+        "id": "九章算術_9_3"
+    },
+    {
+        "question": "今有木長二丈圍之三尺葛生其下纏木七周上與木齊問葛長幾何",
+        "answer": "荅曰二丈九尺",
+        "procedure_id": "九章算術_9_#2",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 4,
+        "id": "九章算術_9_4"
+    },
+    {
+        "question": "今有池方一丈葭生其中央出水一尺引葭赴岸適與岸齊問水深葭長各幾何",
+        "answer": "荅曰水深一丈二尺葭長一丈三尺",
+        "procedure_id": "九章算術_9_#3",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 5,
+        "id": "九章算術_9_5"
+    },
+    {
+        "question": "今有立木繫索其末委地三尺引索郤行去本八尺而索盡問索長幾何",
+        "answer": "荅曰一丈二尺二十一分尺之一",
+        "procedure_id": "九章算術_9_#4",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 6,
+        "id": "九章算術_9_6"
+    },
+    {
+        "question": "今有垣高一丈倚木於垣高與垣齊引木郤行一尺其木至地問木幾何",
+        "answer": "荅曰五丈五寸",
+        "procedure_id": "九章算術_9_#5",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 7,
+        "id": "九章算術_9_7"
+    },
+    {
+        "question": "今有圓材埋在壁中不知大小以鐻鐻之深一寸鐻道長一尺問徑幾何",
+        "answer": "荅曰材徑二尺六寸",
+        "procedure_id": "九章算術_9_#6",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 8,
+        "id": "九章算術_9_8"
+    },
+    {
+        "question": "今有開門去閫一尺不合二寸問門廣幾何",
+        "answer": "荅曰一丈一寸",
+        "procedure_id": "九章算術_9_#7",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 9,
+        "id": "九章算術_9_9"
+    },
+    {
+        "question": "今有戸高多於廣六尺八寸兩隅相去適一丈問戸高廣各幾何",
+        "answer": "荅曰廣二尺八寸高九尺六寸",
+        "procedure_id": "九章算術_9_#8",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 10,
+        "id": "九章算術_9_10"
+    },
+    {
+        "question": "今有戸不知高廣竿不知長短橫之不出四尺從之不出二尺邪之適出問戸高廣袤各幾何",
+        "answer": "荅曰廣六尺高八尺衺一丈",
+        "procedure_id": "九章算術_9_#9",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 11,
+        "id": "九章算術_9_11"
+    },
+    {
+        "question": "今有竹高一丈末折抵地去本三尺問折者高幾何",
+        "answer": "荅曰四尺二十分尺之十一",
+        "procedure_id": "九章算術_9_#10",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 12,
+        "id": "九章算術_9_12"
+    },
+    {
+        "question": "今有二人同所立甲行率七乙行率三乙東行甲南行十步而邪東北與乙會問甲乙行各幾行",
+        "answer": "荅曰乙東行十步半甲邪行十四步半及之",
+        "procedure_id": "九章算術_9_#11",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 13,
+        "id": "九章算術_9_13"
+    },
+    {
+        "question": "今有句五步股十二步問句中容方幾何",
+        "answer": "荅曰方三步十七分步之九",
+        "procedure_id": "九章算術_9_#12",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 14,
+        "id": "九章算術_9_14"
+    },
+    {
+        "question": "今有句八步股十五步問句中容圓徑幾何",
+        "answer": "荅曰六步",
+        "procedure_id": "九章算術_9_#13",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 15,
+        "id": "九章算術_9_15"
+    },
+    {
+        "question": "今有邑方二百步各中開門出東門十五步有木問出南門幾何步而見木",
+        "answer": "荅曰六百六十六步太半步",
+        "procedure_id": "九章算術_9_#14",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 16,
+        "id": "九章算術_9_16"
+    },
+    {
+        "question": "今有邑東西七里南北九里各中開門出東門十五里有木問出南門幾何步而見木",
+        "answer": "荅曰三百一十五步",
+        "procedure_id": "九章算術_9_#15",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 17,
+        "id": "九章算術_9_17"
+    },
+    {
+        "question": "今有邑方不知大小各中開門出北門三十步有木出西門七百五十步見木問邑方幾何",
+        "answer": "荅曰一里",
+        "procedure_id": "九章算術_9_#16",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 18,
+        "id": "九章算術_9_18"
+    },
+    {
+        "question": "今有邑方不知大小各中開門出北門二十步有木出南門十四步折而西行一千七百七十五步見木問邑方幾何",
+        "answer": "荅曰二百五十步",
+        "procedure_id": "九章算術_9_#17",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 19,
+        "id": "九章算術_9_19"
+    },
+    {
+        "question": "今有邑方十里各中開門甲乙俱從邑中央而出乙東出甲南出出門不知步數邪向東門磨邑適與乙會率甲行五乙行三問甲乙行各幾何",
+        "answer": "荅曰甲出南門八百步邪東北行四千八百八十七步半及乙乙東行四千三百一十二步半",
+        "procedure_id": "九章算術_9_#18",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 20,
+        "id": "九章算術_9_20"
+    },
+    {
+        "question": "有木去人不知遠近立四表相去各一丈令左兩表與所望參相直從後右表望之入前右表三寸問木去人幾何",
+        "answer": "荅曰三十三丈三尺三寸少半寸",
+        "procedure_id": "九章算術_9_#19",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 21,
+        "id": "九章算術_9_21"
+    },
+    {
+        "question": "有山居木西不知其高山去木五十三里木高九丈五尺人立木東三里望木末適與山峯斜平人目高七尺問山高幾何",
+        "answer": "荅曰一百六十四丈九尺六寸太半寸",
+        "procedure_id": "九章算術_9_#20",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 22,
+        "id": "九章算術_9_22"
+    },
+    {
+        "question": "今有井徑五尺不知其深立五尺木於井上從木末望水岸入徑四寸問井深幾何",
+        "answer": "荅曰五丈七尺五寸",
+        "procedure_id": "九章算術_9_#21",
+        "source_title": "九章算術",
+        "source_juan": 9,
+        "problem_index": 23,
+        "id": "九章算術_9_23"
+    }
+]

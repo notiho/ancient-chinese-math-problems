@@ -1,0 +1,218 @@
+[
+    {
+        "question": "今有田廣一步半求田一畝問從幾何",
+        "answer": "荅曰一百六十步",
+        "procedure_id": "九章算術_4_#0",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 0,
+        "id": "九章算術_4_0"
+    },
+    {
+        "question": "今有田廣一步半三分步之一求田一畝問從幾何",
+        "answer": "荅曰一百三十步一十一分步之一十",
+        "procedure_id": "九章算術_4_#1",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 1,
+        "id": "九章算術_4_1"
+    },
+    {
+        "question": "今有田廣一步半三分步之一四分步之一求田一畝問從幾何",
+        "answer": "荅曰一百一十五步五分步之一",
+        "procedure_id": "九章算術_4_#2",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 2,
+        "id": "九章算術_4_2"
+    },
+    {
+        "question": "今有田廣一步半三分步之一四分步之一五分步之一求田一畝問從幾何",
+        "answer": "荅曰一百五步一百三十七分步之一十五",
+        "procedure_id": "九章算術_4_#3",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 3,
+        "id": "九章算術_4_3"
+    },
+    {
+        "question": "今有田廣一步半三分步之一四分步之一五分步之一六分步之一求田一畝問從幾何",
+        "answer": "荅曰九十七步四十九分步之四十七",
+        "procedure_id": "九章算術_4_#4",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 4,
+        "id": "九章算術_4_4"
+    },
+    {
+        "question": "今有田廣一步半三分步之一四分步之一五分步之一六分步之一七分步之一求田一畝問從幾何",
+        "answer": "荅曰九十二步一百二十一分步之六十八",
+        "procedure_id": "九章算術_4_#5",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 5,
+        "id": "九章算術_4_5"
+    },
+    {
+        "question": "今有田廣一步半三分步之一四分步之一五分步之一六分步之一七分步之一八分步之一求田一畝問從幾何",
+        "answer": "荅曰八十八步七百六十一分步之二百三十二",
+        "procedure_id": "九章算術_4_#6",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 6,
+        "id": "九章算術_4_6"
+    },
+    {
+        "question": "今有田廣一步半三分步之一四分步之一五分步之一六分步之一七分步之一八分步之一九分步之一求田一畝問從幾何",
+        "answer": "荅曰八十四步七千一百二十九分步之五千九百六十四",
+        "procedure_id": "九章算術_4_#7",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 7,
+        "id": "九章算術_4_7"
+    },
+    {
+        "question": "今有田廣一步半三分步之一四分步之一五分步之一六分步之一七分步之一八分步之一九分步之一十分步之一求田一畝問從幾何",
+        "answer": "荅曰八十一步七千三百八十一分步之六千九百三十九",
+        "procedure_id": "九章算術_4_#8",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 8,
+        "id": "九章算術_4_8"
+    },
+    {
+        "question": "今有田廣一步半三分步之一四分步之一五分步之一六分步之一七分步之一八分步之一九分步之一十分步之一十一分步之一求田一畝問從幾何",
+        "answer": "荅曰七十九步八萬三千七百一十一分步之三萬九千六百三十一",
+        "procedure_id": "九章算術_4_#9",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 9,
+        "id": "九章算術_4_9"
+    },
+    {
+        "question": "今有田廣一步半三分步之一四分步之一五分步之一六分步之一七分步之一八分步之一九分步之一十分步之一十一分步之一十二分步之一求田一畝問從幾何",
+        "answer": "荅曰七十七步八萬六千二十一分步之二萬九千一百八十三",
+        "procedure_id": "九章算術_4_#10",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 10,
+        "id": "九章算術_4_10"
+    },
+    {
+        "question": "今有積五萬五千二百二十五步問爲方幾何",
+        "answer": "荅曰二百三十五步",
+        "procedure_id": "九章算術_4_開方",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 11,
+        "id": "九章算術_4_11"
+    },
+    {
+        "question": "又有積二萬五千二百八十一步問爲方幾何",
+        "answer": "荅曰一百五十九步",
+        "procedure_id": "九章算術_4_開方",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 12,
+        "id": "九章算術_4_12"
+    },
+    {
+        "question": "又有積七萬一千八百二十四步問爲方幾何",
+        "answer": "荅曰二百六十八步",
+        "procedure_id": "九章算術_4_開方",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 13,
+        "id": "九章算術_4_13"
+    },
+    {
+        "question": "又有積五十六萬四千七百五十二步四分步之一問爲方幾何",
+        "answer": "荅曰七百五十一步半",
+        "procedure_id": "九章算術_4_開方",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 14,
+        "id": "九章算術_4_14"
+    },
+    {
+        "question": "又有積三十九億七千二百一十五萬六百二十五步問爲方幾何",
+        "answer": "荅曰六萬三千二十五步",
+        "procedure_id": "九章算術_4_開方",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 15,
+        "id": "九章算術_4_15"
+    },
+    {
+        "question": "今有積一千五百一十八步四分步之三問爲圓周幾何",
+        "answer": "荅曰一百三十五步",
+        "procedure_id": "九章算術_4_開圓",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 16,
+        "id": "九章算術_4_16"
+    },
+    {
+        "question": "又有積三百步問爲圓周幾何",
+        "answer": "荅曰六十步",
+        "procedure_id": "九章算術_4_開圓",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 17,
+        "id": "九章算術_4_17"
+    },
+    {
+        "question": "今有積一百八十六萬八百六十七尺問爲立方幾何",
+        "answer": "荅曰一百二十三尺",
+        "procedure_id": "九章算術_4_開立方",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 18,
+        "id": "九章算術_4_18"
+    },
+    {
+        "question": "今有積一千九百五十三尺八分尺之一問爲立方幾何",
+        "answer": "荅曰一十二尺半",
+        "procedure_id": "九章算術_4_開立方",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 19,
+        "id": "九章算術_4_19"
+    },
+    {
+        "question": "今有積六萬三千四百一尺五百一十二分尺之四百四十七問爲立方幾何",
+        "answer": "荅曰三十九尺八分尺之七",
+        "procedure_id": "九章算術_4_開立方",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 20,
+        "id": "九章算術_4_20"
+    },
+    {
+        "question": "又有積一百九十三萬七千五百四十一尺二十七分尺之一十七問爲立方幾何",
+        "answer": "荅曰一百二十四尺太半尺",
+        "procedure_id": "九章算術_4_開立方",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 21,
+        "id": "九章算術_4_21"
+    },
+    {
+        "question": "今有積四千五百尺問爲立圓徑幾何",
+        "answer": "荅曰二十尺",
+        "procedure_id": "九章算術_4_開立圓",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 22,
+        "id": "九章算術_4_22"
+    },
+    {
+        "question": "又有積一萬六千四百四十八億六千六百四十三萬七千五百尺問爲立圓徑幾何",
+        "answer": "荅曰一萬四千三百尺",
+        "procedure_id": "九章算術_4_開立圓",
+        "source_title": "九章算術",
+        "source_juan": 4,
+        "problem_index": 23,
+        "id": "九章算術_4_23"
+    }
+]
