@@ -76,8 +76,14 @@ for f in filenames:
 		for i in quantity_re.finditer(answer):
 			if i.start() != prev_quantity_end:
 				sequence.append(answer[prev_quantity_end:i.start()])
-			sequence.append(parse_quantity(i))
-			sequence[-1][0] = str(sequence[-1][0])
+			q = parse_quantity(i)
+			
+			if len(sequence) > 0 and i.start() == prev_quantity_end and sequence[-1][1] == q[1]:
+				assert(q != "")
+				sequence[-1][0] += q[0]
+			else:
+				sequence.append(q)
+			
 			prev_quantity_end = i.end()
 		
 		if len(sequence) == 0:
@@ -85,6 +91,7 @@ for f in filenames:
 		else:
 			if prev_quantity_end != len(answer):
 				sequence.append(answer[prev_quantity_end:])
+			sequence = [[str(x[0]), x[1]] if isinstance(x, list) else x for x in sequence]
 			problem["answer_structured"] = sequence
 	
 	with open(f, "w") as outfile:
