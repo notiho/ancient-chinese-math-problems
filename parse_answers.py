@@ -9,7 +9,7 @@ number_chars = "一二三四五六七八九十百千萬"
 single_digits = "一二三四五六七八九"
 powers_of_ten = "十百千萬"
 
-units_of_measurement = "寸尺丈步畝里斗升頃畝錢箇兩銖枚返斛石雞鹿人矢日"
+units_of_measurement = "寸尺丈步畝里斗升頃畝錢箇兩銖枚返斛石雞鹿人矢日斤鈞翭匹"
 
 quantity_re = regex.compile(f"(?P<x>[{number_chars}]+)(分(?P<u>[{units_of_measurement}]?)之(?P<y>[{number_chars}]+)|(?P<u>[{units_of_measurement}]?)((?P<h>半|少半|太半)(?P=u)?)?)")
 print(quantity_re.pattern)
