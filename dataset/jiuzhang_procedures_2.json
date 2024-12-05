@@ -165,16 +165,16 @@
         "source_title": "九章算術",
         "source_juan": 2,
         "name": "#18",
-        "text": "術曰以御米求粟五十之二十一而一",
+        "text": "術曰以糳米求粟二十五之十三而一",
         "procedure_index": 18,
         "id": "九章算術_2_#18",
         "type": "grain ratios"
-    },
+    }
     {
         "source_title": "九章算術",
         "source_juan": 2,
         "name": "#19",
-        "text": "術曰以稻求粟五之六而一",
+        "text": "術曰以御米求粟五十之二十一而一",
         "procedure_index": 19,
         "id": "九章算術_2_#19",
         "type": "grain ratios"
@@ -183,7 +183,7 @@
         "source_title": "九章算術",
         "source_juan": 2,
         "name": "#20",
-        "text": "術曰以糲米求粺米九之十而一",
+        "text": "術曰以稻求粟五之六而一",
         "procedure_index": 20,
         "id": "九章算術_2_#20",
         "type": "grain ratios"
@@ -192,7 +192,7 @@
         "source_title": "九章算術",
         "source_juan": 2,
         "name": "#21",
-        "text": "術曰以糲米求糲飯五之二而一",
+        "text": "術曰以糲米求粺米九之十而一",
         "procedure_index": 21,
         "id": "九章算術_2_#21",
         "type": "grain ratios"
@@ -201,7 +201,7 @@
         "source_title": "九章算術",
         "source_juan": 2,
         "name": "#22",
-        "text": "術曰以糲飯求飱六之五而一",
+        "text": "術曰以糲米求糲飯五之二而一",
         "procedure_index": 22,
         "id": "九章算術_2_#22",
         "type": "grain ratios"
@@ -210,7 +210,7 @@
         "source_title": "九章算術",
         "source_juan": 2,
         "name": "#23",
-        "text": "術曰以菽求熟菽二十三之十而一",
+        "text": "術曰以糲飯求飱六之五而一",
         "procedure_index": 23,
         "id": "九章算術_2_#23",
         "type": "grain ratios"
@@ -219,7 +219,7 @@
         "source_title": "九章算術",
         "source_juan": 2,
         "name": "#24",
-        "text": "術曰以菽求䜴七之五而一",
+        "text": "術曰以菽求熟菽二十三之十而一",
         "procedure_index": 24,
         "id": "九章算術_2_#24",
         "type": "grain ratios"
@@ -228,7 +228,7 @@
         "source_title": "九章算術",
         "source_juan": 2,
         "name": "#25",
-        "text": "術曰以麥求小䵂三之十而一",
+        "text": "術曰以菽求䜴七之五而一",
         "procedure_index": 25,
         "id": "九章算術_2_#25",
         "type": "grain ratios"
@@ -237,7 +237,7 @@
         "source_title": "九章算術",
         "source_juan": 2,
         "name": "#26",
-        "text": "術曰以麥求大䵂六之五而一",
+        "text": "術曰以麥求小䵂三之十而一",
         "procedure_index": 26,
         "id": "九章算術_2_#26",
         "type": "grain ratios"
@@ -245,17 +245,17 @@
     {
         "source_title": "九章算術",
         "source_juan": 2,
-        "name": "經率",
-        "text": "經率術曰以所買率爲法所出錢數爲實實如法得一",
+        "name": "#27",
+        "text": "術曰以麥求大䵂六之五而一",
         "procedure_index": 27,
         "id": "九章算術_2_#27",
-        "type": "ratios"
+        "type": "grain ratios"
     },
     {
         "source_title": "九章算術",
         "source_juan": 2,
         "name": "經率",
-        "text": "經率術曰以所求率乘錢數爲實以所買率爲法實如法得一",
+        "text": "經率術曰以所買率爲法所出錢數爲實實如法得一",
         "procedure_index": 28,
         "id": "九章算術_2_#28",
         "type": "ratios"
@@ -263,8 +263,8 @@
     {
         "source_title": "九章算術",
         "source_juan": 2,
-        "name": "其率",
-        "text": "其率術曰各置所買石鈞斤兩以爲法以所率乘錢數爲實實如法而一不滿法者反以實減法法賤實貴",
+        "name": "經率",
+        "text": "經率術曰以所求率乘錢數爲實以所買率爲法實如法得一",
         "procedure_index": 29,
         "id": "九章算術_2_#29",
         "type": "ratios"
@@ -272,10 +272,19 @@
     {
         "source_title": "九章算術",
         "source_juan": 2,
-        "name": "反其率",
-        "text": "反其率術曰以錢數爲法所率爲實實如法而一不滿法者反以實減法法少實多二物各以所得多少之數乘法實卽物數",
+        "name": "其率",
+        "text": "其率術曰各置所買石鈞斤兩以爲法以所率乘錢數爲實實如法而一不滿法者反以實減法法賤實貴",
         "procedure_index": 30,
         "id": "九章算術_2_#30",
+        "type": "ratios"
+    },
+    {
+        "source_title": "九章算術",
+        "source_juan": 2,
+        "name": "反其率",
+        "text": "反其率術曰以錢數爲法所率爲實實如法而一不滿法者反以實減法法少實多二物各以所得多少之數乘法實卽物數",
+        "procedure_index": 31,
+        "id": "九章算術_2_#31",
         "type": "ratios"
     }
 ]
