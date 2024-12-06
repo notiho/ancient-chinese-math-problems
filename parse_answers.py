@@ -15,27 +15,31 @@ quantity_re = regex.compile(f"(?P<x>[{number_chars}]+)(分(?P<u>[{units_of_measu
 print(quantity_re.pattern)
 
 def parse_integer(s):
-	rst = 0
-	prev_power_of_ten = None
-	
-	i = 0
-	while i < len(s):
-		c = s[len(s) - i - 1]
-		if c in single_digits:
-			assert(prev_power_of_ten is None)
-			rst += single_digits.index(c) + 1
-			i += 1
-		else:
-			assert(prev_power_of_ten is None or powers_of_ten.index(prev_power_of_ten) < powers_of_ten.index(c))
-			
-			if i == len(s) - 1 or s[len(s) - i - 2] in powers_of_ten:
-				rst += 10 ** (powers_of_ten.index(c) + 1)
+	if "萬" in s:
+		left, right = s.split("萬")
+		return parse_integer(left) * 10_000 + parse_integer(right)
+	else:
+		rst = 0
+		prev_power_of_ten = None
+		
+		i = 0
+		while i < len(s):
+			c = s[len(s) - i - 1]
+			if c in single_digits:
+				assert(prev_power_of_ten is None)
+				rst += single_digits.index(c) + 1
 				i += 1
 			else:
-				rst += (1 + single_digits.index(s[len(s) - i - 2])) * 10 ** + (powers_of_ten.index(c) + 1)
-				i += 2
-	
-	return rst
+				assert(prev_power_of_ten is None or powers_of_ten.index(prev_power_of_ten) < powers_of_ten.index(c))
+				
+				if i == len(s) - 1 or s[len(s) - i - 2] in powers_of_ten:
+					rst += 10 ** (powers_of_ten.index(c) + 1)
+					i += 1
+				else:
+					rst += (1 + single_digits.index(s[len(s) - i - 2])) * 10 ** + (powers_of_ten.index(c) + 1)
+					i += 2
+		
+		return rst
 
 def parse_quantity(match):
 	x = parse_integer(match.group("x"))

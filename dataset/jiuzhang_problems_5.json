@@ -31,7 +31,7 @@
         "answer_structured": [
             "荅曰",
             [
-                "97680",
+                "1897500",
                 "尺"
             ]
         ]
@@ -163,7 +163,7 @@
         "answer_structured": [
             "荅曰",
             [
-                "75585",
+                "10074585",
                 "尺"
             ],
             [
@@ -175,7 +175,8 @@
     {
         "question": "秋程人功三百尺問用徒幾何",
         "answer": "荅曰三萬三千五百八十一一人功内少一十四尺四寸",
-        "procedure_id": "",
+        "procedure_id": "九章算術_5_#5",
+        "comment": "Procedure is really for the next question.",
         "source_title": "九章算術",
         "source_juan": 5,
         "problem_index": 10,
@@ -264,7 +265,7 @@
         "answer_structured": [
             "荅曰",
             [
-                "35030/3",
+                "305000/3",
                 "尺"
             ]
         ]
