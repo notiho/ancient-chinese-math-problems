@@ -1,0 +1,110 @@
+[
+    {
+        "question": "今有丁二萬三千六百九十二人責兵五千九百二十三人問㡬何丁出一兵",
+        "answer": "答曰四丁出一兵",
+        "procedure_id": "五曹算經_2_#0",
+        "source_title": "五曹算經",
+        "source_juan": 2,
+        "problem_index": 0,
+        "id": "五曹算經_2_0"
+    },
+    {
+        "question": "今有丁八千九百五十八人凡三丁出一兵問出兵㡬何",
+        "answer": "答曰二千九百八十六人",
+        "procedure_id": "五曹算經_2_#1",
+        "source_title": "五曹算經",
+        "source_juan": 2,
+        "problem_index": 1,
+        "id": "五曹算經_2_1"
+    },
+    {
+        "question": "今有兵九百七十人人給米七升問計㡬何",
+        "answer": "答曰六十七斛九斗",
+        "procedure_id": "五曹算經_2_#2",
+        "source_title": "五曹算經",
+        "source_juan": 2,
+        "problem_index": 2,
+        "id": "五曹算經_2_2"
+    },
+    {
+        "question": "今有兵三千八百三十七人人給錢五百五十六文問計㡬何",
+        "answer": "答曰二千一百三十三貫三百七十二文",
+        "procedure_id": "五曹算經_2_#3",
+        "source_title": "五曹算經",
+        "source_juan": 2,
+        "problem_index": 3,
+        "id": "五曹算經_2_3"
+    },
+    {
+        "question": "今有兵三千一百四十八人人給布一丈二尺三寸問計㡬何",
+        "answer": "答曰七百七十四端二丈四寸",
+        "procedure_id": "五曹算經_2_#4",
+        "source_title": "五曹算經",
+        "source_juan": 2,
+        "problem_index": 4,
+        "id": "五曹算經_2_4"
+    },
+    {
+        "question": "今有兵一千三百六十二人人給絹二丈八尺五寸問計㡬何",
+        "answer": "答曰九百七十疋一丈七尺",
+        "procedure_id": "五曹算經_2_#5",
+        "source_title": "五曹算經",
+        "source_juan": 2,
+        "problem_index": 5,
+        "id": "五曹算經_2_5"
+    },
+    {
+        "question": "今有一萬人大將十人裨將二十人隊將一百人散兵九千八百七十人給絹有差大將人給三丈裨將人給二丈隊將人給一丈五尺散兵人給九尺問計㡬何",
+        "answer": "答曰二千二百七十五疋竒三文",
+        "procedure_id": "五曹算經_2_#6",
+        "source_title": "五曹算經",
+        "source_juan": 2,
+        "problem_index": 6,
+        "id": "五曹算經_2_6"
+    },
+    {
+        "question": "今有城周四十八里欲令禦賊每三步置一兵問用兵㡬何",
+        "answer": "答曰四千八百人",
+        "procedure_id": "五曹算經_2_#7",
+        "source_title": "五曹算經",
+        "source_juan": 2,
+        "problem_index": 7,
+        "id": "五曹算經_2_7"
+    },
+    {
+        "question": "今有軍糧米三千二百四十六斛八斗七升每斛直錢四百八十二文問計㡬何",
+        "answer": "答曰一千五百六十四貫九百九十一文三分四氂",
+        "procedure_id": "五曹算經_2_#8",
+        "source_title": "五曹算經",
+        "source_juan": 2,
+        "problem_index": 8,
+        "id": "五曹算經_2_8"
+    },
+    {
+        "question": "今有車二萬三千九百乗欲作方營每乗占地三步問計㡬何",
+        "answer": "答曰七萬一千七百步",
+        "procedure_id": "五曹算經_2_#9",
+        "source_title": "五曹算經",
+        "source_juan": 2,
+        "problem_index": 9,
+        "id": "五曹算經_2_9"
+    },
+    {
+        "question": "今有馬六千二百四十三匹匹給粟五升三合問計㡬何",
+        "answer": "答曰三百三十斛八斗七升九合",
+        "procedure_id": "五曹算經_2_#10",
+        "source_title": "五曹算經",
+        "source_juan": 2,
+        "problem_index": 10,
+        "id": "五曹算經_2_10"
+    },
+    {
+        "question": "今有牛六千五百頭頭給芻七束問計㡬何",
+        "answer": "答曰四萬五千五百束",
+        "procedure_id": "五曹算經_2_#11",
+        "source_title": "五曹算經",
+        "source_juan": 2,
+        "problem_index": 11,
+        "id": "五曹算經_2_11"
+    }
+]

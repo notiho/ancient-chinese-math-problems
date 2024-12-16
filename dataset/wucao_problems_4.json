@@ -1,0 +1,110 @@
+[
+    {
+        "question": "今有二千七百户户責租米一十五斛問計㡬何",
+        "answer": "答曰四萬五百斛",
+        "procedure_id": "五曹算經_4_#0",
+        "source_title": "五曹算經",
+        "source_juan": 4,
+        "problem_index": 0,
+        "id": "五曹算經_4_0"
+    },
+    {
+        "question": "今有官田九百畝凡一步收粟三升二合問計㡬何",
+        "answer": "答曰六千九百一十二斛",
+        "procedure_id": "五曹算經_4_#1",
+        "source_title": "五曹算經",
+        "source_juan": 4,
+        "problem_index": 1,
+        "id": "五曹算經_4_1"
+    },
+    {
+        "question": "今有粟七百斛欲雇車運之每一斛雇七升問車主粟主各㡬何",
+        "answer": "答曰車主四十九斛粟主六百五十一斛",
+        "procedure_id": "五曹算經_4_#2",
+        "source_title": "五曹算經",
+        "source_juan": 4,
+        "problem_index": 2,
+        "id": "五曹算經_4_2"
+    },
+    {
+        "question": "今有粟九百斛斛别加二斗五升問加㡬何",
+        "answer": "答曰二百二十五斛",
+        "procedure_id": "五曹算經_4_#3",
+        "source_title": "五曹算經",
+        "source_juan": 4,
+        "problem_index": 3,
+        "id": "五曹算經_4_3"
+    },
+    {
+        "question": "今有圓囷周三丈髙一丈六尺問受粟㡬何",
+        "answer": "答曰七百四十斛竒一尺二寸",
+        "procedure_id": "五曹算經_4_#4",
+        "source_title": "五曹算經",
+        "source_juan": 4,
+        "problem_index": 4,
+        "id": "五曹算經_4_4"
+    },
+    {
+        "question": "今有方窖從一丈三尺廣六尺深一丈問受粟㡬何",
+        "answer": "答曰四百八十一斛四斗竒七寸八分",
+        "procedure_id": "五曹算經_4_#5",
+        "source_title": "五曹算經",
+        "source_juan": 4,
+        "problem_index": 5,
+        "id": "五曹算經_4_5"
+    },
+    {
+        "question": "今有倉從一丈三尺廣六尺髙一丈中有從牽二枚方五寸從一丈三尺又横牽三枚方四寸從六尺又柱一枚周三尺髙一丈問受粟㡬何",
+        "answer": "答曰四百七十一斛竒一百寸",
+        "procedure_id": "五曹算經_4_#6",
+        "source_title": "五曹算經",
+        "source_juan": 4,
+        "problem_index": 6,
+        "id": "五曹算經_4_6"
+    },
+    {
+        "question": "又有倉從一丈九尺廣一丈五尺髙一丈三尺問受粟㡬何",
+        "answer": "答曰二千二百八十七斛三升竒一分一氂四毫",
+        "procedure_id": "五曹算經_4_#7",
+        "source_title": "五曹算經",
+        "source_juan": 4,
+        "problem_index": 7,
+        "id": "五曹算經_4_7"
+    },
+    {
+        "question": "今有平地聚粟下周三丈髙四尺問粟㡬何",
+        "answer": "答曰六十一斛七斗二升竒一分三氂六毫",
+        "procedure_id": "五曹算經_4_#8",
+        "source_title": "五曹算經",
+        "source_juan": 4,
+        "problem_index": 8,
+        "id": "五曹算經_4_8"
+    },
+    {
+        "question": "今有内角聚粟下周五十四尺髙五尺問粟㡬何",
+        "answer": "答曰一千斛",
+        "procedure_id": "五曹算經_4_#9",
+        "source_title": "五曹算經",
+        "source_juan": 4,
+        "problem_index": 9,
+        "id": "五曹算經_4_9"
+    },
+    {
+        "question": "今有半壁聚粟下周三十六尺髙四尺五寸問粟㡬何",
+        "answer": "答曰二百斛",
+        "procedure_id": "五曹算經_4_#10",
+        "source_title": "五曹算經",
+        "source_juan": 4,
+        "problem_index": 10,
+        "id": "五曹算經_4_10"
+    },
+    {
+        "question": "今有外角聚粟下周四十八尺髙六尺問粟㡬何",
+        "answer": "答曰三百一十六斛竒八分",
+        "procedure_id": "五曹算經_4_#11",
+        "source_title": "五曹算經",
+        "source_juan": 4,
+        "problem_index": 11,
+        "id": "五曹算經_4_11"
+    }
+]

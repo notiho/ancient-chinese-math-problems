@@ -1,0 +1,92 @@
+[
+    {
+        "question": "今有五百六十五户户責絲一斤十一兩八銖問計絲㡬何",
+        "answer": "答曰八石五斤三兩八銖",
+        "procedure_id": "五曹算經_5_#0",
+        "source_title": "五曹算經",
+        "source_juan": 5,
+        "problem_index": 0,
+        "id": "五曹算經_5_0"
+    },
+    {
+        "question": "今有五百六十五户共責絲八石五斤三兩八銖問户出絲㡬何",
+        "answer": "答曰一斤十一兩八銖",
+        "procedure_id": "五曹算經_5_#1",
+        "source_title": "五曹算經",
+        "source_juan": 5,
+        "problem_index": 1,
+        "id": "五曹算經_5_1"
+    },
+    {
+        "question": "今有七百三十八户共請絲二十七斤五兩問户得㡬何",
+        "answer": "答曰一十四銖二絫一黍竒一銖二黍",
+        "procedure_id": "五曹算經_5_#2",
+        "source_title": "五曹算經",
+        "source_juan": 5,
+        "problem_index": 2,
+        "id": "五曹算經_5_2"
+    },
+    {
+        "question": "今有絲一兩直錢五文有絲一百八十八斤一十兩問計直㡬何",
+        "answer": "答曰一十五貫九十文",
+        "procedure_id": "五曹算經_5_#3",
+        "source_title": "五曹算經",
+        "source_juan": 5,
+        "problem_index": 3,
+        "id": "五曹算經_5_3"
+    },
+    {
+        "question": "今有絲九兩得絹一疋有絲三百二十四斤問計得㡬何",
+        "answer": "答曰五百七十六疋",
+        "procedure_id": "五曹算經_5_#4",
+        "source_title": "五曹算經",
+        "source_juan": 5,
+        "problem_index": 4,
+        "id": "五曹算經_5_4"
+    },
+    {
+        "question": "今有生絲一斤為練絲一十二兩有練絲一千五百八十七兩問生絲㡬何",
+        "answer": "答曰二千一百一十六兩",
+        "procedure_id": "五曹算經_5_#5",
+        "source_title": "五曹算經",
+        "source_juan": 5,
+        "problem_index": 5,
+        "id": "五曹算經_5_5"
+    },
+    {
+        "question": "今有貴絲一兩直錢五十六文賤絲一兩直錢四十二文有錢一百三十一貫八百一十文問各得㡬何",
+        "answer": "答曰各二鈞二十四斤一兩",
+        "procedure_id": "五曹算經_5_#6",
+        "source_title": "五曹算經",
+        "source_juan": 5,
+        "problem_index": 6,
+        "id": "五曹算經_5_6"
+    },
+    {
+        "question": "今有錦一疋直錢八貫問一丈一尺一寸各直㡬何",
+        "answer": "答曰一丈二貫文一尺二百文一寸二十文",
+        "procedure_id": "五曹算經_5_#7",
+        "source_title": "五曹算經",
+        "source_juan": 5,
+        "problem_index": 7,
+        "id": "五曹算經_5_7"
+    },
+    {
+        "question": "今有金二斤令九十六人分之問人得㡬何",
+        "answer": "答曰八銖",
+        "procedure_id": "五曹算經_5_#8",
+        "source_title": "五曹算經",
+        "source_juan": 5,
+        "problem_index": 8,
+        "id": "五曹算經_5_8"
+    },
+    {
+        "question": "今有錢二百三十八貫五百七十三文足欲為九十二陌問得㡬何",
+        "answer": "答曰二百五十九貫三百一十八文竒足錢四分四氂",
+        "procedure_id": "五曹算經_5_#9",
+        "source_title": "五曹算經",
+        "source_juan": 5,
+        "problem_index": 9,
+        "id": "五曹算經_5_9"
+    }
+]

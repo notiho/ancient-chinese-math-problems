@@ -1,0 +1,344 @@
+[
+    {
+        "question": "今有甲乙丙丁戊五人共獵獲鹿約以甲六乙五丙四丁三戊二分之今獲鹿五問各得幾何",
+        "answer": "答曰甲得一鹿四分鹿之二乙得一鹿四分鹿之一丙得一鹿丁得四分鹿之三戊得四分鹿之二",
+        "procedure_id": "張邱建算經_3_#0",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 0,
+        "id": "張邱建算經_3_0"
+    },
+    {
+        "question": "今有鹿直西走馬獵追之未及三十六步鹿囘直北走馬俱斜逐之走五十步未及一十步斜直射之得鹿若鹿不迴馬獵追之問幾何里而及之",
+        "answer": "答曰三里",
+        "procedure_id": "張邱建算經_3_#1",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 1,
+        "id": "張邱建算經_3_1"
+    },
+    {
+        "question": "今有垣髙一丈三尺五寸材長二丈二尺五寸倚之於垣末與垣齊問引材却行幾何材末至地",
+        "answer": "答曰四尺五寸",
+        "procedure_id": "張邱建算經_3_#2",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 2,
+        "id": "張邱建算經_3_2"
+    },
+    {
+        "question": "今有倉東西袤一丈二尺南北廣七尺南壁髙九尺北壁髙八尺問受粟幾何",
+        "answer": "答曰得四百四十斛二十七分斛之二十",
+        "procedure_id": "張邱建算經_3_#3",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 3,
+        "id": "張邱建算經_3_3"
+    },
+    {
+        "question": "今有圓圌上周一丈八尺下周二丈七尺高一丈四尺問受幾何",
+        "answer": "答曰三百六十九斛四㪷九分㪷之四",
+        "procedure_id": "張邱建算經_3_#4",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 4,
+        "id": "張邱建算經_3_4"
+    },
+    {
+        "question": "今有窖上廣四尺下廣七尺上袤五尺下袤八尺深一丈問受粟幾何",
+        "answer": "答曰得二百二十五斛三㪷八十一分㪷之七",
+        "procedure_id": "張邱建算經_3_#5",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 5,
+        "id": "張邱建算經_3_5"
+    },
+    {
+        "question": "今有窖上方五尺下方八尺深九尺問受粟幾何",
+        "answer": "答曰二百三十八斛九分斛之八",
+        "procedure_id": "張邱建算經_3_#6",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 6,
+        "id": "張邱建算經_3_6"
+    },
+    {
+        "question": "今有倉東西袤一丈四尺南北廣八尺南壁高一丈受粟六百二十二斛九分斛之二問北壁高幾何",
+        "answer": "答曰八尺",
+        "procedure_id": "張邱建算經_3_#7",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 7,
+        "id": "張邱建算經_3_7"
+    },
+    {
+        "question": "今有圓圌上周一丈五尺高一丈二尺受粟一百六十八斛五㪷二十七分㪷之五問下周幾何",
+        "answer": "答曰一丈八尺",
+        "procedure_id": "張邱建算經_3_#8",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 8,
+        "id": "張邱建算經_3_8"
+    },
+    {
+        "question": "今有窖上方八尺下方一丈二尺受粟九百三十八斛八十一分斛之二十二問深幾何",
+        "answer": "答曰一丈五尺",
+        "procedure_id": "張邱建算經_3_#9",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 9,
+        "id": "張邱建算經_3_9"
+    },
+    {
+        "question": "今有窖上廣五尺上袤八尺下廣七尺深九尺受粟三百一斛八㪷八十一分㪷之四十二問下袤幾何",
+        "answer": "答曰一丈",
+        "procedure_id": "張邱建算經_3_#10",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 10,
+        "id": "張邱建算經_3_10"
+    },
+    {
+        "question": "今有上錦三疋中錦二疋下錦一疋直絹四十五疋上錦二疋中錦三疋下錦一疋直絹四十三疋上錦一疋中錦二疋下錦三疋直絹三十五疋問上中下錦各直絹幾何",
+        "answer": "答曰上錦一疋直絹九疋中錦一疋直絹七疋下錦一疋直絹四疋",
+        "procedure_id": "張邱建算經_3_#11",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 11,
+        "id": "張邱建算經_3_11"
+    },
+    {
+        "question": "今有孟仲季兄弟三人各持絹不知疋數大兄謂二弟曰我得汝等絹各半得滿七十九疋中弟曰我得兄弟絹各半得滿六十八疋小弟曰我得二兄絹各半得滿五十七疋問兄弟本持絹各幾何",
+        "answer": "答曰孟五十六疋仲三十四疋季一十二疋",
+        "procedure_id": "張邱建算經_3_#12",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 12,
+        "id": "張邱建算經_3_12"
+    },
+    {
+        "question": "今有甲乙丙三人持錢不知多少甲言我得乙大半得丙少半可滿一百乙言我得甲大半得丙半可滿一百丙言我得甲乙各大半可滿一百問甲乙丙持錢各幾何",
+        "answer": "答曰甲六十乙四十五丙三十",
+        "procedure_id": "張邱建算經_3_#13",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 13,
+        "id": "張邱建算經_3_13"
+    },
+    {
+        "question": "今有甲乙懷錢各不知其數甲得乙十錢多乙餘錢五倍乙得甲十錢適等問甲乙懷錢各幾何",
+        "answer": "答曰甲三十八錢乙錢十八",
+        "procedure_id": "張邱建算經_3_#14",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 14,
+        "id": "張邱建算經_3_14"
+    },
+    {
+        "question": "今有車五乘行道三十里僱錢一百四十五今有車二十六乘僱錢三千九百五十四四十五分錢之十四問行道幾何",
+        "answer": "答曰一百五十七里少半里",
+        "procedure_id": "張邱建算經_3_#15",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 15,
+        "id": "張邱建算經_3_15"
+    },
+    {
+        "question": "今有惡粟一斛五㪷舂之得糲米七㪷今有惡粟二斛問為粺米幾何",
+        "answer": "答曰八㪷四升",
+        "procedure_id": "張邱建算經_3_#16",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 16,
+        "id": "張邱建算經_3_16"
+    },
+    {
+        "question": "今有好粟五斗舂之得糳米二斗五升今有御米十斗問得好粟幾何",
+        "answer": "答曰二斛二斗八升七分升之四",
+        "procedure_id": "張邱建算經_3_#17",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 17,
+        "id": "張邱建算經_3_17"
+    },
+    {
+        "question": "今有差丁夫五百人合共重車一百一十三乘問各共重幾何",
+        "answer": "答曰六十五乘乘各四人共重四十八乘乘各五人共重",
+        "procedure_id": "張邱建算經_3_#18",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 18,
+        "id": "張邱建算經_3_18"
+    },
+    {
+        "question": "今有甲持錢二十乙持錢五十丙持錢四十丁持錢三十戊持錢六十凡五人合本治生得利二萬五千六百三十五欲以本錢多少分之問各人得幾何",
+        "answer": "答曰甲得二千五百六十三錢四分錢之二乙得六千四百八錢四分錢之三丙得五千一百二十七錢丁得三千八百四十五錢四分錢之一戊得七千六百九十錢四分錢之二",
+        "procedure_id": "張邱建算經_3_#19",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 19,
+        "id": "張邱建算經_3_19"
+    },
+    {
+        "question": "今有甲乙丙三人共出一千八百錢買車一輛欲與親知乘之為親不取還賣得錢一千五百各以本錢多少分之甲得五百八十三錢三分錢之一乙得五百錢丙得四百一十六錢三分錢之二問本出錢各幾何",
+        "answer": "答曰甲出錢七百乙出錢六百丙出錢五百",
+        "procedure_id": "張邱建算經_3_#20",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 20,
+        "id": "張邱建算經_3_20"
+    },
+    {
+        "question": "今有雀一隻重一兩九銖燕一隻重一兩五銖有雀燕二十五隻併重二斤一十三銖問燕雀各幾何",
+        "answer": "答曰雀十四隻燕十一隻",
+        "procedure_id": "張邱建算經_3_#21",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 21,
+        "id": "張邱建算經_3_21"
+    },
+    {
+        "question": "今有七人九日造成弓十二張半今有十七人造弓十五張問幾何日訖",
+        "answer": "答曰四日八十五分日之三十八",
+        "procedure_id": "張邱建算經_3_#22",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 22,
+        "id": "張邱建算經_3_22"
+    },
+    {
+        "question": "今有城周二十里欲三尺安鹿角一枚五重安之問凡用鹿角幾何",
+        "answer": "答曰六萬一百枚城若圓凡用鹿角六萬六十枚",
+        "procedure_id": "張邱建算經_3_#23",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 23,
+        "id": "張邱建算經_3_23"
+    },
+    {
+        "question": "今有粟二百五十斛委注平地下周五大四尺問高幾何",
+        "answer": "答曰五尺",
+        "procedure_id": "張邱建算經_3_#24",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 24,
+        "id": "張邱建算經_3_24"
+    },
+    {
+        "question": "今有客歲作要與粟一百五十斛已與之粟先五十八日歸問折粟與粟各幾何",
+        "answer": "答曰折粟二十四斛五㪷五十九分㪷之四十五與粟一百二十五斛四㪷五十九分㪷之十四",
+        "procedure_id": "張邱建算經_3_#25",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 25,
+        "id": "張邱建算經_3_25"
+    },
+    {
+        "question": "今有廩人人日食米六升今三十五日食米七千四百九十二斛八㪷問人幾何",
+        "answer": "答曰三千五百六十八人",
+        "procedure_id": "張邱建算經_3_#26",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 26,
+        "id": "張邱建算經_3_26"
+    },
+    {
+        "question": "今有五十八人二十九日食麫九十五斛三㪷一升少半升問人食幾何",
+        "answer": "答曰五升太半升",
+        "procedure_id": "張邱建算經_3_#27",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 27,
+        "id": "張邱建算經_3_27"
+    },
+    {
+        "question": "今有二人三日錮銅得一斤九兩五銖今一月日錮銅得九千八百七十六斤五兩四銖少半銖問人功幾何",
+        "answer": "答曰一千二百五十三人三百六十三分人之二百六十二",
+        "procedure_id": "張邱建算經_3_#28",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 28,
+        "id": "張邱建算經_3_28"
+    },
+    {
+        "question": "今有立方九十六尺欲為立圓問徑幾何",
+        "answer": "答曰一百一十六尺四萬三百六十九分尺之一萬一千九百六十八",
+        "procedure_id": "張邱建算經_3_#29",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 29,
+        "id": "張邱建算經_3_29"
+    },
+    {
+        "question": "今有立圓徑一百三十二尺問為立方幾何",
+        "answer": "答曰二百八尺三萬四千九百九十三分尺之三萬四千二十",
+        "procedure_id": "張邱建算經_3_#30",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 30,
+        "id": "張邱建算經_3_30"
+    },
+    {
+        "question": "今有立方材三尺鋸為方枕一百二十五枚問一枚為立方幾何",
+        "answer": "答曰一枚方六寸",
+        "procedure_id": "張邱建算經_3_#31",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 31,
+        "id": "張邱建算經_3_31"
+    },
+    {
+        "question": "今有亭一區五十人七日築訖今有三十人問幾何日築訖",
+        "answer": "答曰十一日三分日之二",
+        "procedure_id": "張邱建算經_3_#32",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 32,
+        "id": "張邱建算經_3_32"
+    },
+    {
+        "question": "今有負他錢轉利償之初去轉利得二倍還錢一百第二轉利得三倍還錢二百第三轉利得四倍還錢三百第四轉利得五倍還錢四百得畢凡轉利倍數皆通本錢今除初本有錢五千九百五十問初本幾何",
+        "answer": "答曰本錢一百五十",
+        "procedure_id": "張邱建算經_3_#33",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 33,
+        "id": "張邱建算經_3_33"
+    },
+    {
+        "question": "今有三人四日客作得麥五斛今有七人一月日客作問得麥幾何",
+        "answer": "答曰八十七斛五㪷",
+        "procedure_id": "張邱建算經_3_#34",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 34,
+        "id": "張邱建算經_3_34"
+    },
+    {
+        "question": "今有人舉取他絹重作劵要過限一日息絹一尺二日息二尺如是息絹日多一尺今過限一百日問息絹幾何",
+        "answer": "答曰一百二十六疋一丈",
+        "procedure_id": "張邱建算經_3_#35",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 35,
+        "id": "張邱建算經_3_35"
+    },
+    {
+        "question": "今有婦人於河上蕩杯津吏問曰杯何以多婦人",
+        "answer": "答曰家中有客不知其數但二人共醬三人共羮四人共飯凡用杯六十五問人幾何答曰六十人",
+        "procedure_id": "張邱建算經_3_#36",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 36,
+        "id": "張邱建算經_3_36"
+    },
+    {
+        "question": "今有雞翁一直錢五雞母一直錢三雞雛三直錢一凡百錢買雞百隻問雞翁母雛各幾何",
+        "answer": "答曰雞翁四直錢二十雞母十八直錢五十四雞雛七十八直錢二十六又答雞翁八直錢四十雞母十一直錢三十三雞雛八十一直錢二十七又答雞翁十二直錢六十雞母四直錢十二雞雛八十四直錢二十八",
+        "procedure_id": "張邱建算經_3_#37",
+        "source_title": "張邱建算經",
+        "source_juan": 3,
+        "problem_index": 37,
+        "id": "張邱建算經_3_37"
+    }
+]

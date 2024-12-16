@@ -1,0 +1,317 @@
+[
+    {
+        "question": "今有甲乙丙丁戊己庚辛壬九家共輸租甲出三十五斛乙出四十六斛丙出五十七斛丁出六十八斛戊出七十九斛己出八十斛庚出一百斛辛出二百一十斛壬出三百二十五斛凡九家共輸租一千斛僦運直折二百斛外問家各幾何",
+        "answer": "答曰甲二十八斛乙三十六斛八斗丙四十五斛六斗丁五十四斛四斗戊六十三斛二斗己六十四斛庚八十斛辛一百六十八斛壬二百六十斛",
+        "procedure_id": "孫子算經_3_#0",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 0,
+        "id": "孫子算經_3_0"
+    },
+    {
+        "question": "今有丁一千五百萬出兵四十萬問幾丁科一兵",
+        "answer": "答曰三十七丁五分",
+        "procedure_id": "孫子算經_3_#1",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 1,
+        "id": "孫子算經_3_1"
+    },
+    {
+        "question": "今有平地聚粟下周三丈六尺高四尺五寸問粟幾何",
+        "answer": "答曰一百斛",
+        "procedure_id": "孫子算經_3_#2",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 2,
+        "id": "孫子算經_3_2"
+    },
+    {
+        "question": "今有佛書凡二十九章章六十三字問字幾何",
+        "answer": "答曰一千八百二十七",
+        "procedure_id": "孫子算經_3_#3",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 3,
+        "id": "孫子算經_3_3"
+    },
+    {
+        "question": "今有棊局方一十九道問用棊幾何",
+        "answer": "答曰三百六十一",
+        "procedure_id": "孫子算經_3_#4",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 4,
+        "id": "孫子算經_3_4"
+    },
+    {
+        "question": "今有租九萬八千七百六十二斛欲以一車載五十斛問用車幾何",
+        "answer": "答曰一千九百七十五乗奇一十二斛",
+        "procedure_id": "孫子算經_3_#5",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 5,
+        "id": "孫子算經_3_5"
+    },
+    {
+        "question": "今有丁九萬八千七百六十六凡二十五丁出一兵問兵幾何",
+        "answer": "答曰三千九百五十人奇一十六丁",
+        "procedure_id": "孫子算經_3_#6",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 6,
+        "id": "孫子算經_3_6"
+    },
+    {
+        "question": "今有絹七萬八千七百三十二匹令一百六十二人分之問人得幾何",
+        "answer": "答曰四百八十六匹",
+        "procedure_id": "孫子算經_3_#7",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 7,
+        "id": "孫子算經_3_7"
+    },
+    {
+        "question": "今有綿九萬一千一百三十五觔給與三萬六千四百五十四户問户得幾何",
+        "answer": "答曰二觔八兩",
+        "procedure_id": "孫子算經_3_#8",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 8,
+        "id": "孫子算經_3_8"
+    },
+    {
+        "question": "今有粟三千九百九十九斛九斗六升凡粟九斗易豆一斛問計豆幾何",
+        "answer": "答曰四千四百四十四斛四斗",
+        "procedure_id": "孫子算經_3_#9",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 9,
+        "id": "孫子算經_3_9"
+    },
+    {
+        "question": "今有粟二千三百七十四斛斛加三升問共粟幾何",
+        "answer": "答曰二千四百四十五斛二斗二升",
+        "procedure_id": "孫子算經_3_#10",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 10,
+        "id": "孫子算經_3_10"
+    },
+    {
+        "question": "今有粟三十六萬九千九百八十斛七斗在倉九年年斛耗三升問一年九年各耗幾何",
+        "answer": "答曰一年耗一萬一千九十九斛四斗二升一合九年耗九萬九千八百九十四斛七斗八升九合",
+        "procedure_id": "孫子算經_3_#11",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 11,
+        "id": "孫子算經_3_11"
+    },
+    {
+        "question": "今有貸與人絲五十七觔限嵗出息一十六觔問觔息幾何",
+        "answer": "答曰四兩五十七分兩之二十八",
+        "procedure_id": "孫子算經_3_#12",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 12,
+        "id": "孫子算經_3_12"
+    },
+    {
+        "question": "今有三人共車二車空二人共車九人步問人與車各幾何",
+        "answer": "答曰一十五車三十九人",
+        "procedure_id": "孫子算經_3_#13",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 13,
+        "id": "孫子算經_3_13"
+    },
+    {
+        "question": "今有粟一十二萬八千九百四十斛九斗三合出與人買絹一匹直粟三斛五斗七升問絹幾何",
+        "answer": "答曰三萬六千一百一十七匹三丈六尺",
+        "procedure_id": "孫子算經_3_#14",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 14,
+        "id": "孫子算經_3_14"
+    },
+    {
+        "question": "今有婦人河上蕩桮津吏問曰桮何以多婦人曰家有客津吏曰客幾何婦人曰二人共飯三人共羮四人共肉凡用桮六十五不知客幾何",
+        "answer": "答曰六十人",
+        "procedure_id": "孫子算經_3_#15",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 15,
+        "id": "孫子算經_3_15"
+    },
+    {
+        "question": "今有木不知長短引繩度之餘繩四尺五寸屈繩量之不足一尺問幾何",
+        "answer": "答曰六尺五寸",
+        "procedure_id": "孫子算經_3_#16",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 16,
+        "id": "孫子算經_3_16"
+    },
+    {
+        "question": "今有器中米不知其數前人取半中人三分取一後人四分取一餘米一斗五升問米幾何",
+        "answer": "答曰六斗",
+        "procedure_id": "孫子算經_3_#17",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 17,
+        "id": "孫子算經_3_17"
+    },
+    {
+        "question": "今有黄金一觔直錢一十萬問兩直幾何",
+        "answer": "答曰六千二百五十錢",
+        "procedure_id": "孫子算經_3_#18",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 18,
+        "id": "孫子算經_3_18"
+    },
+    {
+        "question": "今有錦一匹直錢一萬八千問丈尺寸各直幾何",
+        "answer": "答曰丈四千五百錢尺四百五十錢寸四十五錢",
+        "procedure_id": "孫子算經_3_#19",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 19,
+        "id": "孫子算經_3_19"
+    },
+    {
+        "question": "今有地長一千步廣五百步尺有鶉寸有鷃問鶉鷃各幾何",
+        "answer": "答曰鶉一千八百萬鷃一億八千萬",
+        "procedure_id": "孫子算經_3_#20",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 20,
+        "id": "孫子算經_3_20"
+    },
+    {
+        "question": "今有六萬口上口三萬人日食九升中口二萬人日食七升下口一萬人日食五升問上中下口共食幾何",
+        "answer": "答曰四千六百斛",
+        "procedure_id": "孫子算經_3_#21",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 21,
+        "id": "孫子算經_3_21"
+    },
+    {
+        "question": "今有方物一束外周一市有三十二枚問積幾何",
+        "answer": "答曰八十一枚",
+        "procedure_id": "孫子算經_3_#22",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 22,
+        "id": "孫子算經_3_22"
+    },
+    {
+        "question": "今有竿不知長短度其影得一丈五尺别立一表長一尺五寸影得五寸問竿長幾何",
+        "answer": "答曰四丈五尺",
+        "procedure_id": "孫子算經_3_#23",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 23,
+        "id": "孫子算經_3_23"
+    },
+    {
+        "question": "今有物不知其數三三數之賸二五五數之賸三七七數之賸二問物幾何",
+        "answer": "答曰二十三",
+        "procedure_id": "孫子算經_3_#24",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 24,
+        "id": "孫子算經_3_24"
+    },
+    {
+        "question": "今有獸六首四足禽二首二足上有七十六首下有四十六足問禽獸各幾何",
+        "answer": "答曰八獸七禽",
+        "procedure_id": "孫子算經_3_#25",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 25,
+        "id": "孫子算經_3_25"
+    },
+    {
+        "question": "今有甲乙二人持錢各不知數甲得乙中半可滿四十八乙得甲大半亦滿四十八問甲乙二人元持錢各幾何",
+        "answer": "答曰甲持錢三十六乙持錢二十四",
+        "procedure_id": "孫子算經_3_#26",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 26,
+        "id": "孫子算經_3_26"
+    },
+    {
+        "question": "今有百鹿入城家取一鹿不盡又三家共一鹿適盡問城中家幾何",
+        "answer": "答曰七十五家",
+        "procedure_id": "孫子算經_3_#27",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 27,
+        "id": "孫子算經_3_27"
+    },
+    {
+        "question": "今有三雞共啄粟一千一粒雛啄一母啄二翁啄四主責本粟三雞主各償幾何",
+        "answer": "答曰雞雛主一百四十三雞母主二百八十六雞翁主五百七十二",
+        "procedure_id": "孫子算經_3_#28",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 28,
+        "id": "孫子算經_3_28"
+    },
+    {
+        "question": "今有雉兔同籠上有三十五頭下有九十四足問雉兔各幾何",
+        "answer": "答曰雉二十三兔一十二",
+        "procedure_id": "孫子算經_3_#29",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 29,
+        "id": "孫子算經_3_29"
+    },
+    {
+        "question": "今有九里渠三寸魚頭頭相次問魚得幾何",
+        "answer": "答曰五萬四千",
+        "procedure_id": "孫子算經_3_#30",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 30,
+        "id": "孫子算經_3_30"
+    },
+    {
+        "question": "今有長安洛陽相去九百里車輪一帀一丈八尺欲自洛陽至長安問輪帀幾何",
+        "answer": "答曰九萬帀",
+        "procedure_id": "孫子算經_3_#31",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 31,
+        "id": "孫子算經_3_31"
+    },
+    {
+        "question": "今有出門望見九堤堤有九木木有九枝枝有九巢巢有九禽禽有九雛雛有九毛毛有九色問各幾何",
+        "answer": "答曰木八十一枝七百二十九巢六千五百六十一禽五萬九千四十九雛五十三萬一千四百四十一毛四百七十八萬二千九百六十九色四千三百四萬六千七百二十一",
+        "procedure_id": "孫子算經_3_#32",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 32,
+        "id": "孫子算經_3_32"
+    },
+    {
+        "question": "今有三女長女五日一歸中女四日一歸少女三日一歸問三女幾何日相㑹",
+        "answer": "答曰六十日",
+        "procedure_id": "孫子算經_3_#33",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 33,
+        "id": "孫子算經_3_33"
+    },
+    {
+        "question": "今有孕婦行年二十九嵗難九月未知所生",
+        "answer": "答曰生男",
+        "procedure_id": "孫子算經_3_#34",
+        "source_title": "孫子算經",
+        "source_juan": 3,
+        "problem_index": 34,
+        "id": "孫子算經_3_34"
+    }
+]

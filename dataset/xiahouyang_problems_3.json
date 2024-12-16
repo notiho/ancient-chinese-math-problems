@@ -1,0 +1,398 @@
+[
+    {
+        "question": "今有黄金一斤直絹一千二百匹問毎兩直絹幾何",
+        "answer": "答曰一兩直絹七十五匹",
+        "procedure_id": "夏侯陽算經_3_#0",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 0,
+        "id": "夏侯陽算經_3_0"
+    },
+    {
+        "question": "今有絲一百九十二兩問為銖幾何",
+        "answer": "答曰四千六百八銖",
+        "procedure_id": "夏侯陽算經_3_#1",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 1,
+        "id": "夏侯陽算經_3_1"
+    },
+    {
+        "question": "今有錦一匹直錢十八貫問丈尺寸各得幾何",
+        "answer": "答曰一丈四貫五百文一尺四百五十文一寸四十五文",
+        "procedure_id": "夏侯陽算經_3_#2",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 2,
+        "id": "夏侯陽算經_3_2"
+    },
+    {
+        "question": "今有金一斤直錢一百貫問一兩幾何",
+        "answer": "答曰一兩六貫二百五十文",
+        "procedure_id": "夏侯陽算經_3_#3",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 3,
+        "id": "夏侯陽算經_3_3"
+    },
+    {
+        "question": "今有金一斤令五十人分之問人得幾何",
+        "answer": "答曰人得七銖六絫八黍",
+        "procedure_id": "夏侯陽算經_3_#4",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 4,
+        "id": "夏侯陽算經_3_4"
+    },
+    {
+        "question": "今有絲三百二十四斤欲九兩為絹一匹問絹幾何",
+        "answer": "答曰五百七十六匹",
+        "procedure_id": "夏侯陽算經_3_#5",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 5,
+        "id": "夏侯陽算經_3_5"
+    },
+    {
+        "question": "今有下戸欠錢一百二十三貫五百文準條扵上戸均攤今有上戸見在錢三萬一千二百五十貫文問合毎貫均著幾何",
+        "answer": "答曰毎貫三文九分五氂二毫",
+        "procedure_id": "夏侯陽算經_3_#6",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 6,
+        "id": "夏侯陽算經_3_6"
+    },
+    {
+        "question": "今有錢一十七貫五百二十五文欲五文買雞三隻問得幾何",
+        "answer": "答曰得雞一萬五百一十五隻",
+        "procedure_id": "夏侯陽算經_3_#7",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 7,
+        "id": "夏侯陽算經_3_7"
+    },
+    {
+        "question": "今有錢二貫四百文買錫一斤問兩銖絫各幾何",
+        "answer": "答曰兩一百五十文銖六文二分五氂絫六分二氂五毫",
+        "procedure_id": "夏侯陽算經_3_#8",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 8,
+        "id": "夏侯陽算經_3_8"
+    },
+    {
+        "question": "今有十五家共納兩稅錢一十貫文甲三人人各一貫文乙五人人各七百文丙七人人各五百文續奉符令都卻還七貫三百問隨元納數給付各幾何",
+        "answer": "答曰甲三人各還七百三十文乙五人各還五百一十一文丙七人各還三百六十五文",
+        "procedure_id": "夏侯陽算經_3_#9",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 9,
+        "id": "夏侯陽算經_3_9"
+    },
+    {
+        "question": "今有絹一千二百二十五匹三丈七尺五寸欲送州每匹一十五文充腳竝於身内抽給其絹時估毎匹一貫一百文問正及腳各幾何",
+        "answer": "答曰正一千五百五匹一丈六尺三寸二百二十三分寸之一百五十一腳二十匹二丈一尺一寸二百二十三分寸之七十二",
+        "procedure_id": "夏侯陽算經_3_#10",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 10,
+        "id": "夏侯陽算經_3_10"
+    },
+    {
+        "question": "今有絹一匹當腳一十五文問丈尺寸各幾何",
+        "answer": "答曰丈三文七分五氂尺三分七氂五毫寸三氂七毫五絲",
+        "procedure_id": "夏侯陽算經_3_#11",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 11,
+        "id": "夏侯陽算經_3_11"
+    },
+    {
+        "question": "今有絹一匹直一貫一百文問丈尺寸各幾何",
+        "answer": "答曰丈二百七十五文尺二十七文五分寸二文七分五氂",
+        "procedure_id": "夏侯陽算經_3_#12",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 12,
+        "id": "夏侯陽算經_3_12"
+    },
+    {
+        "question": "今有米二千五百六十七斛五斗其米麤欲再舂毎八升耗一升問合得熟米幾何",
+        "answer": "答曰熟米二千二百四十六斛五斗六升二合五勺",
+        "procedure_id": "夏侯陽算經_3_#13",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 13,
+        "id": "夏侯陽算經_3_13"
+    },
+    {
+        "question": "今有米一千五百三十二斛七斗欲貸與人毎八升加息一升問本息共幾何",
+        "answer": "答曰一千七百二十四斛二斗八升七合五勺",
+        "procedure_id": "夏侯陽算經_3_#14",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 14,
+        "id": "夏侯陽算經_3_14"
+    },
+    {
+        "question": "今有兩稅錢二千貫文欲送州毎貫數内抽一十文充腳問正及腳各幾何",
+        "answer": "答曰正一千九百八十貫一百九十八文一百一分文之二腳一十九貫八百一文一百一分文之九十九",
+        "procedure_id": "夏侯陽算經_3_#15",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 15,
+        "id": "夏侯陽算經_3_15"
+    },
+    {
+        "question": "今有紬五千六百二十五匹匹欲作複七條問合幾何",
+        "answer": "答曰三萬九千三百七十五條",
+        "procedure_id": "夏侯陽算經_3_#16",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 16,
+        "id": "夏侯陽算經_3_16"
+    },
+    {
+        "question": "今有金方一寸重一斤有金方六寸問重幾何",
+        "answer": "答曰二百一十六斤",
+        "procedure_id": "夏侯陽算經_3_#17",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 17,
+        "id": "夏侯陽算經_3_17"
+    },
+    {
+        "question": "今有絹二千四百五十四匹每匹直錢一貫七百文問計錢幾何",
+        "answer": "答曰四千一百七十一貫八百文",
+        "procedure_id": "夏侯陽算經_3_#18",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 18,
+        "id": "夏侯陽算經_3_18"
+    },
+    {
+        "question": "今有布一萬三千四百六十三端二丈五尺六寸毎端直錢一貫八百文問計錢幾何",
+        "answer": "答曰二萬四千二百三十四貫三百二十一文六分",
+        "procedure_id": "夏侯陽算經_3_#19",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 19,
+        "id": "夏侯陽算經_3_19"
+    },
+    {
+        "question": "今有布積尺一萬八千四百六十三尺四寸二分問為端幾何",
+        "answer": "答曰三百六十九端一丈三尺四寸二分",
+        "procedure_id": "夏侯陽算經_3_#20",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 20,
+        "id": "夏侯陽算經_3_20"
+    },
+    {
+        "question": "今有絹三千四百六十三匹一丈三尺四寸毎匹三貫五百文問計錢幾何",
+        "answer": "答曰一萬二千一百二十一貫六百七十二文五分",
+        "procedure_id": "夏侯陽算經_3_#21",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 21,
+        "id": "夏侯陽算經_3_21"
+    },
+    {
+        "question": "今有絹積尺一萬三千四百六十三尺五寸四分問為匹幾何",
+        "answer": "答曰三百三十六匹二丈三尺五寸四分",
+        "procedure_id": "夏侯陽算經_3_#22",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 22,
+        "id": "夏侯陽算經_3_22"
+    },
+    {
+        "question": "今有絲一千五百二十五斤毎兩一百七十文問錢幾何",
+        "answer": "答曰四千一百四十八貫",
+        "procedure_id": "夏侯陽算經_3_#23",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 23,
+        "id": "夏侯陽算經_3_23"
+    },
+    {
+        "question": "今有絲三千四百八十五兩令織紗一匹用絲五兩問得紗幾何",
+        "answer": "答曰六百九十七匹",
+        "procedure_id": "夏侯陽算經_3_#24",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 24,
+        "id": "夏侯陽算經_3_24"
+    },
+    {
+        "question": "今有絲一萬三千四百六十七兩問斤幾何",
+        "answer": "答曰八百四十一斤一十一兩",
+        "procedure_id": "夏侯陽算經_3_#25",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 25,
+        "id": "夏侯陽算經_3_25"
+    },
+    {
+        "question": "今有兩稅錢四萬三千六百七十五貫二百文抽身内充腳每貫二百文問正及腳各幾何",
+        "answer": "答曰正三萬六千三百九十六貫文腳七千二百七十九貫二百文",
+        "procedure_id": "夏侯陽算經_3_#26",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 26,
+        "id": "夏侯陽算經_3_26"
+    },
+    {
+        "question": "今有錢三千四百六十三貫五百文欲毎貫墊四十二文問墊幾何",
+        "answer": "答曰一百四十五貫四百六十七文",
+        "procedure_id": "夏侯陽算經_3_#27",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 27,
+        "id": "夏侯陽算經_3_27"
+    },
+    {
+        "question": "今有絹四十二匹毎匹當錢四貫三百六十六文四分七氂八毫九絲四忽問錢幾何",
+        "answer": "答曰一百八十三貫三百九十二文一分一氂五毫四絲八忽",
+        "procedure_id": "夏侯陽算經_3_#28",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 28,
+        "id": "夏侯陽算經_3_28"
+    },
+    {
+        "question": "今有錢五千四百六十三貫四百五十文準例毎貫納五十文充墊陌問合墊幾何",
+        "answer": "答曰二百七十三貫一百七十二文五分",
+        "procedure_id": "夏侯陽算經_3_#29",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 29,
+        "id": "夏侯陽算經_3_29"
+    },
+    {
+        "question": "今有糯米三千四百六十三斛六斗毎斗醖酒一斗四升問酒幾何",
+        "answer": "答曰四千八百四十九斛四升",
+        "procedure_id": "夏侯陽算經_3_#30",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 30,
+        "id": "夏侯陽算經_3_30"
+    },
+    {
+        "question": "今有大豆一萬三千四百五十四斛五斗毎斗造䜴一斗五升問豉幾何",
+        "answer": "答曰二萬一百八十一斛七斗五升",
+        "procedure_id": "夏侯陽算經_3_#31",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 31,
+        "id": "夏侯陽算經_3_31"
+    },
+    {
+        "question": "今有小麥五萬六千四百七十三斛五斗毎斗造麴五斤問麴幾何",
+        "answer": "答曰二百八十二萬三千六百七十五斤",
+        "procedure_id": "夏侯陽算經_3_#32",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 32,
+        "id": "夏侯陽算經_3_32"
+    },
+    {
+        "question": "今有米一萬三千四百六十四斛五斗毎斗糶錢一百二十文問錢幾何",
+        "answer": "答曰一萬六千一百五十七貫四百文",
+        "procedure_id": "夏侯陽算經_3_#33",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 33,
+        "id": "夏侯陽算經_3_33"
+    },
+    {
+        "question": "今有米一萬三千四百六十五斛四斗三升毎斗糶錢一百三十五文問錢幾何",
+        "answer": "答曰一萬八千一百七十八貫三百三十文五分",
+        "procedure_id": "夏侯陽算經_3_#34",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 34,
+        "id": "夏侯陽算經_3_34"
+    },
+    {
+        "question": "今有糙米八千四百六十七斛五斗毎一斗五升碾熟米八升問米幾何",
+        "answer": "答曰米四千五百一十六斛",
+        "procedure_id": "夏侯陽算經_3_#35",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 35,
+        "id": "夏侯陽算經_3_35"
+    },
+    {
+        "question": "今有米三千四百六十三斛四斗四升七合一勺毎斗身内抽三合充腳問正腳各幾何",
+        "answer": "答曰正三千三百六十二斛五斗七升腳一百斛八斗七升七合一勺",
+        "procedure_id": "夏侯陽算經_3_#36",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 36,
+        "id": "夏侯陽算經_3_36"
+    },
+    {
+        "question": "今有糙米三千四百六十四斛五斗七升三合四勺毎斗舂得熟米九升問熟米幾何",
+        "answer": "答曰三千一百一十八斛一斗一升六合六抄",
+        "procedure_id": "夏侯陽算經_3_#37",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 37,
+        "id": "夏侯陽算經_3_37"
+    },
+    {
+        "question": "今有麻三千四百七十五斛四斗五升毎三斛三斗作油一斛問油幾何",
+        "answer": "答曰一千五十三斛一斗六升三分升之二",
+        "procedure_id": "夏侯陽算經_3_#38",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 38,
+        "id": "夏侯陽算經_3_38"
+    },
+    {
+        "question": "今有米三千四百五十六斛毎斗身内抽二升充腳問正腳各幾何",
+        "answer": "答曰正二千二百八十八斛腳五百七十六斛",
+        "procedure_id": "夏侯陽算經_3_#39",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 39,
+        "id": "夏侯陽算經_3_39"
+    },
+    {
+        "question": "今有兵一萬四千五百七十五人毎人給錢一貫四百四十文問錢幾何",
+        "answer": "答曰二萬九百八十八貫文",
+        "procedure_id": "夏侯陽算經_3_#40",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 40,
+        "id": "夏侯陽算經_3_40"
+    },
+    {
+        "question": "今有兵三千四百八十五人毎人賜絹一丈三尺問絹幾何",
+        "answer": "答曰一千一百三十二匹二丈五尺",
+        "procedure_id": "夏侯陽算經_3_#41",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 41,
+        "id": "夏侯陽算經_3_41"
+    },
+    {
+        "question": "今有開城濠深二丈闊三丈長一里毎三尺用一功問功幾何",
+        "answer": "答曰四萬功",
+        "procedure_id": "夏侯陽算經_3_#42",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 42,
+        "id": "夏侯陽算經_3_42"
+    },
+    {
+        "question": "今有築城髙三丈上闊一丈五尺下闊二丈五尺長一百丈毎方二尺用一功問功幾何",
+        "answer": "答曰七萬五千功",
+        "procedure_id": "夏侯陽算經_3_#43",
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "problem_index": 43,
+        "id": "夏侯陽算經_3_43"
+    }
+]

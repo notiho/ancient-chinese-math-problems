@@ -6,7 +6,7 @@
         "text": "方田術曰廣從步數相乘得積步以畝法二百四十步除之卽畝數百畝爲一頃",
         "procedure_index": 0,
         "id": "九章算術_1_方田",
-        "type": "field size"
+        "type": "field area"
     },
     {
         "source_title": "九章算術",
@@ -15,7 +15,7 @@
         "text": "里田術曰廣從里數相乘得積里以三百七十五乘之卽畝數",
         "procedure_index": 1,
         "id": "九章算術_1_里田",
-        "type": "field size"
+        "type": "field area"
     },
     {
         "source_title": "九章算術",
@@ -96,7 +96,7 @@
         "text": "術曰半廣以乘正從",
         "procedure_index": 10,
         "id": "九章算術_1_#10",
-        "type": "field size"
+        "type": "field area"
     },
     {
         "source_title": "九章算術",
@@ -105,7 +105,7 @@
         "text": "術曰并兩邪而半之以乘正從若廣又可半正從若廣以乘并畝法而一",
         "procedure_index": 11,
         "id": "九章算術_1_#11",
-        "type": "field size"
+        "type": "field area"
     },
     {
         "source_title": "九章算術",
@@ -114,7 +114,7 @@
         "text": "術曰并踵舌而半之以乘正從畝法而一",
         "procedure_index": 12,
         "id": "九章算術_1_#12",
-        "type": "field size"
+        "type": "field area"
     },
     {
         "source_title": "九章算術",
@@ -123,7 +123,7 @@
         "text": "術曰半周半徑相乘得積步",
         "procedure_index": 13,
         "id": "九章算術_1_#13",
-        "type": "field size"
+        "type": "field area"
     },
     {
         "source_title": "九章算術",
@@ -132,7 +132,7 @@
         "text": "術曰以徑乘周四而一",
         "procedure_index": 14,
         "id": "九章算術_1_#14",
-        "type": "field size"
+        "type": "field area"
     },
     {
         "source_title": "九章算術",
@@ -141,7 +141,7 @@
         "text": "術曰以弦乘矢矢又自乘并之二而一",
         "procedure_index": 15,
         "id": "九章算術_1_#15",
-        "type": "field size"
+        "type": "field area"
     },
     {
         "source_title": "九章算術",
@@ -150,6 +150,6 @@
         "text": "術曰并中外周而半之以徑乘之爲積步",
         "procedure_index": 16,
         "id": "九章算術_1_#16",
-        "type": "field size"
+        "type": "field area"
     }
 ]

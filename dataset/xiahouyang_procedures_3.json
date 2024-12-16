@@ -1,0 +1,354 @@
+[
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#0",
+        "text": "術曰置絹數以一十六兩除之即得",
+        "procedure_index": 0,
+        "id": "夏侯陽算經_3_#0"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#1",
+        "text": "術曰置絲數以二十四乗之即得",
+        "procedure_index": 1,
+        "id": "夏侯陽算經_3_#1"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#2",
+        "text": "術曰置錢數以四丈除之得丈價一退為尺價再退為寸價",
+        "procedure_index": 2,
+        "id": "夏侯陽算經_3_#2"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#3",
+        "text": "術曰置錢數以十六兩除之即得",
+        "procedure_index": 3,
+        "id": "夏侯陽算經_3_#3"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#4",
+        "text": "術曰置金一斤二而八之為兩三而八之為銖以人數除之即得",
+        "procedure_index": 4,
+        "id": "夏侯陽算經_3_#4"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#5",
+        "text": "術曰置絲斤數二而八之以九而一即得",
+        "procedure_index": 5,
+        "id": "夏侯陽算經_3_#5"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#6",
+        "text": "術曰置下戸錢數以上戸見在錢除之即得",
+        "procedure_index": 6,
+        "id": "夏侯陽算經_3_#6"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#7",
+        "text": "術曰置錢數以三因之五而一即得",
+        "procedure_index": 7,
+        "id": "夏侯陽算經_3_#7"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#8",
+        "text": "術曰置錢數以十六除之得兩價欲知銖價即置兩價以二十四除為銖價退銖價一等為絫價",
+        "procedure_index": 8,
+        "id": "夏侯陽算經_3_#8"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#9",
+        "text": "術曰置卻還數以百除之所得為毎百還錢之數置百文減之餘為毎百錢在庫之數各置此數以各人所納錢數乗之各得其數",
+        "procedure_index": 9,
+        "id": "夏侯陽算經_3_#9"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#10",
+        "text": "術曰置絹數於丈尺已下折半五因以時估一貫一百文乗得一千六百七十八貫五百三十一文二分五氂復置一貫一百文加一十五文為法除得一千五百五匹不盡四百五十六文二分五氂進位四因之得一萬八千二百五十以下法除之得一丈六尺三寸不盡者與法退位倍之得二百二十三分寸之一百五十一欲知腳價者置元絹數丈尺寸折半五因又以腳錢一十五文乗之得二萬二千八百八十九文六氂二毫半以一貫一百一十五文為法除得二十匹不盡五百八十九文六氂二毫半進位四因之得二萬三千五百六十二文半以下法除之得二丈一尺一寸不盡者如前約之得二百二十三分寸之七十二",
+        "procedure_index": 10,
+        "id": "夏侯陽算經_3_#10"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#11",
+        "text": "術曰置腳價一十五文以四丈除之得一丈腳數退一等得尺再退得寸腳數",
+        "procedure_index": 11,
+        "id": "夏侯陽算經_3_#11"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#12",
+        "text": "術曰置錢數以四丈除之得丈價一退得尺價再退得寸價",
+        "procedure_index": 12,
+        "id": "夏侯陽算經_3_#12"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#13",
+        "text": "術曰置米數以七因八除得數返求米以八因七除",
+        "procedure_index": 13,
+        "id": "夏侯陽算經_3_#13"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#14",
+        "text": "術曰置米數以九因八除之若求元數八因九除之",
+        "procedure_index": 14,
+        "id": "夏侯陽算經_3_#14"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#15",
+        "text": "術曰置錢數下置一貫文又加腳十文為法除之得正數卻減都錢餘即腳錢",
+        "procedure_index": 15,
+        "id": "夏侯陽算經_3_#15"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#16",
+        "text": "術曰置紬數以七因之即得",
+        "procedure_index": 16,
+        "id": "夏侯陽算經_3_#16"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#17",
+        "text": "術曰置金寸數再乗之即得",
+        "procedure_index": 17,
+        "id": "夏侯陽算經_3_#17"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#18",
+        "text": "術曰先置絹數七添之退位一等即得",
+        "procedure_index": 18,
+        "id": "夏侯陽算經_3_#18"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#19",
+        "text": "術曰先置布數丈尺倍之從下八添直至數首退一等即得",
+        "procedure_index": 19,
+        "id": "夏侯陽算經_3_#19"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#20",
+        "text": "術曰先置尺數以五十尺除之即得",
+        "procedure_index": 20,
+        "id": "夏侯陽算經_3_#20"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#21",
+        "text": "術曰先置絹數丈尺已下折半五因以五七因之即得",
+        "procedure_index": 21,
+        "id": "夏侯陽算經_3_#21"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#22",
+        "text": "術曰先置積尺數以匹四十尺為法除之即得",
+        "procedure_index": 22,
+        "id": "夏侯陽算經_3_#22"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#23",
+        "text": "術曰先置絲數以二八因之以兩價乗之即得",
+        "procedure_index": 23,
+        "id": "夏侯陽算經_3_#23"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#24",
+        "text": "術曰先置絲數以二因之退位一等即得",
+        "procedure_index": 24,
+        "id": "夏侯陽算經_3_#24"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#25",
+        "text": "術曰置絲兩數四折半即是斤逢零六添之歸實",
+        "procedure_index": 25,
+        "id": "夏侯陽算經_3_#25"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#26",
+        "text": "術曰先置原錢折半六除是正錢數将正錢二因即得腳",
+        "procedure_index": 26,
+        "id": "夏侯陽算經_3_#26"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#27",
+        "text": "術曰先置錢數以六七因之退位即得",
+        "procedure_index": 27,
+        "id": "夏侯陽算經_3_#27"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#28",
+        "text": "術曰先置絹匹之價以七六因之即得",
+        "procedure_index": 28,
+        "id": "夏侯陽算經_3_#28"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#29",
+        "text": "術曰先置錢折半退位即得",
+        "procedure_index": 29,
+        "id": "夏侯陽算經_3_#29"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#30",
+        "text": "術曰先置米數以二七因之即得",
+        "procedure_index": 30,
+        "id": "夏侯陽算經_3_#30"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#31",
+        "text": "術曰先置豆數以五添之即得",
+        "procedure_index": 31,
+        "id": "夏侯陽算經_3_#31"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#32",
+        "text": "術曰先置麥數從下五因之即得",
+        "procedure_index": 32,
+        "id": "夏侯陽算經_3_#32"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#33",
+        "text": "術曰先置米數二六因之即得",
+        "procedure_index": 33,
+        "id": "夏侯陽算經_3_#33"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#34",
+        "text": "術曰先置米數三九因之折半即得",
+        "procedure_index": 34,
+        "id": "夏侯陽算經_3_#34"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#35",
+        "text": "術曰先置糙米數以八因之十五升除之即得",
+        "procedure_index": 35,
+        "id": "夏侯陽算經_3_#35"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#36",
+        "text": "術曰先置米數以一斗三合除之得正米以三因之得腳米",
+        "procedure_index": 36,
+        "id": "夏侯陽算經_3_#36"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#37",
+        "text": "術曰先置米數九因退之即得",
+        "procedure_index": 37,
+        "id": "夏侯陽算經_3_#37"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#38",
+        "text": "術曰以三斛三斗除得油數不盡約之為命分",
+        "procedure_index": 38,
+        "id": "夏侯陽算經_3_#38"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#39",
+        "text": "術曰先置米數去二得正米以二因退位得腳米",
+        "procedure_index": 39,
+        "id": "夏侯陽算經_3_#39"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#40",
+        "text": "術曰先置人數添四四即得",
+        "procedure_index": 40,
+        "id": "夏侯陽算經_3_#40"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#41",
+        "text": "術曰先置人數添三得丈數以四為法除之得匹",
+        "procedure_index": 41,
+        "id": "夏侯陽算經_3_#41"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#42",
+        "text": "術曰先置深闊相乗又以長里通尺乗之為實以功數方三尺再自乗為法除之即得",
+        "procedure_index": 42,
+        "id": "夏侯陽算經_3_#42"
+    },
+    {
+        "source_title": "夏侯陽算經",
+        "source_juan": 3,
+        "name": "#43",
+        "text": "術曰先置上下闊并之折半以髙乗之又以長乗之為",
+        "procedure_index": 43,
+        "id": "夏侯陽算經_3_#43"
+    }
+]
