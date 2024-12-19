@@ -100,7 +100,7 @@ for f in filenames:
 				fractions_without_units.append(q)
 			
 			# Add fractional value of same unit as previous item to that item
-			if len(sequence) > 0 and i.start() == prev_quantity_end and q[1] != "" and sequence[-1][1] == q[1]:
+			if len(sequence) > 0 and i.start() == prev_quantity_end and sequence[-1][1] == q[1]:
 				sequence[-1][0] += q[0]
 			else:
 				sequence.append(q)
