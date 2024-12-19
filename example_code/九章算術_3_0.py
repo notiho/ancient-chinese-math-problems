@@ -16,4 +16,3 @@
 
 # 實如法得一鹿
 a, b, c, d, e = [Fraction(i, 法) for i in 實]
-

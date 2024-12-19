@@ -7,6 +7,7 @@
         "source_juan": 2,
         "problem_index": 0,
         "id": "孫子算經_2_0",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "答曰",
             [
@@ -28,6 +29,7 @@
         "source_juan": 2,
         "problem_index": 1,
         "id": "孫子算經_2_1",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "答曰",
             [
@@ -49,6 +51,7 @@
         "source_juan": 2,
         "problem_index": 2,
         "id": "孫子算經_2_2",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "答曰",
             [
@@ -70,6 +73,7 @@
         "source_juan": 2,
         "problem_index": 3,
         "id": "孫子算經_2_3",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "答曰減",
             [

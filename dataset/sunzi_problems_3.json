@@ -764,21 +764,5 @@
                 "日"
             ]
         ]
-    },
-    {
-        "question": "今有孕婦行年二十九嵗難九月未知所生",
-        "answer": "答曰生男",
-        "answer_structured_manual": [
-            "答曰生",
-            [
-                "男",
-                ""
-            ]
-        ],
-        "procedure_id": "孫子算經_3_#34",
-        "source_title": "孫子算經",
-        "source_juan": 3,
-        "problem_index": 34,
-        "id": "孫子算經_3_34"
     }
 ]

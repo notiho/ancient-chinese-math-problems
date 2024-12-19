@@ -79,6 +79,7 @@
         "source_juan": 1,
         "problem_index": 4,
         "id": "九章算術_1_4",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "荅曰",
             [
@@ -100,6 +101,7 @@
         "source_juan": 1,
         "problem_index": 5,
         "id": "九章算術_1_5",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "荅曰",
             [
@@ -121,6 +123,7 @@
         "source_juan": 1,
         "problem_index": 6,
         "id": "九章算術_1_6",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "荅曰",
             [
@@ -142,15 +145,16 @@
         "source_juan": 1,
         "problem_index": 7,
         "id": "九章算術_1_7",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "荅曰得",
             [
-                "32",
+                "63",
                 ""
             ],
             "分之",
             [
-                "25",
+                "113",
                 ""
             ]
         ]
@@ -163,15 +167,16 @@
         "source_juan": 1,
         "problem_index": 8,
         "id": "九章算術_1_8",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "荅曰得",
             [
-                "62",
+                "60",
                 ""
             ],
             "分之",
             [
-                "43",
+                "163",
                 ""
             ]
         ]
@@ -184,6 +189,7 @@
         "source_juan": 1,
         "problem_index": 9,
         "id": "九章算術_1_9",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "荅曰",
             [
@@ -205,6 +211,7 @@
         "source_juan": 1,
         "problem_index": 10,
         "id": "九章算術_1_10",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "荅曰",
             [
@@ -257,6 +264,7 @@
         "source_juan": 1,
         "problem_index": 12,
         "id": "九章算術_1_12",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "荅曰",
             [
@@ -288,6 +296,7 @@
         "source_juan": 1,
         "problem_index": 13,
         "id": "九章算術_1_13",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "荅曰",
             [
@@ -319,6 +328,7 @@
         "source_juan": 1,
         "problem_index": 14,
         "id": "九章算術_1_14",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "荅曰減",
             [
@@ -379,6 +389,7 @@
         "source_juan": 1,
         "problem_index": 15,
         "id": "九章算術_1_15",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "荅曰減",
             [
