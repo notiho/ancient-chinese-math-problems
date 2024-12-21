@@ -14,7 +14,7 @@ for filename in filenames:
 	
 	problem_id = Path(filename).stem
 	
-	passed_check, message = check_script_against_answer(script_source, problems_by_id[problem_id]["answer_structured"])
+	passed_check, message = check_script_against_answer(script_source, problems_by_id[problem_id])
 	
 	if not passed_check:
 		print(f"Script for {problem_id} failed:")

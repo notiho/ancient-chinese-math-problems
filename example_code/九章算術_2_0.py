@@ -2,6 +2,15 @@
 #術曰以粟求糲米三之五而一
 #荅曰爲糲米 a升
 
+"""
+Suppose there is one dou of unhusked millet. It is desired to turn it into roughly husked millet.
+Question: how much does one obtain?
+
+The procedure says: when seeking roughly husked millet with husked millet, multiply by 3 and divide by 5.
+
+The answer says: *a* sheng of roughly unhusked millet.
+"""
+
 # 粟一斗
 粟 = 1
 

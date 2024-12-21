@@ -233,6 +233,7 @@
         "source_juan": 1,
         "problem_index": 11,
         "id": "九章算術_1_11",
+        "basic_fraction": true,
         "answer_structured_manual": [
             "荅曰",
             [

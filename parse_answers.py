@@ -3,15 +3,24 @@ import glob
 import regex
 from fractions import Fraction
 
+from utils import *
+
 filenames = glob.glob("dataset/*_problems_*.json")
 
 single_digits = "一二三四五六七八九"
-powers_of_ten = "十百千萬"
+powers_of_ten = "十百千萬億"
+power_of_ten_chars_to_exponent = {
+	"十": 1,
+	"百": 2,
+	"千": 3,
+	"萬": 4,
+	"億": 8
+}
 digit_chars = single_digits + powers_of_ten
 
-integer_re = f"(?=[{digit_chars}]+)(([{single_digits}]?千)?([{single_digits}]?百)?([{single_digits}]?十)?[{single_digits}]?萬)?([{single_digits}]?千)?([{single_digits}]?百)?([{single_digits}]?十)?[{single_digits}]?"
+integer_re = f"(?=[{digit_chars}]+)(([{single_digits}]?千)?([{single_digits}]?百)?([{single_digits}]?十)?[{single_digits}]?億)?(([{single_digits}]?千)?([{single_digits}]?百)?([{single_digits}]?十)?[{single_digits}]?萬)?([{single_digits}]?千)?([{single_digits}]?百)?([{single_digits}]?十)?[{single_digits}]?"
 
-units_of_measurement = "寸尺丈步歩頃畝畆里斗升頃畝錢箇兩銖枚返斛石雞鹿人矢日月斤鈞翭匹度乘疋周盤㪷文貫端合勺隻顆戸家秉束分氂毫絲忽觔功領抄撮帀枝磚黍"
+units_of_measurement = "寸尺丈步歩頃畝畆里斗升頃畝錢箇兩銖枚返斛石雞鹿人矢日月年斤鈞翭匹度乘疋周盤㪷文貫端合勺隻顆戸家秉束分氂毫絲忽觔功領抄撮帀枝磚黍"
 
 quantity_re = regex.compile(f"(?P<x>{integer_re})(分(?P<u>[{units_of_measurement}]?)之(?P<y>{integer_re})|(?P<u>[{units_of_measurement}]?)((?P<h>半|少半|[大太]半)(?P=u)?)?)")
 print(quantity_re.pattern)
@@ -37,10 +46,10 @@ def parse_integer(s):
 				prev_power_of_ten = c
 				
 				if i == len(s) - 1 or s[len(s) - i - 2] in powers_of_ten:
-					rst += 10 ** (powers_of_ten.index(c) + 1)
+					rst += 10 ** power_of_ten_chars_to_exponent[c]
 					i += 1
 				else:
-					rst += (1 + single_digits.index(s[len(s) - i - 2])) * 10 ** + (powers_of_ten.index(c) + 1)
+					rst += (1 + single_digits.index(s[len(s) - i - 2])) * 10 ** + power_of_ten_chars_to_exponent[c]
 					i += 2
 		
 		return rst
@@ -69,6 +78,8 @@ def parse_quantity(match):
 
 max_slots = 0
 
+chains_of_units = []
+
 for f in filenames:
 	with open(f) as infile:
 		try:
@@ -90,23 +101,35 @@ for f in filenames:
 		
 		fractions_without_units = []
 		
+		chain_of_units = []
+		
 		for i in quantity_re.finditer(answer):
 			num_slots += 1
+			q = parse_quantity(i)
+			
 			if i.start() != prev_quantity_end:
 				sequence.append(answer[prev_quantity_end:i.start()])
-			q = parse_quantity(i)
+				chains_of_units.append(chain_of_units)
+				chain_of_units = []
 			
 			if q[0].denominator != 1 and q[1] == "":
 				fractions_without_units.append(q)
 			
-			# Add fractional value of same unit as previous item to that item
-			if len(sequence) > 0 and i.start() == prev_quantity_end and sequence[-1][1] == q[1]:
+			if len(sequence) > 0 and i.start() == prev_quantity_end and sequence[-1][1] == q[1] and q[0].denominator != 1:
+				# Add fractional value of same unit as previous item to that item
 				sequence[-1][0] += q[0]
+			elif len(sequence) > 0 and i.start() == prev_quantity_end and try_convert_smaller_into_larger_unit(q[0], q[1], sequence[-1][1]) is not None:
+				# Add smaller unit to preceding larger unit
+				sequence[-1][0] += try_convert_smaller_into_larger_unit(q[0], q[1], sequence[-1][1])
 			else:
 				sequence.append(q)
+				if q[1] in chain_of_units:
+					print(answer, chain_of_units)
+				chain_of_units.append(q[1])
 			
 			prev_quantity_end = i.end()
 		
+		chains_of_units.append(chain_of_units)
 		max_slots = max(max_slots, num_slots)
 		
 		if len(fractions_without_units) > 0:
@@ -122,5 +145,7 @@ for f in filenames:
 	
 	with open(f, "w") as outfile:
 		json.dump(data, outfile, ensure_ascii = False, indent = 4)
+
+print("\n".join(" ".join(j) for j in set(tuple(i) for i in chains_of_units if len(i) > 2)))
 
 print(f"Max slots: {max_slots}")
