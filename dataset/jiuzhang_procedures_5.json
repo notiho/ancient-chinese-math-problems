@@ -6,7 +6,8 @@
         "text": "術曰穿地四爲壤五爲堅三爲墟四以穿地求壤五之求堅三之皆四而一以壤求穿四之求堅三之皆五而一以堅求穿四之求壤五之皆三而一",
         "procedure_index": 0,
         "id": "九章算術_5_#0",
-        "type": "earthwork conversion"
+        "type": "earthwork conversion",
+        "text_punctuated": "術曰：穿地四，為壤五，為堅三，為墟四。以穿地求壤，五之；求堅，三之，皆四而一。以壤求穿，四之；求堅，三之，皆五而一。以堅求穿，四之；求壤，五之，皆三而一。"
     },
     {
         "source_title": "九章算術",
@@ -15,7 +16,8 @@
         "text": "城垣隄溝壍渠皆同術術曰并上下廣而半之以高若深乘之又以袤乘之卽積尺",
         "procedure_index": 1,
         "id": "九章算術_5_#1",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "城、垣、隄、溝、壍、渠，皆同術。術曰：并上下廣而半之，以高若深乘之，又以袤乘之，即積尺。"
     },
     {
         "source_title": "九章算術",
@@ -24,7 +26,8 @@
         "text": "術曰以積尺爲實程功尺數爲法實如法而一卽用徒人數",
         "procedure_index": 2,
         "id": "九章算術_5_#2",
-        "type": "earthwork manpower"
+        "type": "earthwork manpower",
+        "text_punctuated": "術曰：以積尺為實，程功尺數為法，實如法而一，即用徒人數。"
     },
     {
         "source_title": "九章算術",
@@ -33,7 +36,8 @@
         "text": "術曰置本人功去其五分之一餘爲法以溝積尺爲實實如法而一得用徒人數",
         "procedure_index": 3,
         "id": "九章算術_5_#3",
-        "type": "earthwork manpower"
+        "type": "earthwork manpower",
+        "text_punctuated": "術曰：置本人功，去其五分之一，餘為法。以溝積尺為實。實如法而一，得用徒人數。"
     },
     {
         "source_title": "九章算術",
@@ -42,7 +46,8 @@
         "text": "術曰置本人功去其出土功五分之一又去沙礫水石之功太半餘爲法以壍積尺爲實實如法而一卽用徒人數",
         "procedure_index": 4,
         "id": "九章算術_5_#4",
-        "type": "earthwork manpower"
+        "type": "earthwork manpower",
+        "text_punctuated": "術曰：置本人功，去其出土功五分之一，又去沙礫水石之功太半，餘為法。以塹積尺為實。實如法而一，即用徒人數。"
     },
     {
         "source_title": "九章算術",
@@ -51,7 +56,8 @@
         "text": "術曰以一人功尺數乘先到人數爲實并渠上下廣而半之以深乘之爲法實如法得袤尺",
         "procedure_index": 5,
         "id": "九章算術_5_#5",
-        "type": "earthwork manpower"
+        "type": "earthwork manpower",
+        "text_punctuated": "術曰：以一人功尺數，乘先到人數為實。并渠上下廣而半之，以深乘之為法。實如法得袤尺。"
     },
     {
         "source_title": "九章算術",
@@ -60,7 +66,8 @@
         "text": "術曰方自乘以高乘之卽積尺",
         "procedure_index": 6,
         "id": "九章算術_5_#6",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "術曰：方自乘，以高乘之，即積尺。"
     },
     {
         "source_title": "九章算術",
@@ -69,7 +76,8 @@
         "text": "術曰周自相乘以高乘之十二而一",
         "procedure_index": 7,
         "id": "九章算術_5_#7",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "術曰：周自相乘，以高乘之，十二而一。"
     },
     {
         "source_title": "九章算術",
@@ -78,7 +86,8 @@
         "text": "術曰上下方相乘又各自乘并之以高乘之三而一",
         "procedure_index": 8,
         "id": "九章算術_5_#8",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "術曰：上下方相乘，又各自乘，并之，以高乘之，三而一。"
     },
     {
         "source_title": "九章算術",
@@ -87,7 +96,8 @@
         "text": "術曰上下周相乘又各自乘并之以高乘之三十六而一",
         "procedure_index": 9,
         "id": "九章算術_5_#9",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "術曰：上、下周相乘，又各自乘，并之，以高乘之，三十六而一。"
     },
     {
         "source_title": "九章算術",
@@ -96,7 +106,8 @@
         "text": "術曰下方自乘以高乘之三而一",
         "procedure_index": 10,
         "id": "九章算術_5_#10",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "術曰：下方自乘，以高乘之，三而一。"
     },
     {
         "source_title": "九章算術",
@@ -105,7 +116,8 @@
         "text": "術曰下周自乘以高乘之三十六而一",
         "procedure_index": 11,
         "id": "九章算術_5_#11",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "術曰：下周自乘，以高乘之，三十六而一。"
     },
     {
         "source_title": "九章算術",
@@ -114,7 +126,8 @@
         "text": "術曰廣袤相乘以高乘之二而一",
         "procedure_index": 12,
         "id": "九章算術_5_#12",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "術曰：廣袤相乘，以高乘之，二而一。"
     },
     {
         "source_title": "九章算術",
@@ -123,7 +136,8 @@
         "text": "術曰廣袤相乘以高乘之三而一",
         "procedure_index": 13,
         "id": "九章算術_5_#13",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "術曰：廣袤相乘，以高乘之，三而一。"
     },
     {
         "source_title": "九章算術",
@@ -132,7 +146,8 @@
         "text": "術曰廣袤相乘以高乘之六而一",
         "procedure_index": 14,
         "id": "九章算術_5_#14",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "術曰：廣袤相乘，以高乘之，六而一。"
     },
     {
         "source_title": "九章算術",
@@ -141,7 +156,8 @@
         "text": "術曰并三廣以深乘之又以袤乘之六而一",
         "procedure_index": 15,
         "id": "九章算術_5_#15",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "術曰：并三廣，以深乘之，又以袤乘之，六而一。"
     },
     {
         "source_title": "九章算術",
@@ -150,7 +166,8 @@
         "text": "術曰倍下袤上袤從之以廣乘之又以高乘之六而一",
         "procedure_index": 16,
         "id": "九章算術_5_#16",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "術曰：倍下袤，上袤從之，以廣乘之，又以高乘之，六而一。"
     },
     {
         "source_title": "九章算術",
@@ -159,7 +176,8 @@
         "text": "芻童曲池盤池冥谷皆同術術曰倍上袤下袤從之亦倍下袤上袤從之各以其廣乘之并以高若深乘之皆六而一其曲池者并上中外周而半之以爲上袤亦并下中外周而半之以爲下袤",
         "procedure_index": 17,
         "id": "九章算術_5_#17",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "芻童、曲池、盤池、冥谷，皆同術。術曰：倍上袤，下袤從之，亦倍下袤，上袤從之，各以其廣乘之，并，以高若深乘之，皆六而一。其曲池者，并上中、外周而半之，以為上袤；亦并下中、外周而半之，以為下袤。"
     },
     {
         "source_title": "九章算術",
@@ -168,7 +186,8 @@
         "text": "術曰以一籠積尺乘程行步數爲實往來上下棚除二當平道五置定往來步數十加一及載輸之間三十步以爲法除之所得卽一人所到尺以所到約積尺卽用徒人數",
         "procedure_index": 18,
         "id": "九章算術_5_#18",
-        "type": "earthwork manpower"
+        "type": "earthwork manpower",
+        "text_punctuated": "術曰：以一籠積尺乘程行步數為實。往來上下，棚除二當平道五。置定往來步數，十加一，及載輸之間三十步以為法。除之，所得即一人所到尺。以所到約積尺，即用徒人數。"
     },
     {
         "source_title": "九章算術",
@@ -177,7 +196,8 @@
         "text": "術曰以一車積尺乘程行步數爲實置今往來步數加載輸之間一里以車六人乘之爲法除之所得卽一人所到尺以所到約積尺卽用徒人數",
         "procedure_index": 19,
         "id": "九章算術_5_#19",
-        "type": "earthwork manpower"
+        "type": "earthwork manpower",
+        "text_punctuated": "術曰：以一車積尺乘程行步數為實。置今往來步數，加載輸之間一里，以車六人乘之，為法。除之，所得即一人所到尺。以所到約積尺，即用徒人數。"
     },
     {
         "source_title": "九章算術",
@@ -186,7 +206,8 @@
         "text": "委粟術曰下周自乘以高乘之三十六而一其依垣者十八而一其依垣内角者九而一程粟一斛積二尺七寸其米一斛積一尺六寸五分寸之一其菽荅麻麥一斛皆二尺四寸十分寸之三",
         "procedure_index": 20,
         "id": "九章算術_5_委粟",
-        "type": "volume of grain"
+        "type": "volume of grain",
+        "text_punctuated": "委粟術曰：下周自乘，以高乘之，三十六而一。其依垣者，十八而一。其依垣內角者，九而一。程粟一斛，積二尺七寸。其米一斛，積一尺六寸、五分寸之一。其菽、答、麻、麥一斛，皆二尺四寸、十分寸之三。"
     },
     {
         "source_title": "九章算術",
@@ -195,7 +216,8 @@
         "text": "術曰置垣積尺四之爲實以深袤相乘又以三之爲法所得倍之減上廣餘卽下廣",
         "procedure_index": 21,
         "id": "九章算術_5_#21",
-        "type": "volume"
+        "type": "volume",
+        "text_punctuated": "術曰：置垣積尺，四之為實。以深、袤相乘，又三之，為法。所得倍之，減上廣，餘即下廣。"
     },
     {
         "source_title": "九章算術",
@@ -204,7 +226,8 @@
         "text": "術曰置粟一萬斛積尺爲實廣袤相乘爲法實如法而一得高尺",
         "procedure_index": 22,
         "id": "九章算術_5_#22",
-        "type": "volume of grain"
+        "type": "volume of grain",
+        "text_punctuated": "術曰：置粟一萬斛積尺為實。廣袤相乘為法。實如法而一，得高尺。"
     },
     {
         "source_title": "九章算術",
@@ -213,6 +236,7 @@
         "text": "術曰置米積尺以十二乘之令高而一所得開方除之卽周",
         "procedure_index": 23,
         "id": "九章算術_5_#23",
-        "type": "volume of grain"
+        "type": "volume of grain",
+        "text_punctuated": "術曰：置米積尺，以十二乘之，令高而一，所得，開方除之，即周。"
     }
 ]

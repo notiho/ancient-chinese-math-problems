@@ -146,6 +146,6 @@ for f in filenames:
 	with open(f, "w") as outfile:
 		json.dump(data, outfile, ensure_ascii = False, indent = 4)
 
-print("\n".join(" ".join(j) for j in set(tuple(i) for i in chains_of_units if len(i) > 2)))
+print("\n".join(" ".join(j) for j in set(tuple(i) for i in chains_of_units if len(i) > 1)))
 
 print(f"Max slots: {max_slots}")
