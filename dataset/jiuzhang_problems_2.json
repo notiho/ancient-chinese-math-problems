@@ -1,7 +1,7 @@
 [
     {
-        "question": "今有粟一斗欲爲糲米問得幾何",
-        "answer": "荅曰爲糲米六升",
+        "question": "今有粟一斗欲為糲米問得幾何",
+        "answer": "荅曰為糲米六升",
         "procedure_id": "九章算術_2_#0",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -18,8 +18,8 @@
         "answer_puncuated": "荅曰：為糲米六升。"
     },
     {
-        "question": "今有粟二斗一升欲爲粺米問得幾何",
-        "answer": "荅曰爲粺米一斗一升五十分升之十七",
+        "question": "今有粟二斗一升欲為粺米問得幾何",
+        "answer": "荅曰為粺米一斗一升五十分升之十七",
         "procedure_id": "九章算術_2_#1",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -36,8 +36,8 @@
         "answer_puncuated": "荅曰：為粺米一斗一升、五十分升之十七。"
     },
     {
-        "question": "今有粟四斗五升欲爲糳米問得幾何",
-        "answer": "荅曰爲糳米二斗一升五分升之三",
+        "question": "今有粟四斗五升欲為鑿米問得幾何",
+        "answer": "荅曰為鑿米二斗一升五分升之三",
         "procedure_id": "九章算術_2_#2",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -54,8 +54,8 @@
         "answer_puncuated": "荅曰：為鑿米二斗一升、五分升之三。"
     },
     {
-        "question": "今有粟七斗九升欲爲御米問得幾何",
-        "answer": "荅曰爲御米三斗三升五十分升之九",
+        "question": "今有粟七斗九升欲為御米問得幾何",
+        "answer": "荅曰為御米三斗三升五十分升之九",
         "procedure_id": "九章算術_2_#3",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -72,8 +72,8 @@
         "answer_puncuated": "荅曰：為御米三斗三升、五十分升之九。"
     },
     {
-        "question": "今有粟一斗欲爲小䵂問得幾何",
-        "answer": "荅曰爲小䵂二升一十分升之七",
+        "question": "今有粟一斗欲為小䵂問得幾何",
+        "answer": "荅曰為小䵂二升一十分升之七",
         "procedure_id": "九章算術_2_#4",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -90,8 +90,8 @@
         "answer_puncuated": "荅曰：為小䵂二升、一十分升之七。"
     },
     {
-        "question": "今有粟九斗八升欲爲大䵂問得幾何",
-        "answer": "荅曰爲大䵂一十斗五升二十五分升之二十一",
+        "question": "今有粟九斗八升欲為大䵂問得幾何",
+        "answer": "荅曰為大䵂一十斗五升二十五分升之二十一",
         "procedure_id": "九章算術_2_#5",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -108,8 +108,8 @@
         "answer_puncuated": "荅曰：為大䵂一十斗五升、二十五分升之二十一。"
     },
     {
-        "question": "今有粟二斗三升欲爲糲飯問得幾何",
-        "answer": "荅曰爲糲飯三斗四升半",
+        "question": "今有粟二斗三升欲為糲飯問得幾何",
+        "answer": "荅曰為糲飯三斗四升半",
         "procedure_id": "九章算術_2_#6",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -126,8 +126,8 @@
         "answer_puncuated": "荅曰：為糲飯三斗四升半。"
     },
     {
-        "question": "今有粟三斗六升欲爲粺飯問得幾何",
-        "answer": "荅曰爲粺飯三斗八升二十五分升之二十二",
+        "question": "今有粟三斗六升欲為粺飯問得幾何",
+        "answer": "荅曰為粺飯三斗八升二十五分升之二十二",
         "procedure_id": "九章算術_2_#7",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -144,8 +144,8 @@
         "answer_puncuated": "荅曰：為粺飯三斗八升、二十五分升之二十二。"
     },
     {
-        "question": "今有粟八斗六升欲爲糳飯問得幾何",
-        "answer": "荅曰爲糳飯八斗二升二十五分升之一十四",
+        "question": "今有粟八斗六升欲為鑿飯問得幾何",
+        "answer": "荅曰為鑿飯八斗二升二十五分升之一十四",
         "procedure_id": "九章算術_2_#8",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -162,8 +162,8 @@
         "answer_puncuated": "荅曰：為鑿飯八斗二升、二十五分升之一十四。"
     },
     {
-        "question": "今有粟九斗八升欲爲御飯問得幾何",
-        "answer": "荅曰爲御飯八斗二升二十五分升之八",
+        "question": "今有粟九斗八升欲為御飯問得幾何",
+        "answer": "荅曰為御飯八斗二升二十五分升之八",
         "procedure_id": "九章算術_2_#9",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -180,8 +180,8 @@
         "answer_puncuated": "荅曰：為御飯八斗二升、二十五分升之八。"
     },
     {
-        "question": "今有粟三斗少半升欲爲菽問得幾何",
-        "answer": "荅曰爲菽二斗七升一十分升之三",
+        "question": "今有粟三斗少半升欲為菽問得幾何",
+        "answer": "荅曰為菽二斗七升一十分升之三",
         "procedure_id": "九章算術_2_#10",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -198,8 +198,8 @@
         "answer_puncuated": "荅曰：為菽二斗七升、一十分升之三。"
     },
     {
-        "question": "今有粟四斗一升太半升欲爲荅問得幾何",
-        "answer": "荅曰爲荅三斗七升半",
+        "question": "今有粟四斗一升太半升欲為答問得幾何",
+        "answer": "荅曰為答三斗七升半",
         "procedure_id": "九章算術_2_#10",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -216,8 +216,8 @@
         "answer_puncuated": "荅曰：為答三斗七升半。"
     },
     {
-        "question": "今有粟五斗太半升欲爲麻問得幾何",
-        "answer": "荅曰爲麻四斗五升五分升之三",
+        "question": "今有粟五斗太半升欲為麻問得幾何",
+        "answer": "荅曰為麻四斗五升五分升之三",
         "procedure_id": "九章算術_2_#10",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -234,8 +234,8 @@
         "answer_puncuated": "荅曰：為麻四斗五升、五分升之三。"
     },
     {
-        "question": "今有粟一十斗八升五分升之二欲爲麥問得幾何",
-        "answer": "荅曰爲麥九斗七升二十五分升之一十四",
+        "question": "今有粟一十斗八升五分升之二欲為麥問得幾何",
+        "answer": "荅曰為麥九斗七升二十五分升之一十四",
         "procedure_id": "九章算術_2_#10",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -252,8 +252,8 @@
         "answer_puncuated": "荅曰：為麥九斗七升、二十五分升之一十四。"
     },
     {
-        "question": "今有粟七斗五升七分升之四欲爲稻問得幾何",
-        "answer": "荅曰爲稻九斗三十五分升之二十四",
+        "question": "今有粟七斗五升七分升之四欲為稻問得幾何",
+        "answer": "荅曰為稻九斗三十五分升之二十四",
         "procedure_id": "九章算術_2_#11",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -270,8 +270,8 @@
         "answer_puncuated": "荅曰：為稻九斗、三十五分升之二十四。"
     },
     {
-        "question": "今有粟七斗八升欲爲䜴問得幾何",
-        "answer": "荅曰爲䜴九斗八升二十五分升之七",
+        "question": "今有粟七斗八升欲為豉問得幾何",
+        "answer": "荅曰為豉九斗八升二十五分升之七",
         "procedure_id": "九章算術_2_#12",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -288,8 +288,8 @@
         "answer_puncuated": "荅曰：為豉九斗八升、二十五分升之七。"
     },
     {
-        "question": "今有粟五斗五升欲爲飱問得幾何",
-        "answer": "荅曰爲飱九斗九升",
+        "question": "今有粟五斗五升欲為飧問得幾何",
+        "answer": "荅曰為飧九斗九升",
         "procedure_id": "九章算術_2_#13",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -306,8 +306,8 @@
         "answer_puncuated": "荅曰：為飧九斗九升。"
     },
     {
-        "question": "今有粟四斗欲爲熟菽問得幾何",
-        "answer": "荅曰爲熟菽八斗二升五分升之四",
+        "question": "今有粟四斗欲為熟菽問得幾何",
+        "answer": "荅曰為熟菽八斗二升五分升之四",
         "procedure_id": "九章算術_2_#14",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -324,8 +324,8 @@
         "answer_puncuated": "荅曰：為熟菽八斗二升、五分升之四。"
     },
     {
-        "question": "今有粟二斗欲爲糵問得幾何",
-        "answer": "荅曰爲糵七斗",
+        "question": "今有粟二斗欲為櫱問得幾何",
+        "answer": "荅曰為櫱七斗",
         "procedure_id": "九章算術_2_#15",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -342,8 +342,8 @@
         "answer_puncuated": "荅曰：為櫱七斗。"
     },
     {
-        "question": "今有糲米十五斗五升五分升之二欲爲粟問得幾何",
-        "answer": "荅曰爲粟二十五斗九升",
+        "question": "今有糲米十五斗五升五分升之二欲為粟問得幾何",
+        "answer": "荅曰為粟二十五斗九升",
         "procedure_id": "九章算術_2_#16",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -360,8 +360,8 @@
         "answer_puncuated": "荅曰：為粟二十五斗九升。"
     },
     {
-        "question": "今有粺米二斗欲爲粟問得幾何",
-        "answer": "荅曰爲粟三斗七升二十七分升之一",
+        "question": "今有粺米二斗欲為粟問得幾何",
+        "answer": "荅曰為粟三斗七升二十七分升之一",
         "procedure_id": "九章算術_2_#17",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -378,8 +378,8 @@
         "answer_puncuated": "荅曰：為粟三斗七升、二十七分升之一。"
     },
     {
-        "question": "今有糳米三斗少半升欲爲粟問得幾何",
-        "answer": "荅曰爲粟六斗三升三十六分升之七",
+        "question": "今有鑿米三斗少半升欲為粟問得幾何",
+        "answer": "荅曰為粟六斗三升三十六分升之七",
         "procedure_id": "九章算術_2_#18",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -396,8 +396,8 @@
         "answer_puncuated": "荅曰：為粟六斗三升、三十六分升之七。"
     },
     {
-        "question": "今有御米十四斗欲爲粟問得幾何",
-        "answer": "荅曰爲粟三十三斗三升少半升",
+        "question": "今有御米十四斗欲為粟問得幾何",
+        "answer": "荅曰為粟三十三斗三升少半升",
         "procedure_id": "九章算術_2_#19",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -414,8 +414,8 @@
         "answer_puncuated": "荅曰：為粟三十三斗三升、少半升。"
     },
     {
-        "question": "今有稻一十二斗六升一十五分升之一十四欲爲粟問得幾何",
-        "answer": "荅曰爲粟一十斗五升九分升之七",
+        "question": "今有稻一十二斗六升一十五分升之一十四欲為粟問得幾何",
+        "answer": "荅曰為粟一十斗五升九分升之七",
         "procedure_id": "九章算術_2_#20",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -432,8 +432,8 @@
         "answer_puncuated": "荅曰：為粟一十斗五升、九分升之七。"
     },
     {
-        "question": "今有糲米一十九斗二升七分升之一欲爲粺米問得幾何",
-        "answer": "荅曰爲粺米一十七斗二升一十四分升之一十三",
+        "question": "今有糲米一十九斗二升七分升之一欲為粺米問得幾何",
+        "answer": "荅曰為粺米一十七斗二升一十四分升之一十三",
         "procedure_id": "九章算術_2_#21",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -450,8 +450,8 @@
         "answer_puncuated": "荅曰：為粺米一十七斗二升、一十四分升之一十三。"
     },
     {
-        "question": "今有糲米六斗四升五分升之三欲爲糲飯問得幾何",
-        "answer": "荅曰爲糲飯一十六斗一升半",
+        "question": "今有糲米六斗四升五分升之三欲為糲飯問得幾何",
+        "answer": "荅曰為糲飯一十六斗一升半",
         "procedure_id": "九章算術_2_#22",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -468,8 +468,8 @@
         "answer_puncuated": "荅曰：為糲飯一十六斗一升半。"
     },
     {
-        "question": "今有糲飯七斗六升七分升之四欲爲飱問得幾何",
-        "answer": "荅曰爲飱九斗一升三十五分升之三十一",
+        "question": "今有糲飯七斗六升七分升之四欲為飧問得幾何",
+        "answer": "荅曰為飧九斗一升三十五分升之三十一",
         "procedure_id": "九章算術_2_#23",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -486,8 +486,8 @@
         "answer_puncuated": "荅曰：為飧九斗一升、三十五分升之三十一。"
     },
     {
-        "question": "今有菽一斗欲爲熟菽問得幾何",
-        "answer": "荅曰爲熟菽二斗三升",
+        "question": "今有菽一斗欲為熟菽問得幾何",
+        "answer": "荅曰為熟菽二斗三升",
         "procedure_id": "九章算術_2_#24",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -504,8 +504,8 @@
         "answer_puncuated": "荅曰：為熟菽二斗三升。"
     },
     {
-        "question": "今有菽二斗欲爲䜴問得幾何",
-        "answer": "荅曰爲䜴二斗八升",
+        "question": "今有菽二斗欲為豉問得幾何",
+        "answer": "荅曰為豉二斗八升",
         "procedure_id": "九章算術_2_#25",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -522,8 +522,8 @@
         "answer_puncuated": "荅曰：為豉二斗八升。"
     },
     {
-        "question": "今有麥八斗六升七分升之三欲爲小䵂問得幾何",
-        "answer": "荅曰爲小䵂二斗五升一十四分升之一十三",
+        "question": "今有麥八斗六升七分升之三欲為小䵂問得幾何",
+        "answer": "荅曰為小䵂二斗五升一十四分升之一十三",
         "procedure_id": "九章算術_2_#26",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -540,8 +540,8 @@
         "answer_puncuated": "荅曰：為小䵂二斗五升、一十四分升之一十三。"
     },
     {
-        "question": "今有麥一斗欲爲大䵂問得幾何",
-        "answer": "荅曰爲大䵂一斗二升",
+        "question": "今有麥一斗欲為大䵂問得幾何",
+        "answer": "荅曰為大䵂一斗二升",
         "procedure_id": "九章算術_2_#27",
         "source_title": "九章算術",
         "source_juan": 2,
@@ -889,7 +889,7 @@
         "answer_puncuated": "荅曰：其一鈞二十斤六兩十一銖，五銖一錢。其一石一鈞七斤一十二兩一十八銖，六銖一錢。"
     },
     {
-        "question": "今有出錢六百二十買羽二千一百翭欲其貴賤率之問各幾何",
+        "question": "今有出錢六百一十買羽二千一百翭欲其貴賤率之問各幾何",
         "answer": "荅曰其一千一百四十翭三翭一錢其九百六十翭四翭一錢",
         "procedure_id": "九章算術_2_#31",
         "source_title": "九章算術",

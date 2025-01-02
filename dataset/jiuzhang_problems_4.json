@@ -198,7 +198,7 @@
         "answer_puncuated": "荅曰：七十七步、八萬六千二十一分步之二萬九千一百八十三。"
     },
     {
-        "question": "今有積五萬五千二百二十五步問爲方幾何",
+        "question": "今有積五萬五千二百二十五步問為方幾何",
         "answer": "荅曰二百三十五步",
         "procedure_id": "九章算術_4_開方",
         "source_title": "九章算術",
@@ -216,7 +216,7 @@
         "answer_puncuated": "荅曰：二百三十五步。"
     },
     {
-        "question": "又有積二萬五千二百八十一步問爲方幾何",
+        "question": "又有積二萬五千二百八十一步問為方幾何",
         "answer": "荅曰一百五十九步",
         "procedure_id": "九章算術_4_開方",
         "source_title": "九章算術",
@@ -234,7 +234,7 @@
         "answer_puncuated": "荅曰：一百五十九步。"
     },
     {
-        "question": "又有積七萬一千八百二十四步問爲方幾何",
+        "question": "又有積七萬一千八百二十四步問為方幾何",
         "answer": "荅曰二百六十八步",
         "procedure_id": "九章算術_4_開方",
         "source_title": "九章算術",
@@ -252,7 +252,7 @@
         "answer_puncuated": "荅曰：二百六十八步。"
     },
     {
-        "question": "又有積五十六萬四千七百五十二步四分步之一問爲方幾何",
+        "question": "又有積五十六萬四千七百五十二步四分步之一問為方幾何",
         "answer": "荅曰七百五十一步半",
         "procedure_id": "九章算術_4_開方",
         "source_title": "九章算術",
@@ -270,7 +270,7 @@
         "answer_puncuated": "荅曰：七百五十一步半。"
     },
     {
-        "question": "又有積三十九億七千二百一十五萬六百二十五步問爲方幾何",
+        "question": "又有積三十九億七千二百一十五萬六百二十五步問為方幾何",
         "answer": "荅曰六萬三千二十五步",
         "procedure_id": "九章算術_4_開方",
         "source_title": "九章算術",
@@ -288,7 +288,7 @@
         "answer_puncuated": "荅曰：六萬三千二十五步。"
     },
     {
-        "question": "今有積一千五百一十八步四分步之三問爲圓周幾何",
+        "question": "今有積一千五百一十八步四分步之三問為圓周幾何",
         "answer": "荅曰一百三十五步",
         "procedure_id": "九章算術_4_開圓",
         "source_title": "九章算術",
@@ -306,7 +306,7 @@
         "answer_puncuated": "荅曰：一百三十五步。"
     },
     {
-        "question": "又有積三百步問爲圓周幾何",
+        "question": "今有積三百步問為圓周幾何",
         "answer": "荅曰六十步",
         "procedure_id": "九章算術_4_開圓",
         "source_title": "九章算術",
@@ -324,7 +324,7 @@
         "answer_puncuated": "荅曰：六十步。"
     },
     {
-        "question": "今有積一百八十六萬八百六十七尺問爲立方幾何",
+        "question": "今有積一百八十六萬八百六十七尺問為立方幾何",
         "answer": "荅曰一百二十三尺",
         "procedure_id": "九章算術_4_開立方",
         "source_title": "九章算術",
@@ -342,7 +342,7 @@
         "answer_puncuated": "荅曰：一百二十三尺。"
     },
     {
-        "question": "今有積一千九百五十三尺八分尺之一問爲立方幾何",
+        "question": "今有積一千九百五十三尺八分尺之一問為立方幾何",
         "answer": "荅曰一十二尺半",
         "procedure_id": "九章算術_4_開立方",
         "source_title": "九章算術",
@@ -360,7 +360,7 @@
         "answer_puncuated": "荅曰：一十二尺半。"
     },
     {
-        "question": "今有積六萬三千四百一尺五百一十二分尺之四百四十七問爲立方幾何",
+        "question": "今有積六萬三千四百一尺五百一十二分尺之四百四十七問為立方幾何",
         "answer": "荅曰三十九尺八分尺之七",
         "procedure_id": "九章算術_4_開立方",
         "source_title": "九章算術",
@@ -378,7 +378,7 @@
         "answer_puncuated": "荅曰：三十九尺、八分尺之七。"
     },
     {
-        "question": "又有積一百九十三萬七千五百四十一尺二十七分尺之一十七問爲立方幾何",
+        "question": "又有積一百九十三萬七千五百四十一尺二十七分尺之一十七問為立方幾何",
         "answer": "荅曰一百二十四尺太半尺",
         "procedure_id": "九章算術_4_開立方",
         "source_title": "九章算術",
@@ -396,7 +396,7 @@
         "answer_puncuated": "荅曰：一百二十四尺、太半尺。"
     },
     {
-        "question": "今有積四千五百尺問爲立圓徑幾何",
+        "question": "今有積四千五百尺問為立圓徑幾何",
         "answer": "荅曰二十尺",
         "procedure_id": "九章算術_4_開立圓",
         "source_title": "九章算術",
@@ -414,7 +414,7 @@
         "answer_puncuated": "荅曰：二十尺。"
     },
     {
-        "question": "又有積一萬六千四百四十八億六千六百四十三萬七千五百尺問爲立圓徑幾何",
+        "question": "又有積一萬六千四百四十八億六千六百四十三萬七千五百尺問為立圓徑幾何",
         "answer": "荅曰一萬四千三百尺",
         "procedure_id": "九章算術_4_開立圓",
         "source_title": "九章算術",
