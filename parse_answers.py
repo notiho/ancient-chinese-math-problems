@@ -91,7 +91,8 @@ for f in filenames:
 		if "answer_structured_manual" in problem:
 			continue
 		
-		answer = problem["answer"]
+		answer = problem["answer_punctuated"] if "answer_punctuated" in problem else problem["answer"]
+		answer = answer.replace("、", "")
 		
 		prev_quantity_end = 0
 		

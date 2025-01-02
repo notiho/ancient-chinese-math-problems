@@ -8,14 +8,17 @@
         "problem_index": 0,
         "id": "九章算術_1_0",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "1",
                 "畝"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "今有田廣十五步，從十六步。問：為田幾何？",
-        "answer_puncuated": "荅曰：一畝。"
+        "answer_puncuated": "荅曰：一畝。",
+        "question_punctuated": "今有田廣十五步，從十六步。問：為田幾何？",
+        "answer_punctuated": "荅曰：一畝。"
     },
     {
         "question": "又有田廣十二步從十四步問為田幾何",
@@ -26,14 +29,17 @@
         "problem_index": 1,
         "id": "九章算術_1_1",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "168",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有田廣十二步，從十四步。問：為田幾何？",
-        "answer_puncuated": "荅曰：一百六十八步。"
+        "answer_puncuated": "荅曰：一百六十八步。",
+        "question_punctuated": "又有田廣十二步，從十四步。問：為田幾何？",
+        "answer_punctuated": "荅曰：一百六十八步。"
     },
     {
         "question": "今有田廣一里從一里問為田幾何",
@@ -44,14 +50,17 @@
         "problem_index": 2,
         "id": "九章算術_1_2",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "15/4",
                 "頃"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "今有田廣一里，從一里。問：為田幾何？",
-        "answer_puncuated": "荅曰：三頃七十五畝。"
+        "answer_puncuated": "荅曰：三頃七十五畝。",
+        "question_punctuated": "今有田廣一里，從一里。問：為田幾何？",
+        "answer_punctuated": "荅曰：三頃七十五畝。"
     },
     {
         "question": "又有田廣二里從三里問為田幾何",
@@ -62,14 +71,17 @@
         "problem_index": 3,
         "id": "九章算術_1_3",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "45/2",
                 "頃"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有田廣二里，從三里。問：為田幾何？",
-        "answer_puncuated": "荅曰：二十二頃五十畝。"
+        "answer_puncuated": "荅曰：二十二頃五十畝。",
+        "question_punctuated": "又有田廣二里，從三里。問：為田幾何？",
+        "answer_punctuated": "荅曰：二十二頃五十畝。"
     },
     {
         "question": "今有十八分之十二問約之得幾何",
@@ -93,7 +105,9 @@
             ]
         ],
         "question_puncuated": "今有十八分之十二。問：約之得幾何？",
-        "answer_puncuated": "荅曰：三分之二。"
+        "answer_puncuated": "荅曰：三分之二。",
+        "question_punctuated": "今有十八分之十二。問：約之得幾何？",
+        "answer_punctuated": "荅曰：三分之二。"
     },
     {
         "question": "又有九十一分之四十九問約之得幾何",
@@ -117,7 +131,9 @@
             ]
         ],
         "question_puncuated": "又有九十一分之四十九。問：約之得幾何？",
-        "answer_puncuated": "荅曰：十三分之七。"
+        "answer_puncuated": "荅曰：十三分之七。",
+        "question_punctuated": "又有九十一分之四十九。問：約之得幾何？",
+        "answer_punctuated": "荅曰：十三分之七。"
     },
     {
         "question": "今有三分之一五分之二問合之得幾何",
@@ -141,7 +157,9 @@
             ]
         ],
         "question_puncuated": "今有三分之一，五分之二。問：合之得幾何？",
-        "answer_puncuated": "荅曰：十五分之十一。"
+        "answer_puncuated": "荅曰：十五分之十一。",
+        "question_punctuated": "今有三分之一，五分之二。問：合之得幾何？",
+        "answer_punctuated": "荅曰：十五分之十一。"
     },
     {
         "question": "又有三分之二七分之四九分之五問合之得幾何",
@@ -165,7 +183,9 @@
             ]
         ],
         "question_puncuated": "又有三分之二，七分之四，九分之五。問：合之得幾何？",
-        "answer_puncuated": "荅曰：得一、六十三分之五十。"
+        "answer_puncuated": "荅曰：得一、六十三分之五十。",
+        "question_punctuated": "又有三分之二，七分之四，九分之五。問：合之得幾何？",
+        "answer_punctuated": "荅曰：得一、六十三分之五十。"
     },
     {
         "question": "又有二分之一三分之二四分之三五分之四問合之得幾何",
@@ -189,7 +209,9 @@
             ]
         ],
         "question_puncuated": "又有二分之一，三分之二，四分之三，五分之四。問：合之得幾何？",
-        "answer_puncuated": "荅曰：得二、六十分之四十三。"
+        "answer_puncuated": "荅曰：得二、六十分之四十三。",
+        "question_punctuated": "又有二分之一，三分之二，四分之三，五分之四。問：合之得幾何？",
+        "answer_punctuated": "荅曰：得二、六十分之四十三。"
     },
     {
         "question": "今有九分之八減其五分之一問餘幾何",
@@ -213,7 +235,9 @@
             ]
         ],
         "question_puncuated": "今有九分之八，減其五分之一。問：餘幾何？",
-        "answer_puncuated": "荅曰：四十五分之三十一。"
+        "answer_puncuated": "荅曰：四十五分之三十一。",
+        "question_punctuated": "今有九分之八，減其五分之一。問：餘幾何？",
+        "answer_punctuated": "荅曰：四十五分之三十一。"
     },
     {
         "question": "又有四分之三減其三分之一問餘幾何",
@@ -237,7 +261,9 @@
             ]
         ],
         "question_puncuated": "又有四分之三，減其三分之一。問：餘幾何？",
-        "answer_puncuated": "荅曰：十二分之五。"
+        "answer_puncuated": "荅曰：十二分之五。",
+        "question_punctuated": "又有四分之三，減其三分之一。問：餘幾何？",
+        "answer_punctuated": "荅曰：十二分之五。"
     },
     {
         "question": "今有八分之五二十五分之十六問孰多多幾何",
@@ -271,7 +297,9 @@
             ]
         ],
         "question_puncuated": "今有八分之五，二十五分之十六。問：孰多？多幾何？",
-        "answer_puncuated": "荅曰：二十五分之十六多，多二百分之三。"
+        "answer_puncuated": "荅曰：二十五分之十六多，多二百分之三。",
+        "question_punctuated": "今有八分之五，二十五分之十六。問：孰多？多幾何？",
+        "answer_punctuated": "荅曰：二十五分之十六多，多二百分之三。"
     },
     {
         "question": "又有九分之八七分之六問孰多多幾何",
@@ -305,7 +333,9 @@
             ]
         ],
         "question_puncuated": "又有九分之八，七分之六。問：孰多？多幾何？",
-        "answer_puncuated": "荅曰：九分之八多，多六十三分之二。"
+        "answer_puncuated": "荅曰：九分之八多，多六十三分之二。",
+        "question_punctuated": "又有九分之八，七分之六。問：孰多？多幾何？",
+        "answer_punctuated": "荅曰：九分之八多，多六十三分之二。"
     },
     {
         "question": "又有二十一分之八五十分之十七問孰多多幾何",
@@ -339,7 +369,9 @@
             ]
         ],
         "question_puncuated": "又有二十一分之八，五十分之十七。問：孰多？多幾何？",
-        "answer_puncuated": "荅曰：二十一分之八多，多一千五十分之四十三。"
+        "answer_puncuated": "荅曰：二十一分之八多，多一千五十分之四十三。",
+        "question_punctuated": "又有二十一分之八，五十分之十七。問：孰多？多幾何？",
+        "answer_punctuated": "荅曰：二十一分之八多，多一千五十分之四十三。"
     },
     {
         "question": "今有三分之一三分之二四分之三問減多益少各幾何而平",
@@ -402,7 +434,9 @@
             ]
         ],
         "question_puncuated": "今有三分之一，三分之二，四分之三。問：減多益少，各幾何而平？",
-        "answer_puncuated": "荅曰：減四分之三者二，三分之二者一，并，以益三分之一，而各平於十二分之七。"
+        "answer_puncuated": "荅曰：減四分之三者二，三分之二者一，并，以益三分之一，而各平於十二分之七。",
+        "question_punctuated": "今有三分之一，三分之二，四分之三。問：減多益少，各幾何而平？",
+        "answer_punctuated": "荅曰：減四分之三者二，三分之二者一，并，以益三分之一，而各平於十二分之七。"
     },
     {
         "question": "又有二分之一三分之二四分之三問減多益少各幾何而平",
@@ -465,7 +499,9 @@
             ]
         ],
         "question_puncuated": "又有二分之一，三分之二，四分之三。問：減多益少，各幾何而平？",
-        "answer_puncuated": "荅曰：減三分之二者一，四分之三者四，并以益二分之一，而各平於三十六分之二十三。"
+        "answer_puncuated": "荅曰：減三分之二者一，四分之三者四，并以益二分之一，而各平於三十六分之二十三。",
+        "question_punctuated": "又有二分之一，三分之二，四分之三。問：減多益少，各幾何而平？",
+        "answer_punctuated": "荅曰：減三分之二者一，四分之三者四，并以益二分之一，而各平於三十六分之二十三。"
     },
     {
         "question": "今有七人分八錢三分錢之一問人得幾何",
@@ -476,14 +512,17 @@
         "problem_index": 16,
         "id": "九章算術_1_16",
         "answer_structured": [
-            "荅曰人得",
+            "荅曰：人得",
             [
                 "25/21",
                 "錢"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "今有七人，分八錢三分錢之一。問：人得幾何？",
-        "answer_puncuated": "荅曰：人得一錢、二十一分錢之四。"
+        "answer_puncuated": "荅曰：人得一錢、二十一分錢之四。",
+        "question_punctuated": "今有七人，分八錢三分錢之一。問：人得幾何？",
+        "answer_punctuated": "荅曰：人得一錢、二十一分錢之四。"
     },
     {
         "question": "又有三人三分人之一分六錢三分錢之一四分錢之三問人得幾何",
@@ -494,14 +533,17 @@
         "problem_index": 17,
         "id": "九章算術_1_17",
         "answer_structured": [
-            "荅曰人得",
+            "荅曰：人得",
             [
                 "17/8",
                 "錢"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有三人，三分人之一，分六錢三分錢之一，四分錢之三。問：人得幾何？",
-        "answer_puncuated": "荅曰：人得二錢、八分錢之一。"
+        "answer_puncuated": "荅曰：人得二錢、八分錢之一。",
+        "question_punctuated": "又有三人，三分人之一，分六錢三分錢之一，四分錢之三。問：人得幾何？",
+        "answer_punctuated": "荅曰：人得二錢、八分錢之一。"
     },
     {
         "question": "今有田廣七分步之四從五分步之三問為田幾何",
@@ -512,14 +554,17 @@
         "problem_index": 18,
         "id": "九章算術_1_18",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "12/35",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "今有田廣七分步之四，從五分步之三。問：為田幾何？",
-        "answer_puncuated": "荅曰：三十五分步之十二。"
+        "answer_puncuated": "荅曰：三十五分步之十二。",
+        "question_punctuated": "今有田廣七分步之四，從五分步之三。問：為田幾何？",
+        "answer_punctuated": "荅曰：三十五分步之十二。"
     },
     {
         "question": "又有田廣九分步之七從十一分步之九問為田幾何",
@@ -530,14 +575,17 @@
         "problem_index": 19,
         "id": "九章算術_1_19",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "7/11",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有田廣九分步之七，從十一分步之九。問：為田幾何？",
-        "answer_puncuated": "荅曰：十一分步之七。"
+        "answer_puncuated": "荅曰：十一分步之七。",
+        "question_punctuated": "又有田廣九分步之七，從十一分步之九。問：為田幾何？",
+        "answer_punctuated": "荅曰：十一分步之七。"
     },
     {
         "question": "又有田廣五分步之四從九分步之五問為田幾何",
@@ -548,14 +596,17 @@
         "problem_index": 20,
         "id": "九章算術_1_20",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "4/9",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有田廣五分步之四，從九分步之五，問：為田幾何？",
-        "answer_puncuated": "荅曰：九分步之四。"
+        "answer_puncuated": "荅曰：九分步之四。",
+        "question_punctuated": "又有田廣五分步之四，從九分步之五，問：為田幾何？",
+        "answer_punctuated": "荅曰：九分步之四。"
     },
     {
         "question": "今有田廣三步三分步之一從五步五分步之二問為田幾何",
@@ -566,14 +617,17 @@
         "problem_index": 21,
         "id": "九章算術_1_21",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "18",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "今有田廣三步、三分步之一，從五步、五分步之二。問：為田幾何？",
-        "answer_puncuated": "荅曰：十八步。"
+        "answer_puncuated": "荅曰：十八步。",
+        "question_punctuated": "今有田廣三步、三分步之一，從五步、五分步之二。問：為田幾何？",
+        "answer_punctuated": "荅曰：十八步。"
     },
     {
         "question": "又有田廣七步四分步之三從十五步九分步之五問為田幾何",
@@ -584,14 +638,17 @@
         "problem_index": 22,
         "id": "九章算術_1_22",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "1085/9",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有田廣七步、四分步之三，從十五步、九分步之五。問：為田幾何？",
-        "answer_puncuated": "荅曰：一百二十步、九分步之五。"
+        "answer_puncuated": "荅曰：一百二十步、九分步之五。",
+        "question_punctuated": "又有田廣七步、四分步之三，從十五步、九分步之五。問：為田幾何？",
+        "answer_punctuated": "荅曰：一百二十步、九分步之五。"
     },
     {
         "question": "又有田廣十八步七分步之五從二十三步十一分步之六問為田幾何",
@@ -602,7 +659,7 @@
         "problem_index": 23,
         "id": "九章算術_1_23",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "1",
                 "畝"
@@ -610,10 +667,13 @@
             [
                 "2207/11",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有田廣十八步、七分步之五，從二十三步、十一分步之六。問：為田幾何？",
-        "answer_puncuated": "荅曰：一畝二百步、十一分步之七。"
+        "answer_puncuated": "荅曰：一畝二百步、十一分步之七。",
+        "question_punctuated": "又有田廣十八步、七分步之五，從二十三步、十一分步之六。問：為田幾何？",
+        "answer_punctuated": "荅曰：一畝二百步、十一分步之七。"
     },
     {
         "question": "今有圭田廣十二步正從二十一步問為田幾何",
@@ -624,14 +684,17 @@
         "problem_index": 24,
         "id": "九章算術_1_24",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "126",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "今有圭田廣十二步，正從二十一步。問：為田幾何？",
-        "answer_puncuated": "荅曰：一百二十六步。"
+        "answer_puncuated": "荅曰：一百二十六步。",
+        "question_punctuated": "今有圭田廣十二步，正從二十一步。問：為田幾何？",
+        "answer_punctuated": "荅曰：一百二十六步。"
     },
     {
         "question": "又有圭田廣五步二分步之一從八步三分步之二問為田幾何",
@@ -642,14 +705,17 @@
         "problem_index": 25,
         "id": "九章算術_1_25",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "143/6",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有圭田廣五步、二分步之一，從八步、三分步之二。問：為田幾何？",
-        "answer_puncuated": "荅曰：二十三步、六分步之五。"
+        "answer_puncuated": "荅曰：二十三步、六分步之五。",
+        "question_punctuated": "又有圭田廣五步、二分步之一，從八步、三分步之二。問：為田幾何？",
+        "answer_punctuated": "荅曰：二十三步、六分步之五。"
     },
     {
         "question": "今有邪田一頭廣三十步一頭廣四十二步正從六十四步問為田幾何",
@@ -660,7 +726,7 @@
         "problem_index": 26,
         "id": "九章算術_1_26",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "9",
                 "畝"
@@ -668,10 +734,13 @@
             [
                 "144",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "今有邪田，一頭廣三十步，一頭廣四十二步，正從六十四步。問：為田幾何？",
-        "answer_puncuated": "荅曰：九畝一百四十四步。"
+        "answer_puncuated": "荅曰：九畝一百四十四步。",
+        "question_punctuated": "今有邪田，一頭廣三十步，一頭廣四十二步，正從六十四步。問：為田幾何？",
+        "answer_punctuated": "荅曰：九畝一百四十四步。"
     },
     {
         "question": "又有邪田正廣六十五步一畔從一百步一畔從七十二步問為田幾何",
@@ -682,7 +751,7 @@
         "problem_index": 27,
         "id": "九章算術_1_27",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "23",
                 "畝"
@@ -690,10 +759,13 @@
             [
                 "70",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有邪田，正廣六十五步，一畔從一百步，一畔從七十二步。問：為田幾何？",
-        "answer_puncuated": "荅曰：二十三畝七十步。"
+        "answer_puncuated": "荅曰：二十三畝七十步。",
+        "question_punctuated": "又有邪田，正廣六十五步，一畔從一百步，一畔從七十二步。問：為田幾何？",
+        "answer_punctuated": "荅曰：二十三畝七十步。"
     },
     {
         "question": "今有箕田舌廣二十步踵廣五步正從三十步問為田幾何",
@@ -704,7 +776,7 @@
         "problem_index": 28,
         "id": "九章算術_1_28",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "1",
                 "畝"
@@ -712,10 +784,13 @@
             [
                 "135",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "今有箕田，舌廣二十步，踵廣五步，正從三十步。問：為田幾何？",
-        "answer_puncuated": "荅曰：一畝一百三十五步。"
+        "answer_puncuated": "荅曰：一畝一百三十五步。",
+        "question_punctuated": "今有箕田，舌廣二十步，踵廣五步，正從三十步。問：為田幾何？",
+        "answer_punctuated": "荅曰：一畝一百三十五步。"
     },
     {
         "question": "又有箕田舌廣一百一十七步踵廣五十步正從一百三十五步問為田幾何",
@@ -726,7 +801,7 @@
         "problem_index": 29,
         "id": "九章算術_1_29",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "46",
                 "畝"
@@ -734,10 +809,13 @@
             [
                 "465/2",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有箕田，舌廣一百一十七步，踵廣五十步，正從一百三十五步。問：為田幾何？",
-        "answer_puncuated": "荅曰：四十六畝二百三十二步半。"
+        "answer_puncuated": "荅曰：四十六畝二百三十二步半。",
+        "question_punctuated": "又有箕田，舌廣一百一十七步，踵廣五十步，正從一百三十五步。問：為田幾何？",
+        "answer_punctuated": "荅曰：四十六畝二百三十二步半。"
     },
     {
         "question": "今有圓田周三十步徑十步問為田幾何",
@@ -748,14 +826,17 @@
         "problem_index": 30,
         "id": "九章算術_1_30",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "75",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "今有圓田，周三十步，徑十步。問：為田幾何？",
-        "answer_puncuated": "荅曰：七十五步。"
+        "answer_puncuated": "荅曰：七十五步。",
+        "question_punctuated": "今有圓田，周三十步，徑十步。問：為田幾何？",
+        "answer_punctuated": "荅曰：七十五步。"
     },
     {
         "question": "又有圓田周一百八十一步徑六十步三分步之一問為田幾何",
@@ -766,7 +847,7 @@
         "problem_index": 31,
         "id": "九章算術_1_31",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "11",
                 "畝"
@@ -774,10 +855,13 @@
             [
                 "1081/12",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有圓田，周一百八十一步，徑六十步三分步之一。問：為田幾何？",
-        "answer_puncuated": "荅曰：十一畝九十步十二分步之一。"
+        "answer_puncuated": "荅曰：十一畝九十步十二分步之一。",
+        "question_punctuated": "又有圓田，周一百八十一步，徑六十步三分步之一。問：為田幾何？",
+        "answer_punctuated": "荅曰：十一畝九十步十二分步之一。"
     },
     {
         "question": "今有宛田下周三十步徑十六步問為田幾何",
@@ -788,14 +872,17 @@
         "problem_index": 32,
         "id": "九章算術_1_32",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "120",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "今有宛田，下周三十步，徑十六步。問：為田幾何？",
-        "answer_puncuated": "荅曰：一百二十步。"
+        "answer_puncuated": "荅曰：一百二十步。",
+        "question_punctuated": "今有宛田，下周三十步，徑十六步。問：為田幾何？",
+        "answer_punctuated": "荅曰：一百二十步。"
     },
     {
         "question": "又有宛田下周九十九步徑五十一步問為田幾何",
@@ -806,7 +893,7 @@
         "problem_index": 33,
         "id": "九章算術_1_33",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "5",
                 "畝"
@@ -814,10 +901,13 @@
             [
                 "249/4",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有宛田，下周九十九步，徑五十一步。問：為田幾何？",
-        "answer_puncuated": "荅曰：五畝六十二步、四分步之一。"
+        "answer_puncuated": "荅曰：五畝六十二步、四分步之一。",
+        "question_punctuated": "又有宛田，下周九十九步，徑五十一步。問：為田幾何？",
+        "answer_punctuated": "荅曰：五畝六十二步、四分步之一。"
     },
     {
         "question": "今有弧田弦三十步矢十五步問為田幾何",
@@ -828,7 +918,7 @@
         "problem_index": 34,
         "id": "九章算術_1_34",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "1",
                 "畝"
@@ -836,10 +926,13 @@
             [
                 "195/2",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "今有弧田，弦三十步，矢十五步。問：為田幾何？",
-        "answer_puncuated": "荅曰：一畝九十七步半。"
+        "answer_puncuated": "荅曰：一畝九十七步半。",
+        "question_punctuated": "今有弧田，弦三十步，矢十五步。問：為田幾何？",
+        "answer_punctuated": "荅曰：一畝九十七步半。"
     },
     {
         "question": "又有弧田弦七十八步二分步之一矢十三步九分步之七問為田幾何",
@@ -850,7 +943,7 @@
         "problem_index": 35,
         "id": "九章算術_1_35",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "2",
                 "畝"
@@ -858,10 +951,13 @@
             [
                 "12611/81",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有弧田，弦七十八步、二分步之一，矢十三步、九分步之七。問：為田幾何？",
-        "answer_puncuated": "荅曰：二畝一百五十五步、八十一分步之五十六。"
+        "answer_puncuated": "荅曰：二畝一百五十五步、八十一分步之五十六。",
+        "question_punctuated": "又有弧田，弦七十八步、二分步之一，矢十三步、九分步之七。問：為田幾何？",
+        "answer_punctuated": "荅曰：二畝一百五十五步、八十一分步之五十六。"
     },
     {
         "question": "今有環田中周九十二步外周一百二十二步徑五步問為田幾何",
@@ -872,7 +968,7 @@
         "problem_index": 36,
         "id": "九章算術_1_36",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "2",
                 "畝"
@@ -880,10 +976,13 @@
             [
                 "55",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "今有環田，中周九十二步，外周一百二十二步，徑五步。問：為田幾何？",
-        "answer_puncuated": "荅曰：二畝五十五步。"
+        "answer_puncuated": "荅曰：二畝五十五步。",
+        "question_punctuated": "今有環田，中周九十二步，外周一百二十二步，徑五步。問：為田幾何？",
+        "answer_punctuated": "荅曰：二畝五十五步。"
     },
     {
         "question": "又有環田中周六十二步四分步之三外周一百一十三步二分步之一徑十二步三分步之二問為田幾何",
@@ -894,7 +993,7 @@
         "problem_index": 37,
         "id": "九章算術_1_37",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "4",
                 "畝"
@@ -902,9 +1001,12 @@
             [
                 "625/4",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_puncuated": "又有環田，中周六十二步、四分步之三，外周一百一十三步、二分步之一，徑十二步、三分步之二。問：為田幾何？",
-        "answer_puncuated": "荅曰：四畝一百五十六步、四分步之一。"
+        "answer_puncuated": "荅曰：四畝一百五十六步、四分步之一。",
+        "question_punctuated": "又有環田，中周六十二步、四分步之三，外周一百一十三步、二分步之一，徑十二步、三分步之二。問：為田幾何？",
+        "answer_punctuated": "荅曰：四畝一百五十六步、四分步之一。"
     }
 ]

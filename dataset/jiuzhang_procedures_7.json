@@ -36,7 +36,9 @@
         "text": "術曰以盈不足術求之假令故米二斗不足二升令之三斗有餘二升",
         "procedure_index": 3,
         "id": "九章算術_7_#3",
-        "type": "yingbuzu"
+        "type": "yingbuzu",
+        "text_punctuated": "術曰：以盈不足術求之，假令故米二斗，不足二升。令之三斗，有餘二升。",
+        "referenced_procedure": "九章算術_7_盈不足"
     },
     {
         "source_title": "九章算術",
@@ -56,7 +58,8 @@
         "procedure_index": 5,
         "id": "九章算術_7_#5",
         "type": "yingbuzu",
-        "text_punctuated": "術曰：假令二日，不足一尺五寸。令之三日，有餘一尺七寸半。"
+        "text_punctuated": "術曰：假令二日，不足一尺五寸。令之三日，有餘一尺七寸半。",
+        "referenced_procedure": "九章算術_7_盈不足"
     },
     {
         "source_title": "九章算術",
@@ -66,7 +69,8 @@
         "procedure_index": 6,
         "id": "九章算術_7_#6",
         "type": "yingbuzu",
-        "text_punctuated": "術曰：假令二日，不足五寸。令之三日，有餘三尺七寸半。"
+        "text_punctuated": "術曰：假令二日，不足五寸。令之三日，有餘三尺七寸半。",
+        "referenced_procedure": "九章算術_7_盈不足"
     },
     {
         "source_title": "九章算術",
@@ -76,7 +80,8 @@
         "procedure_index": 7,
         "id": "九章算術_7_#7",
         "type": "yingbuzu",
-        "text_punctuated": "術曰：假令醇酒五升，行酒一斗五升，有餘一十。令之醇酒二升，行酒一斗八升，不足二。"
+        "text_punctuated": "術曰：假令醇酒五升，行酒一斗五升，有餘一十。令之醇酒二升，行酒一斗八升，不足二。",
+        "referenced_procedure": "九章算術_7_盈不足"
     },
     {
         "source_title": "九章算術",
@@ -86,7 +91,8 @@
         "procedure_index": 8,
         "id": "九章算術_7_#8",
         "type": "yingbuzu",
-        "text_punctuated": "術曰：假令大器五斗，小器亦五斗，盈一十斗。令之大器五斗五升，小器二斗五升，不足二斗。"
+        "text_punctuated": "術曰：假令大器五斗，小器亦五斗，盈一十斗。令之大器五斗五升，小器二斗五升，不足二斗。",
+        "referenced_procedure": "九章算術_7_盈不足"
     },
     {
         "source_title": "九章算術",
@@ -96,7 +102,8 @@
         "procedure_index": 9,
         "id": "九章算術_7_#9",
         "type": "yingbuzu",
-        "text_punctuated": "術曰：假令出漆九升，不足六升。令之出漆一斗二升，有餘二升。"
+        "text_punctuated": "術曰：假令出漆九升，不足六升。令之出漆一斗二升，有餘二升。",
+        "referenced_procedure": "九章算術_7_盈不足"
     },
     {
         "source_title": "九章算術",
@@ -116,7 +123,8 @@
         "procedure_index": 11,
         "id": "九章算術_7_#11",
         "type": "yingbuzu",
-        "text_punctuated": "術曰：假令善田二十畝，惡田八十畝，多一千七百一十四錢、七分錢之二。令之善田一十畝，惡田九十畝，不足五百七十一錢、七分錢之三。"
+        "text_punctuated": "術曰：假令善田二十畝，惡田八十畝，多一千七百一十四錢、七分錢之二。令之善田一十畝，惡田九十畝，不足五百七十一錢、七分錢之三。",
+        "referenced_procedure": "九章算術_7_盈不足"
     },
     {
         "source_title": "九章算術",
@@ -146,6 +154,7 @@
         "procedure_index": 14,
         "id": "九章算術_7_#14",
         "type": "yingbuzu",
-        "text_punctuated": "術曰：假令本錢三萬，不足一千七百三十八錢半。令之四萬，多三萬五千三百九十錢八分。"
+        "text_punctuated": "術曰：假令本錢三萬，不足一千七百三十八錢半。令之四萬，多三萬五千三百九十錢八分。",
+        "referenced_procedure": "九章算術_7_盈不足"
     }
 ]
