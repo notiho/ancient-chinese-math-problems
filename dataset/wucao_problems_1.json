@@ -1,7 +1,7 @@
 [
     {
         "question": "今有方田廣從各五十六步問為田㡬何",
-        "answer": "答曰一十三畝竒十六步",
+        "answer": "答曰一十三畝奇十六步",
         "procedure_id": "五曹算經_1_#0",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -18,11 +18,13 @@
                 "16",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有方田，廣從各五十六步。問：為田㡬何？",
+        "answer_punctuated": "答曰：一十三畝奇十六步。"
     },
     {
         "question": "今有方田廣從各六十八步問為田㡬何",
-        "answer": "答曰一十九畝竒六十四步",
+        "answer": "答曰一十九畝奇六十四步",
         "procedure_id": "五曹算經_1_#1",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -39,11 +41,13 @@
                 "64",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有方田廣從各六十八步。問：為田㡬何？",
+        "answer_punctuated": "答曰：一十九畝奇六十四步。"
     },
     {
         "question": "今有直田廣八十步從一百九十步問為田㡬何",
-        "answer": "答曰六十三畝竒八十步",
+        "answer": "答曰六十三畝奇八十步",
         "procedure_id": "五曹算經_1_#2",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -60,11 +64,13 @@
                 "80",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有直田廣八十步從一百九十步。問：為田㡬何？",
+        "answer_punctuated": "答曰：六十三畝奇八十步。"
     },
     {
         "question": "今有圭田從三十步一頭廣二十四步一頭無步問為田㡬何",
-        "answer": "答曰一畝竒一百二十步",
+        "answer": "答曰一畝奇一百二十步",
         "procedure_id": "五曹算經_1_#3",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -81,11 +87,13 @@
                 "120",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有圭田從三十步一頭廣二十四步一頭無步。問：為田㡬何？",
+        "answer_punctuated": "答曰：一畝奇一百二十步。"
     },
     {
-        "question": "今有腰鼓田從八十二步兩頭各廣三十步中央廣十二步問為田㡬何",
-        "answer": "答曰八畝竒四十八步",
+        "question": "今有腰鼓田從八十二步两頭各廣三十步中央廣十二步問為田㡬何",
+        "answer": "答曰八畝奇四十八步",
         "procedure_id": "五曹算經_1_#4",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -102,11 +110,13 @@
                 "48",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有腰鼓田從八十二步两頭各廣三十步中央廣十二步。問：為田㡬何？",
+        "answer_punctuated": "答曰：八畝奇四十八步。"
     },
     {
-        "question": "今有鼓田兩頭各廣四十步中央廣五十二步從八十五步問為田㡬何",
-        "answer": "答曰一十五畝竒一百四十步",
+        "question": "今有鼓田两頭各廣四十步中央廣五十二步從八十五步問為田㡬何",
+        "answer": "答曰一十五畝奇一百四十步",
         "procedure_id": "五曹算經_1_#5",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -123,7 +133,9 @@
                 "140",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有鼓田两頭各廣四十步中央廣五十二步從八十五步。問：為田㡬何？",
+        "answer_punctuated": "答曰：一十五畝奇一百四十步。"
     },
     {
         "question": "今有弧田弦八十步矢五步問為田㡬何",
@@ -139,11 +151,13 @@
                 "200",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有弧田弦八十步矢五步。問：為田㡬何？",
+        "answer_punctuated": "答曰：二百步。"
     },
     {
         "question": "今有蛇田頭廣三十三步胷廣五十七步尾廣十八步從九十二步問為田㡬何",
-        "answer": "答曰一十三畝竒一百九十二步",
+        "answer": "答曰一十三畝奇一百九十二步",
         "procedure_id": "五曹算經_1_#7",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -160,11 +174,13 @@
                 "192",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有蛇田頭廣三十三步胷廣五十七步尾廣十八步從九十二步。問：為田㡬何？",
+        "answer_punctuated": "答曰：一十三畝奇一百九十二步。"
     },
     {
         "question": "今有牆田方周一千步問為田㡬何",
-        "answer": "答曰二頃六十畝竒一百步",
+        "answer": "答曰二頃六十畝奇一百步",
         "procedure_id": "五曹算經_1_#8",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -181,7 +197,9 @@
                 "100",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有牆田方周一千步。問：為田㡬何？",
+        "answer_punctuated": "答曰：二頃六十畝奇一百步。"
     },
     {
         "question": "今有簫田從四十八步一頭廣二十五步一頭廣三十五步問為田㡬何",
@@ -197,11 +215,13 @@
                 "6",
                 "畝"
             ]
-        ]
+        ],
+        "question_punctuated": "今有簫田從四十八步一頭廣二十五步一頭廣三十五步。問：為田㡬何？",
+        "answer_punctuated": "答曰：六畝"
     },
     {
         "question": "今有田桑生中央從隅至桑一百四十七步問為田㡬何",
-        "answer": "答曰一頃八十三畝竒一百八十步",
+        "answer": "答曰一頃八十三畝奇一百八十步",
         "procedure_id": "五曹算經_1_#10",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -218,11 +238,13 @@
                 "180",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有田桑生中央從隅至桑一百四十七步。問：為田㡬何？",
+        "answer_punctuated": "答曰：一頃八十三畝奇一百八十步。"
     },
     {
         "question": "今有邱田周六百四十步徑三百八十步問為田㡬何",
-        "answer": "答曰二頃五十三畝竒八十步",
+        "answer": "答曰二頃五十三畝奇八十步",
         "procedure_id": "五曹算經_1_#11",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -239,11 +261,13 @@
                 "80",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有邱田周六百四十步徑三百八十步。問：為田㡬何？",
+        "answer_punctuated": "答曰：二頃五十三畝奇八十步。"
     },
     {
         "question": "今有箕田一頭廣八十六步一頭廣四十步從九十步問為田㡬何",
-        "answer": "答曰二十三畝竒一百五十步",
+        "answer": "答曰二十三畝奇一百五十步",
         "procedure_id": "五曹算經_1_#12",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -260,11 +284,13 @@
                 "150",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有箕田一頭廣八十六步一頭廣四十步從九十步。問：為田㡬何？",
+        "answer_punctuated": "答曰：二十三畝奇一百五十步。"
     },
     {
         "question": "今有四不等田東三十五步西四十五步南二十五步北一十五步問為田㡬何",
-        "answer": "答曰三畝竒八十步",
+        "answer": "答曰三畝奇八十步",
         "procedure_id": "五曹算經_1_#13",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -281,7 +307,9 @@
                 "80",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有四不等田東三十五步西四十五步南二十五步北一十五步。問：為田㡬何？",
+        "answer_punctuated": "答曰：三畝奇八十步。"
     },
     {
         "question": "今有覆月田從三十步徑十步問為田㡬何",
@@ -297,11 +325,13 @@
                 "150",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有覆月田從三十步徑十步。問：為田㡬何？",
+        "answer_punctuated": "答曰：一百五十步。"
     },
     {
         "question": "今有田形如牛角從五十步口廣二十步問為田㡬何",
-        "answer": "答曰二畝竒二十步",
+        "answer": "答曰二畝奇二十步",
         "procedure_id": "五曹算經_1_#15",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -318,11 +348,13 @@
                 "20",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有田形如牛角從五十步口廣二十步。問：為田㡬何？",
+        "answer_punctuated": "答曰：二畝奇二十步。"
     },
     {
         "question": "今有圓田周七十八步徑二十六步問為田㡬何",
-        "answer": "答曰二畝竒二十七步",
+        "answer": "答曰二畝奇二十七步",
         "procedure_id": "五曹算經_1_#16",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -339,10 +371,12 @@
                 "27",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有圓田周七十八步徑二十六步。問：為田㡬何？",
+        "answer_punctuated": "答曰：二畝奇二十七步。"
     },
     {
-        "question": "今有環田外周三十步内周一十二步徑三步問為田㡬何",
+        "question": "今有環田外周三十步內周一十二步徑三步問為田㡬何",
         "answer": "答曰六十三步",
         "procedure_id": "五曹算經_1_#17",
         "source_title": "五曹算經",
@@ -355,11 +389,13 @@
                 "63",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有環田外周三十步內周一十二步徑三步。問：為田㡬何？",
+        "answer_punctuated": "答曰：六十三步。"
     },
     {
         "question": "今有田從一百步廣四十二步中有圓池周三十步徑一十步問池占外為田㡬何",
-        "answer": "答曰一十七畝竒四十五步",
+        "answer": "答曰一十七畝奇四十五步",
         "procedure_id": "五曹算經_1_#18",
         "source_title": "五曹算經",
         "source_juan": 1,
@@ -376,6 +412,8 @@
                 "45",
                 "步"
             ]
-        ]
+        ],
+        "question_punctuated": "今有田從一百步廣四十二步中有圓池周三十步徑一十步。問：池占外為田㡬何？",
+        "answer_punctuated": "答曰：一十七畝奇四十五步。"
     }
 ]
