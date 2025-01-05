@@ -15,8 +15,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟一斗，欲為糲米。問︰得幾何？",
-        "answer_puncuated": "荅曰：為糲米六升。",
         "question_punctuated": "今有粟一斗，欲為糲米。問︰得幾何？",
         "answer_punctuated": "荅曰：為糲米六升。"
     },
@@ -36,8 +34,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟二斗一升，欲為粺米。問︰得幾何？",
-        "answer_puncuated": "荅曰：為粺米一斗一升、五十分升之十七。",
         "question_punctuated": "今有粟二斗一升，欲為粺米。問︰得幾何？",
         "answer_punctuated": "荅曰：為粺米一斗一升、五十分升之十七。"
     },
@@ -57,8 +53,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟四斗五升，欲為鑿米。問︰得幾何？",
-        "answer_puncuated": "荅曰：為鑿米二斗一升、五分升之三。",
         "question_punctuated": "今有粟四斗五升，欲為鑿米。問︰得幾何？",
         "answer_punctuated": "荅曰：為鑿米二斗一升、五分升之三。"
     },
@@ -78,8 +72,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟七斗九升，欲為御米。問︰得幾何？",
-        "answer_puncuated": "荅曰：為御米三斗三升、五十分升之九。",
         "question_punctuated": "今有粟七斗九升，欲為御米。問︰得幾何？",
         "answer_punctuated": "荅曰：為御米三斗三升、五十分升之九。"
     },
@@ -99,8 +91,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟一斗，欲為小䵂。問︰得幾何？",
-        "answer_puncuated": "荅曰：為小䵂二升、一十分升之七。",
         "question_punctuated": "今有粟一斗，欲為小䵂。問︰得幾何？",
         "answer_punctuated": "荅曰：為小䵂二升、一十分升之七。"
     },
@@ -120,8 +110,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟九斗八升，欲為大䵂。問︰得幾何？",
-        "answer_puncuated": "荅曰：為大䵂一十斗五升、二十五分升之二十一。",
         "question_punctuated": "今有粟九斗八升，欲為大䵂。問︰得幾何？",
         "answer_punctuated": "荅曰：為大䵂一十斗五升、二十五分升之二十一。"
     },
@@ -141,8 +129,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟二斗三升，欲為糲飯。問︰得幾何？",
-        "answer_puncuated": "荅曰：為糲飯三斗四升半。",
         "question_punctuated": "今有粟二斗三升，欲為糲飯。問︰得幾何？",
         "answer_punctuated": "荅曰：為糲飯三斗四升半。"
     },
@@ -162,8 +148,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟三斗六升，欲為粺飯。問︰得幾何？",
-        "answer_puncuated": "荅曰：為粺飯三斗八升、二十五分升之二十二。",
         "question_punctuated": "今有粟三斗六升，欲為粺飯。問︰得幾何？",
         "answer_punctuated": "荅曰：為粺飯三斗八升、二十五分升之二十二。"
     },
@@ -183,8 +167,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟八斗六升，欲為鑿飯。問︰得幾何？",
-        "answer_puncuated": "荅曰：為鑿飯八斗二升、二十五分升之一十四。",
         "question_punctuated": "今有粟八斗六升，欲為鑿飯。問︰得幾何？",
         "answer_punctuated": "荅曰：為鑿飯八斗二升、二十五分升之一十四。"
     },
@@ -204,8 +186,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟九斗八升，欲為御飯。問︰得幾何？",
-        "answer_puncuated": "荅曰：為御飯八斗二升、二十五分升之八。",
         "question_punctuated": "今有粟九斗八升，欲為御飯。問︰得幾何？",
         "answer_punctuated": "荅曰：為御飯八斗二升、二十五分升之八。"
     },
@@ -225,8 +205,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟三斗少半升，欲為菽。問︰得幾何？",
-        "answer_puncuated": "荅曰：為菽二斗七升、一十分升之三。",
         "question_punctuated": "今有粟三斗少半升，欲為菽。問︰得幾何？",
         "answer_punctuated": "荅曰：為菽二斗七升、一十分升之三。"
     },
@@ -246,8 +224,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟四斗一升、太半升，欲為答。問︰得幾何？",
-        "answer_puncuated": "荅曰：為答三斗七升半。",
         "question_punctuated": "今有粟四斗一升、太半升，欲為答。問︰得幾何？",
         "answer_punctuated": "荅曰：為答三斗七升半。"
     },
@@ -267,8 +243,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟五斗、太半升，欲為麻。問︰得幾何？",
-        "answer_puncuated": "荅曰：為麻四斗五升、五分升之三。",
         "question_punctuated": "今有粟五斗、太半升，欲為麻。問︰得幾何？",
         "answer_punctuated": "荅曰：為麻四斗五升、五分升之三。"
     },
@@ -288,8 +262,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟一十斗八升、五分升之二，欲為麥。問︰得幾何？",
-        "answer_puncuated": "荅曰：為麥九斗七升、二十五分升之一十四。",
         "question_punctuated": "今有粟一十斗八升、五分升之二，欲為麥。問︰得幾何？",
         "answer_punctuated": "荅曰：為麥九斗七升、二十五分升之一十四。"
     },
@@ -309,8 +281,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟七斗五升、七分升之四，欲為稻。問︰得幾何？",
-        "answer_puncuated": "荅曰：為稻九斗、三十五分升之二十四。",
         "question_punctuated": "今有粟七斗五升、七分升之四，欲為稻。問︰得幾何？",
         "answer_punctuated": "荅曰：為稻九斗、三十五分升之二十四。"
     },
@@ -330,8 +300,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟七斗八升，欲為豉。問︰得幾何？",
-        "answer_puncuated": "荅曰：為豉九斗八升、二十五分升之七。",
         "question_punctuated": "今有粟七斗八升，欲為豉。問︰得幾何？",
         "answer_punctuated": "荅曰：為豉九斗八升、二十五分升之七。"
     },
@@ -351,8 +319,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟五斗五升，欲為飧。問︰得幾何？",
-        "answer_puncuated": "荅曰：為飧九斗九升。",
         "question_punctuated": "今有粟五斗五升，欲為飧。問︰得幾何？",
         "answer_punctuated": "荅曰：為飧九斗九升。"
     },
@@ -372,8 +338,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟四斗，欲為熟菽。問︰得幾何？",
-        "answer_puncuated": "荅曰：為熟菽八斗二升、五分升之四。",
         "question_punctuated": "今有粟四斗，欲為熟菽。問︰得幾何？",
         "answer_punctuated": "荅曰：為熟菽八斗二升、五分升之四。"
     },
@@ -393,8 +357,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粟二斗，欲為櫱。問︰得幾何？",
-        "answer_puncuated": "荅曰：為櫱七斗。",
         "question_punctuated": "今有粟二斗，欲為櫱。問︰得幾何？",
         "answer_punctuated": "荅曰：為櫱七斗。"
     },
@@ -414,8 +376,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有糲米十五斗五升、五分升之二，欲為粟。問︰得幾何？",
-        "answer_puncuated": "荅曰：為粟二十五斗九升。",
         "question_punctuated": "今有糲米十五斗五升、五分升之二，欲為粟。問︰得幾何？",
         "answer_punctuated": "荅曰：為粟二十五斗九升。"
     },
@@ -435,8 +395,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有粺米二斗，欲為粟。問︰得幾何？",
-        "answer_puncuated": "荅曰：為粟三斗七升、二十七分升之一。",
         "question_punctuated": "今有粺米二斗，欲為粟。問︰得幾何？",
         "answer_punctuated": "荅曰：為粟三斗七升、二十七分升之一。"
     },
@@ -456,8 +414,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有鑿米三斗、少半升，欲為粟。問︰得幾何？",
-        "answer_puncuated": "荅曰：為粟六斗三升、三十六分升之七。",
         "question_punctuated": "今有鑿米三斗、少半升，欲為粟。問︰得幾何？",
         "answer_punctuated": "荅曰：為粟六斗三升、三十六分升之七。"
     },
@@ -477,8 +433,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有御米十四斗，欲為粟。問︰得幾何？",
-        "answer_puncuated": "荅曰：為粟三十三斗三升、少半升。",
         "question_punctuated": "今有御米十四斗，欲為粟。問︰得幾何？",
         "answer_punctuated": "荅曰：為粟三十三斗三升、少半升。"
     },
@@ -498,8 +452,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有稻一十二斗六升、一十五分升之一十四，欲為粟。問︰得幾何？",
-        "answer_puncuated": "荅曰：為粟一十斗五升、九分升之七。",
         "question_punctuated": "今有稻一十二斗六升、一十五分升之一十四，欲為粟。問︰得幾何？",
         "answer_punctuated": "荅曰：為粟一十斗五升、九分升之七。"
     },
@@ -519,8 +471,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有糲米一十九斗二升、七分升之一，欲為粺米。問︰得幾何？",
-        "answer_puncuated": "荅曰：為粺米一十七斗二升、一十四分升之一十三。",
         "question_punctuated": "今有糲米一十九斗二升、七分升之一，欲為粺米。問︰得幾何？",
         "answer_punctuated": "荅曰：為粺米一十七斗二升、一十四分升之一十三。"
     },
@@ -540,8 +490,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有糲米六斗四升、五分升之三，欲為糲飯。問︰得幾何？",
-        "answer_puncuated": "荅曰：為糲飯一十六斗一升半。",
         "question_punctuated": "今有糲米六斗四升、五分升之三，欲為糲飯。問︰得幾何？",
         "answer_punctuated": "荅曰：為糲飯一十六斗一升半。"
     },
@@ -561,8 +509,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有糲飯七斗六升、七分升之四，欲為飧。問︰得幾何？",
-        "answer_puncuated": "荅曰：為飧九斗一升、三十五分升之三十一。",
         "question_punctuated": "今有糲飯七斗六升、七分升之四，欲為飧。問︰得幾何？",
         "answer_punctuated": "荅曰：為飧九斗一升、三十五分升之三十一。"
     },
@@ -582,8 +528,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有菽一斗，欲為熟菽。問︰得幾何？",
-        "answer_puncuated": "荅曰：為熟菽二斗三升。",
         "question_punctuated": "今有菽一斗，欲為熟菽。問︰得幾何？",
         "answer_punctuated": "荅曰：為熟菽二斗三升。"
     },
@@ -603,8 +547,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有菽二斗，欲為豉。問︰得幾何？",
-        "answer_puncuated": "荅曰：為豉二斗八升。",
         "question_punctuated": "今有菽二斗，欲為豉。問︰得幾何？",
         "answer_punctuated": "荅曰：為豉二斗八升。"
     },
@@ -624,8 +566,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有麥八斗六升、七分升之三，欲為小䵂，問︰得幾何？",
-        "answer_puncuated": "荅曰：為小䵂二斗五升、一十四分升之一十三。",
         "question_punctuated": "今有麥八斗六升、七分升之三，欲為小䵂，問︰得幾何？",
         "answer_punctuated": "荅曰：為小䵂二斗五升、一十四分升之一十三。"
     },
@@ -645,8 +585,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有麥一斗，欲為大䵂。問︰得幾何？",
-        "answer_puncuated": "荅曰：為大䵂一斗二升。",
         "question_punctuated": "今有麥一斗，欲為大䵂。問︰得幾何？",
         "answer_punctuated": "荅曰：為大䵂一斗二升。"
     },
@@ -659,14 +597,12 @@
         "problem_index": 31,
         "id": "九章算術_2_31",
         "answer_structured_manual": [
-            "荅曰一枚",
+            "荅曰：一枚，",
             [
                 "80/9",
                 "錢"
             ]
         ],
-        "question_puncuated": "今有出錢一百六十，買瓴甓十八枚。問︰枚幾何？",
-        "answer_puncuated": "荅曰：一枚，八錢、九分錢之八。",
         "question_punctuated": "今有出錢一百六十，買瓴甓十八枚。問︰枚幾何？",
         "answer_punctuated": "荅曰：一枚，八錢、九分錢之八。"
     },
@@ -679,14 +615,12 @@
         "problem_index": 32,
         "id": "九章算術_2_32",
         "answer_structured_manual": [
-            "荅曰一箇",
+            "荅曰：一箇，",
             [
                 "270/47",
                 "錢"
             ]
         ],
-        "question_puncuated": "今有出錢一萬三千五百，買竹二千三百五十箇。問︰箇幾何？",
-        "answer_puncuated": "荅曰：一箇，五錢、四十七分錢之三十五。",
         "question_punctuated": "今有出錢一萬三千五百，買竹二千三百五十箇。問︰箇幾何？",
         "answer_punctuated": "荅曰：一箇，五錢、四十七分錢之三十五。"
     },
@@ -699,14 +633,12 @@
         "problem_index": 33,
         "id": "九章算術_2_33",
         "answer_structured_manual": [
-            "荅曰一斗",
+            "荅曰：一斗，",
             [
                 "173550/503",
                 "錢"
             ]
         ],
-        "question_puncuated": "今有出錢五千七百八十五，買漆一斛六斗七升、太半升。欲斗率之，問︰斗幾何。",
-        "answer_puncuated": "荅曰：一斗，三百四十五錢、五百三分錢之一十五。",
         "question_punctuated": "今有出錢五千七百八十五，買漆一斛六斗七升、太半升。欲斗率之，問︰斗幾何。",
         "answer_punctuated": "荅曰：一斗，三百四十五錢、五百三分錢之一十五。"
     },
@@ -719,14 +651,12 @@
         "problem_index": 34,
         "id": "九章算術_2_34",
         "answer_structured_manual": [
-            "荅曰一丈",
+            "荅曰：一丈，",
             [
                 "7200/61",
                 "錢"
             ]
         ],
-        "question_puncuated": "今有出錢七百二十，買縑一匹二丈一尺。欲丈率之，問︰丈幾何？",
-        "answer_puncuated": "荅曰：一丈，一百一十八錢、六十一分錢之二。",
         "question_punctuated": "今有出錢七百二十，買縑一匹二丈一尺。欲丈率之，問︰丈幾何？",
         "answer_punctuated": "荅曰：一丈，一百一十八錢、六十一分錢之二。"
     },
@@ -739,14 +669,12 @@
         "problem_index": 35,
         "id": "九章算術_2_35",
         "answer_structured_manual": [
-            "荅曰一匹",
+            "荅曰：一匹，",
             [
                 "31600/129",
                 "錢"
             ]
         ],
-        "question_puncuated": "今有出錢二千三百七十，買布九匹二丈七尺。欲匹率之，問︰匹幾何？",
-        "answer_puncuated": "荅曰：一匹，二百四十四錢、一百二十九分錢之一百二十四。",
         "question_punctuated": "今有出錢二千三百七十，買布九匹二丈七尺。欲匹率之，問︰匹幾何？",
         "answer_punctuated": "荅曰：一匹，二百四十四錢、一百二十九分錢之一百二十四。"
     },
@@ -759,14 +687,12 @@
         "problem_index": 36,
         "id": "九章算術_2_36",
         "answer_structured_manual": [
-            "荅曰一石",
+            "荅曰：一石，",
             [
                 "1640400/197",
                 "錢"
             ]
         ],
-        "question_puncuated": "今有出錢一萬三千六百七十，買絲一石二鈞一十七斤。欲石率之，問︰石幾何？",
-        "answer_puncuated": "荅曰：一石，八千三百二十六錢、一百九十七分錢之一百七十八。",
         "question_punctuated": "今有出錢一萬三千六百七十，買絲一石二鈞一十七斤。欲石率之，問︰石幾何？",
         "answer_punctuated": "荅曰：一石，八千三百二十六錢、一百九十七分錢之一百七十八。"
     },
@@ -801,8 +727,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有出錢五百七十六，買竹七十八箇。欲其大小率之，問︰各幾何？",
-        "answer_puncuated": "荅曰：其四十八箇，箇七錢。其三十箇，箇八錢。",
         "question_punctuated": "今有出錢五百七十六，買竹七十八箇。欲其大小率之，問︰各幾何？",
         "answer_punctuated": "荅曰：其四十八箇，箇七錢。其三十箇，箇八錢。"
     },
@@ -837,8 +761,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有出錢一千一百二十，買絲一石二鈞十八斤。欲其貴賤斤率之，問︰各幾何？",
-        "answer_puncuated": "荅曰：其二鈞八斤，斤五錢。其一石一十斤，斤六錢。",
         "question_punctuated": "今有出錢一千一百二十，買絲一石二鈞十八斤。欲其貴賤斤率之，問︰各幾何？",
         "answer_punctuated": "荅曰：其二鈞八斤，斤五錢。其一石一十斤，斤六錢。"
     },
@@ -873,8 +795,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有出錢一萬三千九百七十，買絲一石二鈞二十八斤三兩五銖。欲其貴賤石率之，問︰各幾何？",
-        "answer_puncuated": "荅曰：其一鈞九兩一十二銖，石八千五十一錢。其一石一鈞二十七斤九兩一十七銖，石八千五十二錢。",
         "question_punctuated": "今有出錢一萬三千九百七十，買絲一石二鈞二十八斤三兩五銖。欲其貴賤石率之，問︰各幾何？",
         "answer_punctuated": "荅曰：其一鈞九兩一十二銖，石八千五十一錢。其一石一鈞二十七斤九兩一十七銖，石八千五十二錢。"
     },
@@ -909,8 +829,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有出錢一萬三千九百七十，買絲一石二鈞二十八斤三兩五銖。欲其貴賤鈞率之，問︰各幾何？",
-        "answer_puncuated": "荅曰：其七斤一十兩九銖，鈞二千一十二錢。其一石二鈞二十斤八兩二十銖，鈞二千一十三錢。",
         "question_punctuated": "今有出錢一萬三千九百七十，買絲一石二鈞二十八斤三兩五銖。欲其貴賤鈞率之，問︰各幾何？",
         "answer_punctuated": "荅曰：其七斤一十兩九銖，鈞二千一十二錢。其一石二鈞二十斤八兩二十銖，鈞二千一十三錢。"
     },
@@ -945,8 +863,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有出錢一萬三千九百七十，買絲一石二鈞二十八斤三兩五銖。欲其貴賤斤率之，問︰各幾何？",
-        "answer_puncuated": "荅曰：其一石二鈞七斤十兩四銖，斤六十七錢。其二十斤九兩一銖，斤六十八錢。",
         "question_punctuated": "今有出錢一萬三千九百七十，買絲一石二鈞二十八斤三兩五銖。欲其貴賤斤率之，問︰各幾何？",
         "answer_punctuated": "荅曰：其一石二鈞七斤十兩四銖，斤六十七錢。其二十斤九兩一銖，斤六十八錢。"
     },
@@ -981,8 +897,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有出錢一萬三千九百七十，買絲一石二鈞二十八斤三兩五銖。欲其貴賤兩率之，問︰各幾何？",
-        "answer_puncuated": "荅曰：其一石一鈞一十七斤一十四兩一銖，兩四錢。其一鈞一十斤五兩四銖，兩五錢。",
         "question_punctuated": "今有出錢一萬三千九百七十，買絲一石二鈞二十八斤三兩五銖。欲其貴賤兩率之，問︰各幾何？",
         "answer_punctuated": "荅曰：其一石一鈞一十七斤一十四兩一銖，兩四錢。其一鈞一十斤五兩四銖，兩五錢。"
     },
@@ -995,21 +909,29 @@
         "problem_index": 43,
         "id": "九章算術_2_43",
         "answer_structured_manual": [
-            "荅曰其",
+            "荅曰：其",
             [
-                "121/72",
+                "3871/2304",
                 "鈞"
             ],
-            "一錢",
+            "，",
+            [
+                "5",
+                "銖"
+            ],
+            "一錢。",
             "其",
             [
-                "505/384",
+                "10099/7680",
                 "石"
             ],
-            "一錢"
+            "，",
+            [
+                "6",
+                "銖"
+            ],
+            "一錢。"
         ],
-        "question_puncuated": "今有出錢一萬三千九百七十，買絲一石二鈞二十八斤三兩五銖。欲其貴賤銖率之，問︰各幾何？",
-        "answer_puncuated": "荅曰：其一鈞二十斤六兩十一銖，五銖一錢。其一石一鈞七斤一十二兩一十八銖，六銖一錢。",
         "question_punctuated": "今有出錢一萬三千九百七十，買絲一石二鈞二十八斤三兩五銖。欲其貴賤銖率之，問︰各幾何？",
         "answer_punctuated": "荅曰：其一鈞二十斤六兩十一銖，五銖一錢。其一石一鈞七斤一十二兩一十八銖，六銖一錢。"
     },
@@ -1022,11 +944,12 @@
         "problem_index": 44,
         "id": "九章算術_2_44",
         "answer_structured_manual": [
-            "荅曰其",
+            "荅曰：其",
             [
                 "1140",
                 "翭"
             ],
+            "，",
             [
                 "3",
                 "翭"
@@ -1037,14 +960,13 @@
                 "960",
                 "翭"
             ],
+            "，",
             [
                 "4",
                 "翭"
             ],
             "一錢"
         ],
-        "question_puncuated": "今有出錢六百一十，買羽二千一百翭。欲其貴賤率之，問︰各幾何？",
-        "answer_puncuated": "荅曰：其一千一百四十翭，三翭一錢。其九百六十翭，四翭一錢。",
         "question_punctuated": "今有出錢六百一十，買羽二千一百翭。欲其貴賤率之，問︰各幾何？",
         "answer_punctuated": "荅曰：其一千一百四十翭，三翭一錢。其九百六十翭，四翭一錢。"
     },
@@ -1057,11 +979,12 @@
         "problem_index": 45,
         "id": "九章算術_2_45",
         "answer_structured_manual": [
-            "荅曰其",
+            "荅曰：其",
             [
                 "300",
                 "枚"
             ],
+            "，",
             [
                 "5",
                 "枚"
@@ -1072,14 +995,13 @@
                 "5520",
                 "枚"
             ],
+            "，",
             [
                 "6",
                 "枚"
             ],
             "一錢"
         ],
-        "question_puncuated": "今有出錢九百八十，買矢簳五千八百二十枚。欲其貴賤率之，問︰各幾何？",
-        "answer_puncuated": "荅曰：其三百枚，五枚一錢。其五千五百二十枚，六枚一錢。",
         "question_punctuated": "今有出錢九百八十，買矢簳五千八百二十枚。欲其貴賤率之，問︰各幾何？",
         "answer_punctuated": "荅曰：其三百枚，五枚一錢。其五千五百二十枚，六枚一錢。"
     }

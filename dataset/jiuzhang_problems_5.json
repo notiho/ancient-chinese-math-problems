@@ -20,8 +20,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有穿地積一萬尺。問︰為堅、壤各幾何？",
-        "answer_puncuated": "荅曰：為堅七千五百尺。為壤一萬二千五百尺。",
         "question_punctuated": "今有穿地積一萬尺。問︰為堅、壤各幾何？",
         "answer_punctuated": "荅曰：為堅七千五百尺。為壤一萬二千五百尺。"
     },
@@ -41,8 +39,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有城下廣四丈，上廣二丈，高五丈，袤一百二十六丈五尺。問︰積幾何？",
-        "answer_puncuated": "荅曰：一百八十九萬七千五百尺。",
         "question_punctuated": "今有城下廣四丈，上廣二丈，高五丈，袤一百二十六丈五尺。問︰積幾何？",
         "answer_punctuated": "荅曰：一百八十九萬七千五百尺。"
     },
@@ -62,8 +58,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有垣下廣三尺，上廣二尺，高一丈二尺，袤二十二丈五尺八寸。問︰積幾何？",
-        "answer_puncuated": "荅曰：六千七百七十四尺。",
         "question_punctuated": "今有垣下廣三尺，上廣二尺，高一丈二尺，袤二十二丈五尺八寸。問︰積幾何？",
         "answer_punctuated": "荅曰：六千七百七十四尺。"
     },
@@ -83,8 +77,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有隄下廣二丈，上廣八尺，高四尺，袤一十二丈七尺。問︰積幾何？",
-        "answer_puncuated": "荅曰：七千一百一十二尺。",
         "question_punctuated": "今有隄下廣二丈，上廣八尺，高四尺，袤一十二丈七尺。問︰積幾何？",
         "answer_punctuated": "荅曰：七千一百一十二尺。"
     },
@@ -106,8 +98,6 @@
         ],
         "preceding_question": "今有隄下廣二丈，上廣八尺，高四尺，袤一十二丈七尺。問︰積幾何？",
         "preceding_answer": "荅曰：七千一百一十二尺。",
-        "question_puncuated": "冬程人功四百四十四尺。問︰用徒幾何？",
-        "answer_puncuated": "荅曰：一十六人、一百一十一分人之二。",
         "question_punctuated": "冬程人功四百四十四尺。問︰用徒幾何？",
         "answer_punctuated": "荅曰：一十六人、一百一十一分人之二。"
     },
@@ -127,8 +117,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有溝上廣一丈五尺，下廣一丈，深五尺，袤七丈。問︰積幾何？",
-        "answer_puncuated": "荅曰：四千三百七十五尺。",
         "question_punctuated": "今有溝上廣一丈五尺，下廣一丈，深五尺，袤七丈。問︰積幾何？",
         "answer_punctuated": "荅曰：四千三百七十五尺。"
     },
@@ -150,8 +138,6 @@
         ],
         "preceding_question": "今有溝上廣一丈五尺，下廣一丈，深五尺，袤七丈。問︰積幾何？",
         "preceding_answer": "荅曰：四千三百七十五尺。",
-        "question_puncuated": "春程人功七百六十六尺，并出土功五分之一，定功六百一十二尺、五分尺之四。問︰用徒幾何？",
-        "answer_puncuated": "荅曰：七人、三千六十四分人之四百二十七。",
         "question_punctuated": "春程人功七百六十六尺，并出土功五分之一，定功六百一十二尺、五分尺之四。問︰用徒幾何？",
         "answer_punctuated": "荅曰：七人、三千六十四分人之四百二十七。"
     },
@@ -171,8 +157,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有塹上廣一丈六尺三寸，下廣一丈，深六尺三寸，袤一十三丈二尺一寸。問︰積幾何？",
-        "answer_puncuated": "荅曰：一萬九百四十三尺八寸。",
         "question_punctuated": "今有塹上廣一丈六尺三寸，下廣一丈，深六尺三寸，袤一十三丈二尺一寸。問︰積幾何？",
         "answer_punctuated": "荅曰：一萬九百四十三尺八寸。"
     },
@@ -194,8 +178,6 @@
         ],
         "preceding_question": "今有塹上廣一丈六尺三寸，下廣一丈，深六尺三寸，袤一十三丈二尺一寸。問︰積幾何？",
         "preceding_answer": "荅曰：一萬九百四十三尺八寸。",
-        "question_puncuated": "夏程人功八百七十一尺。并出土功五分之一，沙礫水石之功作太半，定功二百三十二尺、一十五分尺之四。問︰用徒幾何？",
-        "answer_puncuated": "荅曰：四十七人、三千四百八十四分人之四百九。",
         "question_punctuated": "夏程人功八百七十一尺。并出土功五分之一，沙礫水石之功作太半，定功二百三十二尺、一十五分尺之四。問︰用徒幾何？",
         "answer_punctuated": "荅曰：四十七人、三千四百八十四分人之四百九。"
     },
@@ -215,8 +197,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有穿渠上廣一丈八尺，下廣三尺六寸，深一丈八尺，袤五萬一千八百二十四尺。問︰積幾何？",
-        "answer_puncuated": "荅曰：一千七萬四千五百八十五尺六寸。",
         "question_punctuated": "今有穿渠上廣一丈八尺，下廣三尺六寸，深一丈八尺，袤五萬一千八百二十四尺。問︰積幾何？",
         "answer_punctuated": "荅曰：一千七萬四千五百八十五尺六寸。"
     },
@@ -244,8 +224,6 @@
         ],
         "preceding_question": "今有穿渠上廣一丈八尺，下廣三尺六寸，深一丈八尺，袤五萬一千八百二十四尺。問︰積幾何？",
         "preceding_answer": "荅曰：一千七萬四千五百八十五尺六寸。",
-        "question_puncuated": "秋程人功三百尺，問︰用徒幾何？",
-        "answer_puncuated": "荅曰：三萬三千五百八十二人功。內少一十四尺四寸。",
         "question_punctuated": "秋程人功三百尺，問︰用徒幾何？",
         "answer_punctuated": "荅曰：三萬三千五百八十二人功。內少一十四尺四寸。"
     },
@@ -267,8 +245,6 @@
         ],
         "preceding_question": "秋程人功三百尺，問︰用徒幾何？",
         "preceding_answer": "荅曰：三萬三千五百八十二人功。內少一十四尺四寸。",
-        "question_puncuated": "一千人先到，問︰當受袤幾何？",
-        "answer_puncuated": "荅曰：一百五十四丈三尺二寸、八十一分寸之八。",
         "question_punctuated": "一千人先到，問︰當受袤幾何？",
         "answer_punctuated": "荅曰：一百五十四丈三尺二寸、八十一分寸之八。"
     },
@@ -288,8 +264,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有方堡壔方一丈六尺，高一丈五尺。問︰積幾何？",
-        "answer_puncuated": "荅曰：三千八百四十尺。",
         "question_punctuated": "今有方堡壔方一丈六尺，高一丈五尺。問︰積幾何？",
         "answer_punctuated": "荅曰：三千八百四十尺。"
     },
@@ -309,8 +283,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有圓堡壔，周四丈八尺，高一丈一尺。問︰積幾何？",
-        "answer_puncuated": "荅曰：二千一百一十二尺。",
         "question_punctuated": "今有圓堡壔，周四丈八尺，高一丈一尺。問︰積幾何？",
         "answer_punctuated": "荅曰：二千一百一十二尺。"
     },
@@ -330,8 +302,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有方亭，下方五丈，上方四丈，高五丈。問︰積幾何？",
-        "answer_puncuated": "荅曰：一十萬一千六百六十六尺、太半尺。",
         "question_punctuated": "今有方亭，下方五丈，上方四丈，高五丈。問︰積幾何？",
         "answer_punctuated": "荅曰：一十萬一千六百六十六尺、太半尺。"
     },
@@ -351,8 +321,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有圓亭，下周三丈，上周二丈，高一丈。問︰積幾何？",
-        "answer_puncuated": "荅曰：五百二十七尺、九分尺之七。",
         "question_punctuated": "今有圓亭，下周三丈，上周二丈，高一丈。問︰積幾何？",
         "answer_punctuated": "荅曰：五百二十七尺、九分尺之七。"
     },
@@ -372,8 +340,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有方錐下方二丈七尺，高二丈九尺。問︰積幾何？",
-        "answer_puncuated": "荅曰：七千四十七尺。",
         "question_punctuated": "今有方錐下方二丈七尺，高二丈九尺。問︰積幾何？",
         "answer_punctuated": "荅曰：七千四十七尺。"
     },
@@ -393,8 +359,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有圓錐下周三丈五尺，高五丈一尺。問︰積幾何？",
-        "answer_puncuated": "荅曰：一千七百三十五尺、一十二分尺之五。",
         "question_punctuated": "今有圓錐下周三丈五尺，高五丈一尺。問︰積幾何？",
         "answer_punctuated": "荅曰：一千七百三十五尺、一十二分尺之五。"
     },
@@ -414,8 +378,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有塹堵下廣二丈，袤一十八丈六尺，高二丈五尺。問︰積幾何？",
-        "answer_puncuated": "荅曰：四萬六千五百尺。",
         "question_punctuated": "今有塹堵下廣二丈，袤一十八丈六尺，高二丈五尺。問︰積幾何？",
         "answer_punctuated": "荅曰：四萬六千五百尺。"
     },
@@ -435,8 +397,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有陽馬，廣五尺，袤七尺，高八尺。問︰積幾何？",
-        "answer_puncuated": "荅曰：九十三尺、少半尺。",
         "question_punctuated": "今有陽馬，廣五尺，袤七尺，高八尺。問︰積幾何？",
         "answer_punctuated": "荅曰：九十三尺、少半尺。"
     },
@@ -456,8 +416,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有鱉臑下廣五尺，無袤，上袤四尺，無廣，高七尺。問︰積幾何？",
-        "answer_puncuated": "荅曰：二十三尺、少半尺。",
         "question_punctuated": "今有鱉臑下廣五尺，無袤，上袤四尺，無廣，高七尺。問︰積幾何？",
         "answer_punctuated": "荅曰：二十三尺、少半尺。"
     },
@@ -477,8 +435,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有羨除，下廣六尺，上廣一丈，深三尺，末廣八尺，無深，袤七尺。問︰積幾何？",
-        "answer_puncuated": "荅曰：八十四尺。",
         "question_punctuated": "今有羨除，下廣六尺，上廣一丈，深三尺，末廣八尺，無深，袤七尺。問︰積幾何？",
         "answer_punctuated": "荅曰：八十四尺。"
     },
@@ -498,8 +454,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有芻甍，下廣三丈，袤四丈，上袤二丈，無廣，高一丈。問︰積幾何？",
-        "answer_puncuated": "荅曰：五千尺。",
         "question_punctuated": "今有芻甍，下廣三丈，袤四丈，上袤二丈，無廣，高一丈。問︰積幾何？",
         "answer_punctuated": "荅曰：五千尺。"
     },
@@ -519,8 +473,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有芻童，下廣二丈，袤三丈，上廣三丈，袤四丈，高三丈。問︰積幾何？",
-        "answer_puncuated": "荅曰：二萬六千五百尺。",
         "question_punctuated": "今有芻童，下廣二丈，袤三丈，上廣三丈，袤四丈，高三丈。問︰積幾何？",
         "answer_punctuated": "荅曰：二萬六千五百尺。"
     },
@@ -540,8 +492,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有曲池，上中周二丈，外周四丈，廣一丈，下中周一丈四尺，外周二丈四尺，廣五尺，深一丈。問︰積幾何？",
-        "answer_puncuated": "荅曰：一千八百八十三尺三寸、少半寸。",
         "question_punctuated": "今有曲池，上中周二丈，外周四丈，廣一丈，下中周一丈四尺，外周二丈四尺，廣五尺，深一丈。問︰積幾何？",
         "answer_punctuated": "荅曰：一千八百八十三尺三寸、少半寸。"
     },
@@ -561,8 +511,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有盤池，上廣六丈，袤八丈，下廣四丈，袤六丈，深二丈。問︰積幾何？",
-        "answer_puncuated": "荅曰：七萬六百六十六尺、太半尺。",
         "question_punctuated": "今有盤池，上廣六丈，袤八丈，下廣四丈，袤六丈，深二丈。問︰積幾何？",
         "answer_punctuated": "荅曰：七萬六百六十六尺、太半尺。"
     },
@@ -589,8 +537,6 @@
         ],
         "preceding_question": "今有盤池，上廣六丈，袤八丈，下廣四丈，袤六丈，深二丈。問︰積幾何？",
         "preceding_answer": "荅曰：七萬六百六十六尺、太半尺。",
-        "answer_puncuated": "荅曰：人到二百四尺。用徒三百四十六人、一百五十三分人之六十二。",
-        "question_puncuated": "負土往來七十步，其二十步上下棚除。棚除二當平道五，踟躕之間十加一，載輸之間三十步，定一返一百四十步。土籠積一尺六寸，秋程人功行五十九里半。問︰人到、積尺、用徒各幾何？",
         "question_punctuated": "負土往來七十步，其二十步上下棚除。棚除二當平道五，踟躕之間十加一，載輸之間三十步，定一返一百四十步。土籠積一尺六寸，秋程人功行五十九里半。問︰人到、積尺、用徒各幾何？",
         "answer_punctuated": "荅曰：人到二百四尺。用徒三百四十六人、一百五十三分人之六十二。"
     },
@@ -610,8 +556,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有冥谷上廣二丈，袤七丈，下廣八尺，袤四丈，深六丈五尺。問︰積幾何？",
-        "answer_puncuated": "荅曰：五萬二千尺。",
         "question_punctuated": "今有冥谷上廣二丈，袤七丈，下廣八尺，袤四丈，深六丈五尺。問︰積幾何？",
         "answer_punctuated": "荅曰：五萬二千尺。"
     },
@@ -638,7 +582,6 @@
         ],
         "preceding_question": "今有冥谷上廣二丈，袤七丈，下廣八尺，袤四丈，深六丈五尺。問︰積幾何？",
         "preceding_answer": "荅曰：五萬二千尺。",
-        "answer_puncuated": "荅曰：人到二百一尺、五十分尺之十三。用徒二百五十八人、一萬六十三分人之三千七百四十六。",
         "answer_punctuated": "荅曰：人到二百一尺、五十分尺之十三。用徒二百五十八人、一萬六十三分人之三千七百四十六。"
     },
     {
@@ -662,8 +605,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有委粟平地，下周一十二丈，高二丈。問︰積及為粟幾何？",
-        "answer_puncuated": "荅曰：積八千尺。為粟二千九百六十二斛、二十七分斛之二十六。",
         "question_punctuated": "今有委粟平地，下周一十二丈，高二丈。問︰積及為粟幾何？",
         "answer_punctuated": "荅曰：積八千尺。為粟二千九百六十二斛、二十七分斛之二十六。"
     },
@@ -688,8 +629,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有委菽依垣，下周三丈，高七尺。問︰積及為菽各幾何？",
-        "answer_puncuated": "荅曰：積三百五十尺。為菽一百四十四斛、二百四十三分斛之八。",
         "question_punctuated": "今有委菽依垣，下周三丈，高七尺。問︰積及為菽各幾何？",
         "answer_punctuated": "荅曰：積三百五十尺。為菽一百四十四斛、二百四十三分斛之八。"
     },
@@ -719,8 +658,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有委米依垣內角，下周八尺，高五尺。問︰積及為米幾何？",
-        "answer_puncuated": "荅曰：積三十五尺、九分尺之五。為米二十一斛，七百二十九分斛之六百九十一。",
         "question_punctuated": "今有委米依垣內角，下周八尺，高五尺。問︰積及為米幾何？",
         "answer_punctuated": "荅曰：積三十五尺、九分尺之五。為米二十一斛，七百二十九分斛之六百九十一。"
     },
@@ -740,8 +677,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有穿地，袤一丈六尺，深一丈，上廣六尺，為垣積五百七十六尺。問︰穿地下廣幾何？",
-        "answer_puncuated": "荅曰：三尺、五分尺之三。",
         "question_punctuated": "今有穿地，袤一丈六尺，深一丈，上廣六尺，為垣積五百七十六尺。問︰穿地下廣幾何？",
         "answer_punctuated": "荅曰：三尺、五分尺之三。"
     },
@@ -761,8 +696,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有倉廣三丈，袤四丈五尺，容粟一萬斛。問︰高幾何？",
-        "answer_puncuated": "荅曰：二丈。",
         "question_punctuated": "今有倉廣三丈，袤四丈五尺，容粟一萬斛。問︰高幾何？",
         "answer_punctuated": "荅曰：二丈。"
     },
@@ -782,8 +715,6 @@
             ],
             "。"
         ],
-        "question_puncuated": "今有圓困，高一丈三尺三寸、少半寸，容米二千斛。問︰周幾何？",
-        "answer_puncuated": "荅曰：五丈四尺。",
         "question_punctuated": "今有圓困，高一丈三尺三寸、少半寸，容米二千斛。問︰周幾何？",
         "answer_punctuated": "荅曰：五丈四尺。"
     }

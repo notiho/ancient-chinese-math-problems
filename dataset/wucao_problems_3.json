@@ -8,11 +8,12 @@
         "problem_index": 0,
         "id": "五曹算經_3_0",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "450",
                 "斛"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有粟七百五十斛。問：為糲米㡬何？",
         "answer_punctuated": "答曰：四百五十斛。"
@@ -26,11 +27,12 @@
         "problem_index": 1,
         "id": "五曹算經_3_1",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "783/5",
                 "斛"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有粟二百九十斛。問：為粺米㡬何？",
         "answer_punctuated": "答曰：一百五十六斛六斗。"
@@ -44,11 +46,12 @@
         "problem_index": 2,
         "id": "五曹算經_3_2",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "1344/5",
                 "斛"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有粟五百六十斛。問：為糳米㡬何？",
         "answer_punctuated": "答曰：二百六十八斛八斗。"
@@ -62,11 +65,12 @@
         "problem_index": 3,
         "id": "五曹算經_3_3",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "3801/25",
                 "斛"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有粟三百六十二斛。問：為御米㡬何？",
         "answer_punctuated": "答曰：一百五十二斛四升。"
@@ -80,11 +84,12 @@
         "problem_index": 4,
         "id": "五曹算經_3_4",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "350",
                 "斛"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有粟五百六十斛，凡粟八斗易麥五斗。問：得麥㡬何？",
         "answer_punctuated": "答曰：三百五十斛。"
@@ -98,16 +103,17 @@
         "problem_index": 5,
         "id": "五曹算經_3_5",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "660333/1000",
                 "斛"
             ],
-            "竒",
+            "奇",
             [
                 "3",
                 "升"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有豆八百四十九斛，凡豆九斗易麻七斗。問：得麻㡬何？",
         "answer_punctuated": "答曰：六百六十斛三斗三升三合奇三升。"
@@ -121,16 +127,17 @@
         "problem_index": 6,
         "id": "五曹算經_3_6",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "16699",
                 "枚"
             ],
-            "竒",
+            "奇",
             [
                 "4",
                 "文"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有錢二十七貫八百三十三文，凡五文買棃三枚。問：得棃㡬何？",
         "answer_punctuated": "答曰：一萬六千六百九十九枚奇四文。"
@@ -144,11 +151,12 @@
         "problem_index": 7,
         "id": "五曹算經_3_7",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "288591/100",
                 "斛"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有米一千五百七十七斛，斛别加八斗三升。問：計㡬何？",
         "answer_punctuated": "答曰：二千八百八十五斛九斗一升。"
@@ -162,11 +170,12 @@
         "problem_index": 8,
         "id": "五曹算經_3_8",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "18456",
                 "人"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有席，一領坐客一十二人，有席一千五百三十八領。問：客㡬何？",
         "answer_punctuated": "答曰：一萬八千四百五十六人。"
@@ -180,11 +189,12 @@
         "problem_index": 9,
         "id": "五曹算經_3_9",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "34500",
                 "人"
-            ]
+            ],
+            "。"
         ],
         "answer_punctuated": "答曰：三萬四千五百人。"
     },
@@ -197,16 +207,17 @@
         "problem_index": 10,
         "id": "五曹算經_3_10",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "23203",
                 "領"
             ],
-            "竒",
+            "奇",
             [
                 "11",
                 "人"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有席，一領坐客二十三人，有客五十三萬三千六百八十人。問：席㡬何？",
         "answer_punctuated": "答曰：二萬三千二百三領奇十一人。"
@@ -220,11 +231,12 @@
         "problem_index": 11,
         "id": "五曹算經_3_11",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "2975",
                 "領"
-            ]
+            ],
+            "。"
         ],
         "answer_punctuated": "答曰：二千九百七十五領。"
     },
@@ -237,11 +249,12 @@
         "problem_index": 12,
         "id": "五曹算經_3_12",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "80000",
                 "人"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有凡醬二升飼五人，有醬三百二十斛。問：人㡬何？",
         "answer_punctuated": "答曰：八萬人。"
@@ -255,11 +268,12 @@
         "problem_index": 13,
         "id": "五曹算經_3_13",
         "answer_structured": [
-            "答曰",
+            "答曰：",
             [
                 "10515",
                 "隻"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有凡錢五文買雉三隻，有錢一萬七千五百二十五文。問：得雉㡬何？",
         "answer_punctuated": "答曰：一萬五百一十五隻。"

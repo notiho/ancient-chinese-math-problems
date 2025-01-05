@@ -8,11 +8,12 @@
         "problem_index": 0,
         "id": "九章算術_9_0",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "5",
                 "尺"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有句三尺，股四尺，問︰為弦幾何？",
         "answer_punctuated": "荅曰：五尺。"
@@ -26,11 +27,12 @@
         "problem_index": 1,
         "id": "九章算術_9_1",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "4",
                 "尺"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有弦五尺，句三尺，問︰為股幾何？",
         "answer_punctuated": "荅曰：四尺。"
@@ -44,11 +46,12 @@
         "problem_index": 2,
         "id": "九章算術_9_2",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "3",
                 "尺"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有股四尺，弦五尺，問︰為句幾何？",
         "answer_punctuated": "荅曰：三尺。"
@@ -62,11 +65,12 @@
         "problem_index": 3,
         "id": "九章算術_9_3",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
-                "49/20",
+                "12/5",
                 "尺"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有圓材徑二尺五寸，欲為方版，令厚七寸。問︰廣幾何？",
         "answer_punctuated": "荅曰：二尺四寸。"
@@ -80,11 +84,12 @@
         "problem_index": 4,
         "id": "九章算術_9_4",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "29/10",
                 "丈"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有木長二丈，圍之三尺。葛生其下，纏木七周，上與木齊。問︰葛長幾何？",
         "answer_punctuated": "荅曰：二丈九尺。"
@@ -98,16 +103,17 @@
         "problem_index": 5,
         "id": "九章算術_9_5",
         "answer_structured": [
-            "荅曰水深",
+            "荅曰：水深",
             [
                 "6/5",
                 "丈"
             ],
-            "葭長",
+            "；葭長",
             [
                 "13/10",
                 "丈"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有池方一丈，葭生其中央，出水一尺。引葭赴岸，適與岸齊。問︰水深、葭長各幾何？",
         "answer_punctuated": "荅曰：水深一丈二尺；葭長一丈三尺。"
@@ -121,11 +127,12 @@
         "problem_index": 6,
         "id": "九章算術_9_6",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
-                "253/210",
+                "73/60",
                 "丈"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有立木，繫索其末，委地三尺。引索卻行，去本八尺而索盡。問︰索長幾何？",
         "answer_punctuated": "荅曰：一丈二尺、六分尺之一。"
@@ -139,11 +146,12 @@
         "problem_index": 7,
         "id": "九章算術_9_7",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "101/20",
                 "丈"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有垣高一丈。倚木於垣，上與垣齊。引木卻行一尺，其木至地。問︰木幾何？",
         "answer_punctuated": "荅曰：五丈五寸。"
@@ -157,11 +165,12 @@
         "problem_index": 8,
         "id": "九章算術_9_8",
         "answer_structured": [
-            "荅曰材徑",
+            "荅曰：材徑",
             [
                 "13/5",
                 "尺"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有圓材，埋在壁中，不知大小。以鐻鐻之，深一寸，鐻道長一尺。問︰徑幾何？",
         "answer_punctuated": "荅曰：材徑二尺六寸。"
@@ -175,11 +184,12 @@
         "problem_index": 9,
         "id": "九章算術_9_9",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "101/100",
                 "丈"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有開門去閫一尺，不合二寸。問︰門廣幾何？",
         "answer_punctuated": "荅曰：一丈一寸。"
@@ -193,16 +203,17 @@
         "problem_index": 10,
         "id": "九章算術_9_10",
         "answer_structured": [
-            "荅曰廣",
+            "荅曰：廣",
             [
                 "14/5",
                 "尺"
             ],
-            "高",
+            "；高",
             [
                 "48/5",
                 "尺"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有戶高多於廣六尺八寸，兩隅相去適一丈。問︰戶高、廣各幾何？",
         "answer_punctuated": "荅曰：廣二尺八寸；高九尺六寸。"
@@ -216,21 +227,22 @@
         "problem_index": 11,
         "id": "九章算術_9_11",
         "answer_structured": [
-            "荅曰廣",
+            "荅曰：廣",
             [
                 "6",
                 "尺"
             ],
-            "高",
+            "，高",
             [
                 "8",
                 "尺"
             ],
-            "衺",
+            "，袤",
             [
                 "1",
                 "丈"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有戶不知高廣，竿不知長短。橫之不出四尺，從之不出二尺，邪之適出。問︰戶高、廣、袤各幾何？",
         "answer_punctuated": "荅曰：廣六尺，高八尺，袤一丈。"
@@ -244,11 +256,12 @@
         "problem_index": 12,
         "id": "九章算術_9_12",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "91/20",
                 "尺"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有竹高一丈，末折抵地，去本三尺。問︰折者高幾何？",
         "answer_punctuated": "荅曰：四尺、二十分尺之十一。"
@@ -262,17 +275,17 @@
         "problem_index": 13,
         "id": "九章算術_9_13",
         "answer_structured": [
-            "荅曰乙東行",
+            "荅曰：乙東行",
             [
                 "21/2",
                 "步"
             ],
-            "甲邪行",
+            "；甲邪行",
             [
                 "29/2",
                 "步"
             ],
-            "及之"
+            "及之。"
         ],
         "question_punctuated": "今有二人同所立。甲行率七，乙行率三。乙東行。甲南行十步而邪東北與乙會。問︰甲乙行各幾何？",
         "answer_punctuated": "荅曰：乙東行一十步半；甲邪行一十四步半及之。"
@@ -286,11 +299,12 @@
         "problem_index": 14,
         "id": "九章算術_9_14",
         "answer_structured": [
-            "荅曰方",
+            "荅曰：方",
             [
                 "60/17",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有句五步，股十二步。問︰句中容方幾何？",
         "answer_punctuated": "荅曰：方三步、十七分步之九。"
@@ -304,11 +318,12 @@
         "problem_index": 15,
         "id": "九章算術_9_15",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "6",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有句八步，股十五步。問︰句中容圓，徑幾何？",
         "answer_punctuated": "荅曰：六步。"
@@ -322,11 +337,12 @@
         "problem_index": 16,
         "id": "九章算術_9_16",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "2000/3",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有邑方二百步，各中開門。出東門十五步有木。問︰出南門幾何步而見木？",
         "answer_punctuated": "荅曰：六百六十六步、太半步。"
@@ -340,11 +356,12 @@
         "problem_index": 17,
         "id": "九章算術_9_17",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "315",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有邑，東西七里，南北九里，各中開門。出東門十五里有木。問︰出南門幾何步而見木？",
         "answer_punctuated": "荅曰：三百一十五步。"
@@ -358,11 +375,12 @@
         "problem_index": 18,
         "id": "九章算術_9_18",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "1",
                 "里"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有邑方不知大小，各中開門。出北門三十步有木，出西門七百五十步見木。問︰邑方幾何？",
         "answer_punctuated": "荅曰：一里。"
@@ -376,11 +394,12 @@
         "problem_index": 19,
         "id": "九章算術_9_19",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "250",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有邑方不知大小，各中開門。出北門二十步有木。出南門十四步，折而西行一千七百七十五步見木。問︰邑方幾何？",
         "answer_punctuated": "荅曰：二百五十步。"
@@ -394,21 +413,22 @@
         "problem_index": 20,
         "id": "九章算術_9_20",
         "answer_structured": [
-            "荅曰甲出南門",
+            "荅曰：甲出南門",
             [
                 "800",
                 "步"
             ],
-            "邪東北行",
+            "，邪東北行",
             [
                 "9775/2",
                 "步"
             ],
-            "及乙乙東行",
+            "，及乙。乙東行",
             [
                 "8625/2",
                 "步"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有邑方十里，各中開門。甲乙俱從邑中央而出。乙東出；甲南出，出門不知步數，邪向東北磨邑，適與乙會。率甲行五，乙行三。問︰甲、乙行各幾何？",
         "answer_punctuated": "荅曰：甲出南門八百步，邪東北行四千八百八十七步半，及乙。乙東行四千三百一十二步半。"
@@ -422,11 +442,12 @@
         "problem_index": 21,
         "id": "九章算術_9_21",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "100/3",
                 "丈"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "有木去人不知遠近。立四表，相去各一丈，令左兩表與所望參相直。從後右表望之，入前右表三寸。問︰木去人幾何？",
         "answer_punctuated": "荅曰：三十三丈三尺三寸、少半寸。"
@@ -440,11 +461,12 @@
         "problem_index": 22,
         "id": "九章算術_9_22",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "4949/30",
                 "丈"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "有山居木西，不知其高。山去木五十三里，木高九丈五尺。人立木東三里，望木末適與山峰斜平。人目高七尺。問︰山高幾何？",
         "answer_punctuated": "荅曰：一百六十四丈九尺六寸、太半寸。"
@@ -458,11 +480,12 @@
         "problem_index": 23,
         "id": "九章算術_9_23",
         "answer_structured": [
-            "荅曰",
+            "荅曰：",
             [
                 "23/4",
                 "丈"
-            ]
+            ],
+            "。"
         ],
         "question_punctuated": "今有井徑五尺，不知其深。立五尺木於井上，從木末望水岸，入徑四寸。問︰井深幾何",
         "answer_punctuated": "荅曰：五丈七尺五寸。"
