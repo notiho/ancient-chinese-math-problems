@@ -1,6 +1,6 @@
-#今有粟一斗欲爲糲米問得幾何
-#術曰以粟求糲米三之五而一
-#荅曰爲糲米 a升
+#今有粟一斗，欲為糲米。問︰得幾何？
+#術曰：以粟求糲米，三之，五而一。
+#荅曰：為糲米 a升 。
 
 """
 Suppose there is one dou of unhusked millet. It is desired to turn it into roughly husked millet.
@@ -17,7 +17,7 @@ The answer says: *a* sheng of roughly unhusked millet.
 # Convert to 升
 粟 = 10 * 粟
 
-# 以粟求糲米三之
+# 以粟求糲米，三之
 糲米 = 3 * 粟
 
 # 五而一
