@@ -12,7 +12,7 @@ for filename in filenames:
 	with open(filename) as infile:
 		script_source = infile.read()
 	
-	problem_id = Path(filename).stem
+	problem_id = "_".join(Path(filename).stem.split("_")[:3])
 	
 	passed_check, message = check_script_against_answer(script_source, problems_by_id[problem_id])
 	

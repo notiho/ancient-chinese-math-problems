@@ -1,0 +1,35 @@
+"""
+假令有股弦相乘冪四千七百三十九五分之三，句少於弦五十四五分之二。問：股多少？
+術曰：冪自乘，倍少數而一，為立冪。又少數再自乘，半之，以減立冪，余為實。又少數自乘，倍之，為方法。又置少數，五之，二而一，為廉法，從。開立方除之，即句。加差，即弦。弦除冪，即股。
+答曰： a 。
+"""
+
+"""
+This problem involves solving a classic right triangle problem using ancient Chinese mathematical methods. The problem provides the hypotenuse (弦), the difference between the hypotenuse and one leg (句), and the square of the hypotenuse (冪). The goal is to find the other leg (股). Below is the solution translated into Python code:
+
+
+"""
+
+
+from fractions import Fraction
+from math import pow
+
+# 冪四千七百三十九五分之三
+冪 = Fraction(4739, 5)
+
+# 句少於弦五十四五分之二
+少數 = Fraction(54, 5)
+
+# 術曰：冪自乘，倍少數而一，為立冪
+立冪 = 冪 * 冪 + 2 * 冪 * 少數 + 少數 * 少數
+
+# 又少數再自乘，半之，以減立冪，余為實
+
+
+"""
+
+"""
+
+
+"""
+Missing variable in output: 'a'"""

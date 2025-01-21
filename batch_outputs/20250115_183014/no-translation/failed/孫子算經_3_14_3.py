@@ -1,0 +1,37 @@
+"""
+今有粟一十二萬八千九百四十斛九斗三合，出與人買絹一匹，直粟三斛五斗七升。問：絹幾何？
+術曰：置粟一十二萬八千九百四十斛九斗三合為實，以三斛五斗七升為法，除之，得匹餘四十之所得，又以法除之，即得。
+答曰： a匹 b丈 。
+"""
+
+"""
+
+"""
+
+
+from fractions import Fraction
+
+# 粟一十二萬八千九百四十斛九斗三合
+粟 = 128940 * 10 + 9 + Fraction(3, 10)  # Convert to total 升 (1斛 = 10斗, 1斗 = 10升)
+
+# 絹一匹，直粟三斛五斗七升
+法 = 3 * 10 + 5 + Fraction(7, 10)  # Convert to total 升
+
+# 置粟為實，以法除之，得匹餘四十之所得
+匹 = 粟 // 法  # Integer division to get the number of full 匹
+餘 = 粟 % 法  # Remainder in 升
+
+# 又以法除之，即得
+丈 = Fraction(餘, 法) * 40  # Convert the remainder to 丈 (1匹 = 40丈)
+
+a = 匹
+b = 丈
+
+
+"""
+
+"""
+
+
+"""
+Variable 'b' has wrong value. Expected: 18/5, Actual: 4320/119"""

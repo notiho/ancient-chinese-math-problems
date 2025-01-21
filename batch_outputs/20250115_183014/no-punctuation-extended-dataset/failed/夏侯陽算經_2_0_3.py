@@ -1,0 +1,51 @@
+"""
+今有田三百七十九畞畞出稅穀三升納官毎斛加二升耗問輸正及耗各幾何
+術曰置田畞數以三升因之得一十一斛三斗七升為正又二因之得二斗二升七合四勺為耗
+答曰正 a斛 耗 b斗
+"""
+
+"""
+Suppose there is a field of 379 mu. Each mu produces 3 sheng of tax grain. 
+When delivering to the officials, for every hu, an additional 2 sheng is added as wastage.
+Question: how much is the actual tax grain delivered (zheng), and how much is the wastage (hao)?
+
+The procedure says: Place the number of mu of the field. Multiply it by 3 sheng, obtaining 11 hu, 3 dou, and 7 sheng as the actual tax grain (zheng).
+Then multiply by 2, obtaining 2 dou, 2 sheng, 7 ge, and 4 jue as the wastage (hao).
+
+Answer: the actual tax grain delivered is *a* hu, and the wastage is *b* dou.
+"""
+
+# 置田畞數
+田畞數 = 379
+
+# 每畞出稅穀三升
+稅穀每畞 = 3  # 升
+
+# 納官每斛加二升耗
+耗每斛 = 2  # 升
+
+# 以三升因之，得正
+正升 = 稅穀每畞 * 田畞數  # 正稅穀總量（升）
+
+# 升轉換為斛、斗、升
+正斛 = 正升 // 100
+正升剩餘 = 正升 % 100
+正斗 = 正升剩餘 // 10
+正升 = 正升剩餘 % 10
+
+# 又二因之，得耗
+耗升 = 耗每斛 * 正斛  # 耗穀總量（升）
+
+# 升轉換為斗、升、合、勺
+耗斗 = 耗升 // 10
+耗升剩餘 = 耗升 % 10
+耗升 = 耗升剩餘
+耗合 = 0  # 合為進一步細分，這裡為0
+耗勺 = 0  # 勺為進一步細分，這裡為0
+
+# 答案
+a = f"{正斛}斛 {正斗}斗 {正升}升"
+b = f"{耗斗}斗 {耗升}升 {耗合}合 {耗勺}勺"
+"""
+Variable 'a' has wrong value. Expected: 1137/100, Actual: 11斛 3斗 7升
+Variable 'b' has wrong value. Expected: 1137/500, Actual: 2斗 2升 0合 0勺"""
