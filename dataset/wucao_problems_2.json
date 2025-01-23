@@ -7,18 +7,13 @@
         "source_juan": 2,
         "problem_index": 0,
         "id": "五曹算經_2_0",
-        "answer_structured": [
+        "answer_structured_manual": [
             "答曰：",
             [
                 "4",
                 ""
             ],
-            "丁出",
-            [
-                "1",
-                ""
-            ],
-            "兵。"
+            "丁出一兵。"
         ],
         "question_punctuated": "今有丁二萬三千六百九十二人，責兵五千九百二十三人。問：㡬何丁出一兵？",
         "answer_punctuated": "答曰：四丁出一兵。"

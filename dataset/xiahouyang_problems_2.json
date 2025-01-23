@@ -28,12 +28,8 @@
         "source_juan": 2,
         "problem_index": 1,
         "id": "夏侯陽算經_2_1",
-        "answer_structured": [
-            "答曰",
-            [
-                "1",
-                "步"
-            ],
+        "answer_structured_manual": [
+            "答曰一步",
             [
                 "5/4",
                 "勺"
@@ -309,12 +305,8 @@
         "source_juan": 2,
         "problem_index": 10,
         "id": "夏侯陽算經_2_10",
-        "answer_structured": [
-            "答曰",
-            [
-                "1",
-                "日"
-            ],
+        "answer_structured_manual": [
+            "答曰一日",
             [
                 "384",
                 "石"
@@ -393,12 +385,8 @@
         "source_juan": 2,
         "problem_index": 15,
         "id": "夏侯陽算經_2_15",
-        "answer_structured": [
-            "答曰",
-            [
-                "1",
-                "月"
-            ],
+        "answer_structured_manual": [
+            "答曰一月",
             [
                 "5835",
                 "斛"
@@ -479,12 +467,8 @@
         "answer_structured": [
             "答曰絹",
             [
-                "17083",
+                "11019034/645",
                 "匹"
-            ],
-            [
-                "1996/645",
-                "丈"
             ]
         ]
     },
@@ -589,14 +573,9 @@
         "answer_structured": [
             "答曰鋼鐵",
             [
-                "673637/192",
+                "898183/256",
                 "斤"
-            ],
-            [
-                "5",
-                ""
-            ],
-            "絫"
+            ]
         ]
     },
     {

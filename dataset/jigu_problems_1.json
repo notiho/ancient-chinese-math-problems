@@ -175,17 +175,8 @@
         "source_juan": 1,
         "problem_index": 2,
         "id": "緝古算經_1_2",
-        "answer_structured": [
-            "答曰：",
-            [
-                "1",
-                "人"
-            ],
-            [
-                "1",
-                "日"
-            ],
-            "自穿運築程功",
+        "answer_structured_manual": [
+            "答曰：一人一日自穿運築程功",
             [
                 "124/25",
                 "尺"

@@ -20,7 +20,7 @@ digit_chars = single_digits + powers_of_ten
 
 integer_re = f"(?=[{digit_chars}]+)(([{single_digits}]?千)?([{single_digits}]?百)?([{single_digits}]?十)?[{single_digits}]?億)?(([{single_digits}]?千)?([{single_digits}]?百)?([{single_digits}]?十)?[{single_digits}]?萬)?([{single_digits}]?千)?([{single_digits}]?百)?([{single_digits}]?十)?[{single_digits}]?"
 
-units_of_measurement = "寸尺丈步歩頃畝畆里斗升頃畝錢箇兩銖枚返斛石雞鹿人矢日月年斤鈞翭匹度乘疋周盤㪷文貫端合勺隻顆戸家秉束分氂毫絲忽觔功領抄撮帀枝磚黍"
+units_of_measurement = "絫寸尺丈步歩頃畝畆里斗升頃畝錢箇兩两銖枚返斛石雞鹿人矢日月年斤鈞翭匹度乘疋周盤㪷文貫端合勺隻顆戸家秉束分氂毫絲忽觔功領抄撮帀枝磚黍"
 
 quantity_re = regex.compile(f"(?P<x>{integer_re})(分(?P<u>[{units_of_measurement}]?)之(?P<y>{integer_re})|(?P<u>[{units_of_measurement}]?)((?P<h>半|少半|[大太]半)(?P=u)?)?)")
 print(quantity_re.pattern)
@@ -127,6 +127,8 @@ for f in filenames:
 				if q[1] in chain_of_units:
 					print(answer, chain_of_units)
 				chain_of_units.append(q[1])
+				if set(chain_of_units) == set(('匹', '分')):
+					print(answer)
 			
 			prev_quantity_end = i.end()
 		
@@ -147,6 +149,6 @@ for f in filenames:
 	with open(f, "w") as outfile:
 		json.dump(data, outfile, ensure_ascii = False, indent = 4)
 
-print("\n".join(" ".join(j) for j in set(tuple(i) for i in chains_of_units if len(i) > 1)))
+print("\n".join(" ".join(j) for j in set(tuple(f"'{j}'" for j in i) for i in chains_of_units if len(i) > 1)))
 
 print(f"Max slots: {max_slots}")
