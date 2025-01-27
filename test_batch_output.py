@@ -10,23 +10,23 @@ directory = sys.argv[1]
 results = []
 for filename in glob.glob(directory + "*/*.jsonl"):
 	with open(filename) as infile:
-		results.extend(json.loads(l) for l in infile.readlines())
+		results.extend(json.loads(l) for l in infile)
 
-input_directory = Path("batch_inputs") / Path(directory).parts[-1]
 inputs_by_id = dict()
-for filename in input_directory.glob("*/*.jsonl"):
+for filename in Path("batch_inputs").glob("*/*/*.jsonl"):
 	with open(filename) as infile:
 		for l in infile:
 			i = json.loads(l)
 			inputs_by_id[i["custom_id"]] = i["body"]["messages"]
 
+timestamp = Path(directory).parts[1]
 
 with open(directory + "statistics.csv", "w", newline = "") as outfile:
 	csv_writer = csv.writer(outfile)
 	csv_writer.writerow(["id", "run", "configuration", "problem_id", "passed", "error"])
 	for r in results:
 		identifier = r["custom_id"]
-		timestamp, configuration, problem_id = identifier.split("#")
+		_, configuration, problem_id = identifier.split("#")
 		problem = problems_by_id[problem_id]
 		for i, choice in enumerate(r["response"]["body"]["choices"]):
 			content = choice["message"]["content"]
