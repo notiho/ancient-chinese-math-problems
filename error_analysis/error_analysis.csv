@@ -4,6 +4,7 @@ timestamp,problem_id,error_type
 20250123_173136,緝古算經_1_12,misunderstood procedure
 20250123_173136,五曹算經_2_6,code error (variable name)
 20250123_173136,五曹算經_2_6,unit conversion
+20250123_173136,五曹算經_2_6,textual error
 20250123_173136,九章算術_2_39,misunderstood question
 20250123_173136,九章算術_9_10,code error (syntax)
 20250123_173136,九章算術_9_10,code error (fractions)
@@ -41,7 +42,7 @@ timestamp,problem_id,error_type
 20250123_173136,九章算術_2_42,misunderstood question
 20250123_173136,九章算術_8_14,misunderstood question
 20250123_173136,九章算術_2_21,misunderstood expression
-20250123_173136,九章算術_7_17,misunderstood procedure
+20250123_173136,九章算術_7_17,misunderstood procedure (inference required)
 20250123_173136,九章算術_1_17,misunderstood expression
 20250123_173136,九章算術_5_10,misunderstood expression
 20250123_173136,九章算術_5_10,code error (fractions)

@@ -55,7 +55,7 @@ Answer: *a* bolts of silk, with *b* chi remaining.
 
 # 以疋法除之即得
 a = 總尺數 // 疋法  # 疋數
-#ERR：textual error
+#ERR: textual error
 # b文 -> b丈
 #b = 總尺數 % 疋法   # 剩餘尺數
 b = (總尺數 // 10) % 疋法   # 剩餘尺數
