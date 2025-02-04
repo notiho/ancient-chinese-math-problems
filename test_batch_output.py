@@ -67,7 +67,9 @@ with open(directory + "statistics.csv", "w", newline = "") as outfile:
 					code_outfile.write(preamble)
 					code_outfile.write('\n"""\n\n')
 				
+				code_outfile.write("#----- content starts here -----\n")
 				code_outfile.write(content)
+				code_outfile.write("#----- content ends here -----\n")
 				
 				if postscript is not None:
 					code_outfile.write('\n\n"""\n')

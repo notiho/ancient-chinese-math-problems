@@ -1,0 +1,42 @@
+"""
+今有人盜庫絹不知所失幾何但聞草中分絹人得六匹盈六匹人得七匹不足七匹問人絹各幾何
+術曰先置人得六匹于右上盈六匹于右下後置人得七匹于左上不足七匹于左下維乘之所得并之為絹并盈不足為人
+答曰賊 a人 絹 b匹 
+"""
+
+"""
+Suppose someone stole silk from the storehouse, but the exact amount of silk lost is unknown.
+It is only heard that when dividing the silk in the grass, each person gets 6 bolts with 6 bolts left over, 
+and when each person gets 7 bolts, 7 bolts are lacking.
+Question: how many people and how much silk?
+
+The procedure says: First, place the number of bolts each person gets (6) on the top right, and the remainder (6) on the bottom right.
+Then, place the number of bolts each person gets (7) on the top left, and the deficit (7) on the bottom left.
+Cross-multiply these, add the results, and this gives the total amount of silk.
+Add the remainder and deficit to get the number of people.
+
+Answer: the thief is *a* people, and the silk is *b* bolts.
+"""
+
+# 人得六匹于右上
+右上 = 6
+
+# 盈六匹于右下
+右下 = 6
+
+# 人得七匹于左上
+左上 = 7
+
+# 不足七匹于左下
+左下 = 7
+
+# 維乘之所得并之為絹
+絹 = (左上 * 右下) + (右上 * 左下)
+
+# 并盈不足為人
+人 = 右下 + 左下
+
+a = 人
+b = 絹
+"""
+"""

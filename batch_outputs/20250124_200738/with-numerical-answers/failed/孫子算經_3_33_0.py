@@ -1,0 +1,42 @@
+"""
+今有三女，長女五日一歸，中女四日一歸，少女三日一歸。問：三女幾何日相會？
+術曰：置長女五日，中女四日，少女三日，于右方，各列一算于左方，維乘之，各得所到數。長女十二到，中女十五到，少女二十到，又各以歸日乘到數，即得。
+答曰： a(=60)日 。
+"""
+
+#----- content starts here -----
+"""
+Suppose there are three daughters. The eldest daughter returns every 5 days, the middle daughter every 4 days, and the youngest daughter every 3 days.
+Question: after how many days will the three daughters meet?
+
+The procedure says: Place the eldest daughter's 5 days, the middle daughter's 4 days, and the youngest daughter's 3 days on the right side.
+For each, list a counter on the left side.
+Multiply them together, obtaining the numbers they reach.
+The eldest daughter reaches 12, the middle daughter 15, and the youngest daughter 20.
+Then, multiply each by their respective return days, obtaining the result.
+
+Answer: *a*(=60) days.
+"""
+
+# 長女五日一歸
+長女歸日 = 5
+
+# 中女四日一歸
+中女歸日 = 4
+
+# 少女三日一歸
+少女歸日 = 3
+
+# 維乘之，各得所到數
+長女到數 = 中女歸日 * 少女歸日  # 12
+中女到數 = 長女歸日 * 少女歸日  # 15
+少女到數 = 長女歸日 * 中女歸日  # 20
+
+# 又各以歸日乘到數，即得
+總數 = 長女到數 * 長女歸日 + 中女到數 * 中女歸日 + 少女到數 * 少女歸日
+
+# 最小公倍數 (三女幾何日相會)
+a = Fraction(總數, 長女到數 + 中女到數 + 少女到數)  # 60 days#----- content ends here -----
+
+"""
+Variable 'a' has wrong value. Expected: 60, Actual: 180/47"""

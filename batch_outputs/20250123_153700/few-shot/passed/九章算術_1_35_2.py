@@ -1,0 +1,42 @@
+"""
+又有弧田，弦七十八步、二分步之一，矢十三步、九分步之七。問：為田幾何？
+術曰：以弦乘矢，矢又自乘，并之，二而一。
+荅曰： a畝 。
+"""
+
+"""
+Suppose there is a circular segment-shaped field. The chord (弦) is 78 and 1/2 bu, and the arrow (矢) is 13 and 7/9 bu.
+Question: how large is the field?
+
+The procedure says: Multiply the chord by the arrow. Then multiply the arrow by itself. Add these together, and divide by 2.
+
+The answer says: *a* mu.
+"""
+
+from fractions import Fraction
+
+# 弦七十八步、二分步之一
+弦 = 78 + Fraction(1, 2)
+
+# 矢十三步、九分步之七
+矢 = 13 + Fraction(7, 9)
+
+# 以弦乘矢
+弦乘矢 = 弦 * 矢
+
+# 矢又自乘
+矢自乘 = 矢 * 矢
+
+# 并之
+總和 = 弦乘矢 + 矢自乘
+
+# 二而一
+積步 = 總和 / 2
+
+# 畝法二百四十步
+畝法 = 240
+
+# 以畝法除之，即畝數
+a = Fraction(積步, 畝法)
+"""
+"""

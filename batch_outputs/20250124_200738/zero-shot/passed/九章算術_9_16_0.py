@@ -1,0 +1,39 @@
+"""
+今有邑方二百步，各中開門。出東門十五步有木。問︰出南門幾何步而見木？
+術曰：出東門步數為法，半邑方自乘為實，實如法得一步。
+荅曰： a步 。
+"""
+
+"""
+To solve this problem, we will translate the ancient Chinese math problem into Python code. Here's the solution:
+
+
+"""
+
+#----- content starts here -----
+
+from fractions import Fraction
+
+# Given values
+side_length = 200  # The side length of the square city in steps
+east_gate_distance = 15  # Distance from the east gate to the tree in steps
+
+# Calculation
+half_side = Fraction(side_length, 2)  # Half of the side length
+half_side_squared = half_side * half_side  # Square of half the side length
+south_gate_distance = half_side_squared / east_gate_distance  # Distance from the south gate to the tree
+
+# Answer
+a = south_gate_distance  # The distance in steps
+#----- content ends here -----
+
+
+"""
+
+
+The variable `a` will contain the answer in steps.
+"""
+
+
+"""
+"""

@@ -1,0 +1,35 @@
+"""
+今有生絲一斤為練絲一十二两，有練絲一千五百八十七两。問：生絲㡬何？
+術曰：列練絲一千五百八十七两以十六两乘之得二萬五千三百九十二两以十二两除之即得。
+答曰： a两 。
+"""
+
+#----- content starts here -----
+"""
+Suppose there is 1 jin of raw silk, which produces 12 liang of refined silk.
+Now, there are 1587 liang of refined silk.
+Question: how much raw silk is required?
+
+The procedure says: Place 1587 liang of refined silk and multiply it by 16 liang (to convert to jin).
+Divide the result by 12 liang, and the result is obtained.
+
+Answer: *a* liang.
+"""
+
+# 練絲一千五百八十七两
+練絲 = 1587
+
+# 每斤十六两
+每斤 = 16
+
+# 每斤生絲為練絲一十二两
+練絲率 = 12
+
+# 以十六两乘之
+總生絲量 = 練絲 * 每斤
+
+# 以十二两除之即得
+a = Fraction(總生絲量, 練絲率)#----- content ends here -----
+
+"""
+"""

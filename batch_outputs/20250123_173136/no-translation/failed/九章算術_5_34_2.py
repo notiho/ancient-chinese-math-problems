@@ -1,0 +1,40 @@
+"""
+今有圓困，高一丈三尺三寸、少半寸，容米二千斛。問︰周幾何？
+術曰：置米積尺，以十二乘之，令高而一，所得，開方除之，即周。
+荅曰： a丈 。
+"""
+
+"""
+
+"""
+
+
+from fractions import Fraction
+from math import sqrt
+
+# 高一丈三尺三寸、少半寸
+高 = 1 * 10 + 3 + Fraction(3, 10) - Fraction(1, 20)  # 1丈 = 10尺, 1尺 = 10寸
+
+# 容米二千斛
+米積 = 2000
+
+# 術曰：置米積尺，以十二乘之
+米積尺 = 米積 * 12
+
+# 令高而一
+實 = 米積尺 / 高
+
+# 所得，開方除之，即周
+周 = sqrt(實)
+
+# Convert to 丈 (1丈 = 10尺)
+a = Fraction(周, 10)
+
+
+"""
+
+"""
+
+
+"""
+Code error: both arguments should be Rational instances"""

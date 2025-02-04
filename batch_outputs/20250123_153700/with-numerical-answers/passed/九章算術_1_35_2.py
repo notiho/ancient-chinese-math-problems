@@ -1,0 +1,43 @@
+"""
+又有弧田，弦七十八步、二分步之一，矢十三步、九分步之七。問：為田幾何？
+術曰：以弦乘矢，矢又自乘，并之，二而一。
+荅曰： a(=51491/19440)畝 。
+"""
+
+"""
+Suppose there is an arc-shaped field with a chord of 78 1/2 bu and an arrow of 13 7/9 bu.
+Question: how large is the field?
+
+The procedure says: Multiply the chord by the arrow, then multiply the arrow by itself, and add these together.
+Divide the result by 2 to obtain the area.
+
+The answer says: *a*(=51491/19440) mu.
+"""
+
+from fractions import Fraction
+
+# 弦七十八步、二分步之一
+弦 = 78 + Fraction(1, 2)
+
+# 矢十三步、九分步之七
+矢 = 13 + Fraction(7, 9)
+
+# 以弦乘矢
+弦乘矢 = 弦 * 矢
+
+# 矢又自乘
+矢自乘 = 矢 * 矢
+
+# 并之
+和 = 弦乘矢 + 矢自乘
+
+# 二而一
+田積步 = 和 / 2
+
+# 畝法二百四十步
+畝法 = 240
+
+# 以畝法除之，即畝數
+a = Fraction(田積步, 畝法) # 51491/19440
+"""
+"""

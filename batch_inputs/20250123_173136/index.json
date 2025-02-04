@@ -1,0 +1,310 @@
+[
+    {
+        "id": "file-T9fuLHgc36cQUnjoriHYNw",
+        "local_filename": "batch_inputs/20250123_173136/few-shot/20250123_173136_jiuzhang_5_0.jsonl",
+        "batch_id": "batch_67926f4d187481908ca089eecace2266",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/few-shot/20250123_173136_jiuzhang_5_0.jsonl"
+    },
+    {
+        "id": "file-4BwXX8Csd57sSXdnhu8WcV",
+        "local_filename": "batch_inputs/20250123_173136/zero-shot/20250123_173136_jiuzhang_7_0.jsonl",
+        "batch_id": "batch_67927004339c8190ad1e0e7bf8ca60a0",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/zero-shot/20250123_173136_jiuzhang_7_0.jsonl"
+    },
+    {
+        "id": "file-PVyXTaBfd3KsVejmeqFebC",
+        "local_filename": "batch_inputs/20250123_173136/zero-shot/20250123_173136_jiuzhang_5_0.jsonl",
+        "batch_id": "batch_6792709ed4ec81909a911e37f75cf396",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/zero-shot/20250123_173136_jiuzhang_5_0.jsonl"
+    },
+    {
+        "id": "file-1cqvHiYjqZCL1FPTZBBdbt",
+        "local_filename": "batch_inputs/20250123_173136/zero-shot/20250123_173136_jiuzhang_2_0.jsonl",
+        "batch_id": "batch_679270faa06081908c27b5d0ecb525b6",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/zero-shot/20250123_173136_jiuzhang_2_0.jsonl"
+    },
+    {
+        "id": "file-SvNu55sGFBgjMJHAEmFK9r",
+        "local_filename": "batch_inputs/20250123_173136/zero-shot/20250123_173136_sunzi_2_0.jsonl",
+        "batch_id": "batch_67927192e4708190bbd2f97890d560f1",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/zero-shot/20250123_173136_sunzi_2_0.jsonl"
+    },
+    {
+        "id": "file-8Gx9w4iYFu3RHoEks1QCeg",
+        "local_filename": "batch_inputs/20250123_173136/zero-shot/20250123_173136_wucao_2_0.jsonl",
+        "batch_id": "batch_679271ee650c819081debcd354fa0444",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/zero-shot/20250123_173136_wucao_2_0.jsonl"
+    },
+    {
+        "id": "file-AUXvfGYCEPwmFNRuGq7DFz",
+        "local_filename": "batch_inputs/20250123_173136/zero-shot/20250123_173136_wucao_5_0.jsonl",
+        "batch_id": "batch_6792731e17e881908b2dbb9eb1926091",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/zero-shot/20250123_173136_wucao_5_0.jsonl"
+    },
+    {
+        "id": "file-Mo4M69a7MprVNc7YhgKNqr",
+        "local_filename": "batch_inputs/20250123_173136/with-numerical-answers/20250123_173136_jiuzhang_7_0.jsonl",
+        "batch_id": "batch_67927379e3708190935c9309e2ae868d",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/with-numerical-answers/20250123_173136_jiuzhang_7_0.jsonl"
+    },
+    {
+        "id": "file-Ue7F79fmuF1C4uiLLdQBUJ",
+        "local_filename": "batch_inputs/20250123_173136/with-numerical-answers/20250123_173136_sunzi_3_0.jsonl",
+        "batch_id": "batch_6792744f0a448190a03b57f5715c8c75",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/with-numerical-answers/20250123_173136_sunzi_3_0.jsonl"
+    },
+    {
+        "id": "file-SeeAaXViwrdJtXcVXyKy8w",
+        "local_filename": "batch_inputs/20250123_173136/with-numerical-answers/20250123_173136_jiuzhang_5_0.jsonl",
+        "batch_id": "batch_679274aaa87c8190a86f0c1763d0b2c1",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/with-numerical-answers/20250123_173136_jiuzhang_5_0.jsonl"
+    },
+    {
+        "id": "file-9DKZzraNgKqv4yrazXnvir",
+        "local_filename": "batch_inputs/20250123_173136/with-numerical-answers/20250123_173136_jiuzhang_2_0.jsonl",
+        "batch_id": "batch_6792750675148190ae5aed7f9205313b",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/with-numerical-answers/20250123_173136_jiuzhang_2_0.jsonl"
+    },
+    {
+        "id": "file-ELHYb4C7E8HpE8WFD73bvw",
+        "local_filename": "batch_inputs/20250123_173136/with-numerical-answers/20250123_173136_jigu_1_0.jsonl",
+        "batch_id": "batch_67927561e72c8190b6d05fec9277347a",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/with-numerical-answers/20250123_173136_jigu_1_0.jsonl"
+    },
+    {
+        "id": "file-YJcQqoMQ1WQqfHAmxRvhzC",
+        "local_filename": "batch_inputs/20250123_173136/with-numerical-answers/20250123_173136_jiuzhang_8_0.jsonl",
+        "batch_id": "batch_679275dc3f608190a91dba8d58213d82",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/with-numerical-answers/20250123_173136_jiuzhang_8_0.jsonl"
+    },
+    {
+        "id": "file-LvuBQL93xPG2Z58APxbx4H",
+        "local_filename": "batch_inputs/20250123_173136/with-numerical-answers/20250123_173136_jiuzhang_8_2.jsonl",
+        "batch_id": "batch_679276d024048190a14f3b379be174f1",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/with-numerical-answers/20250123_173136_jiuzhang_8_2.jsonl"
+    },
+    {
+        "id": "file-Xo8cCS8A92qNycCzd6Ykya",
+        "local_filename": "batch_inputs/20250123_173136/with-numerical-answers/20250123_173136_sunzi_2_0.jsonl",
+        "batch_id": "batch_679277c41fbc81909a892c9d89c4c43d",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/with-numerical-answers/20250123_173136_sunzi_2_0.jsonl"
+    },
+    {
+        "id": "file-7oiNfGLASY8q43LihP5NRm",
+        "local_filename": "batch_inputs/20250123_173136/with-numerical-answers/20250123_173136_wucao_2_0.jsonl",
+        "batch_id": "batch_6792781ff304819081bd4043050e0c15",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/with-numerical-answers/20250123_173136_wucao_2_0.jsonl"
+    },
+    {
+        "id": "file-VayRL6MvY9SFRgWeJNjq6y",
+        "local_filename": "batch_inputs/20250123_173136/with-numerical-answers/20250123_173136_wucao_5_0.jsonl",
+        "batch_id": "batch_679278f4f4b8819089e7871851f64d5a",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/with-numerical-answers/20250123_173136_wucao_5_0.jsonl"
+    },
+    {
+        "id": "file-NeA8Ev1iJiWzUV3TpFrTmm",
+        "local_filename": "batch_inputs/20250123_173136/with-numerical-answers/20250123_173136_jiuzhang_8_1.jsonl",
+        "batch_id": "batch_679279ac8dec819089fe615a4f7189f1",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/with-numerical-answers/20250123_173136_jiuzhang_8_1.jsonl"
+    },
+    {
+        "id": "file-RRNKnfZTshVmDcMxRw2bRN",
+        "local_filename": "batch_inputs/20250123_173136/no-punctuation/20250123_173136_jiuzhang_7_0.jsonl",
+        "batch_id": "batch_67927a9ff4888190a7f3d21a6673022f",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-punctuation/20250123_173136_jiuzhang_7_0.jsonl"
+    },
+    {
+        "id": "file-6KvJFJ8YCienj1evyvJu2X",
+        "local_filename": "batch_inputs/20250123_173136/no-punctuation/20250123_173136_sunzi_3_0.jsonl",
+        "batch_id": "batch_67927b56a8c08190aef51ff9e0650112",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-punctuation/20250123_173136_sunzi_3_0.jsonl"
+    },
+    {
+        "id": "file-6xd4Z5JCJeKBjW2yzUANEE",
+        "local_filename": "batch_inputs/20250123_173136/no-punctuation/20250123_173136_jigu_1_0.jsonl",
+        "batch_id": "batch_67927c8628e08190bc1febfa0b37c630",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-punctuation/20250123_173136_jigu_1_0.jsonl"
+    },
+    {
+        "id": "file-5PRYtUBYL4MUfoSDuDuJKU",
+        "local_filename": "batch_inputs/20250123_173136/no-punctuation/20250123_173136_jiuzhang_8_0.jsonl",
+        "batch_id": "batch_67927e10949c81909a5a85dcef9ed1c2",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-punctuation/20250123_173136_jiuzhang_8_0.jsonl"
+    },
+    {
+        "id": "file-5LkL2JdgCGsFtEBz3ms857",
+        "local_filename": "batch_inputs/20250123_173136/no-punctuation/20250123_173136_jiuzhang_8_2.jsonl",
+        "batch_id": "batch_67927ea8ce4c8190be1500c3993f3f66",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-punctuation/20250123_173136_jiuzhang_8_2.jsonl"
+    },
+    {
+        "id": "file-GyfRPf2q2XZwVVYNpKUwAZ",
+        "local_filename": "batch_inputs/20250123_173136/no-punctuation/20250123_173136_sunzi_2_0.jsonl",
+        "batch_id": "batch_67927f5f6eb48190bfa1937a0721c476",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-punctuation/20250123_173136_sunzi_2_0.jsonl"
+    },
+    {
+        "id": "file-12e71dBT85GrLCkuzX8brN",
+        "local_filename": "batch_inputs/20250123_173136/no-punctuation/20250123_173136_wucao_2_0.jsonl",
+        "batch_id": "batch_67927fbb20188190be653f2a5369767b",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-punctuation/20250123_173136_wucao_2_0.jsonl"
+    },
+    {
+        "id": "file-8SABWjWAK7jb61zFq1FENw",
+        "local_filename": "batch_inputs/20250123_173136/no-punctuation/20250123_173136_wucao_5_0.jsonl",
+        "batch_id": "batch_6792801700b4819086eb91ddfd85fec0",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-punctuation/20250123_173136_wucao_5_0.jsonl"
+    },
+    {
+        "id": "file-UnYnU6dPs7Ascf1w3SZM8h",
+        "local_filename": "batch_inputs/20250123_173136/no-punctuation/20250123_173136_jiuzhang_8_1.jsonl",
+        "batch_id": "batch_67928090f94c8190becac62dbffc87ad",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-punctuation/20250123_173136_jiuzhang_8_1.jsonl"
+    },
+    {
+        "id": "file-PsUbwzyjeqtLHSyr3eTNyA",
+        "local_filename": "batch_inputs/20250123_173136/no-procedures/20250123_173136_sunzi_3_0.jsonl",
+        "batch_id": "batch_67928147b98c8190b641bb8a04a13a5f",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-procedures/20250123_173136_sunzi_3_0.jsonl"
+    },
+    {
+        "id": "file-CM8tSVbHjEiW5e4mSKRsQJ",
+        "local_filename": "batch_inputs/20250123_173136/no-procedures/20250123_173136_jiuzhang_5_0.jsonl",
+        "batch_id": "batch_6792823ac4b481908a8df2d1a20d9acf",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-procedures/20250123_173136_jiuzhang_5_0.jsonl"
+    },
+    {
+        "id": "file-NiPkMGdEHjdqqnKgaFD9Ri",
+        "local_filename": "batch_inputs/20250123_173136/no-procedures/20250123_173136_jigu_1_0.jsonl",
+        "batch_id": "batch_679282b4ed8081909b6e1ab9a10cd07e",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-procedures/20250123_173136_jigu_1_0.jsonl"
+    },
+    {
+        "id": "file-TAT25TLaEdfSBEjHCWWmmJ",
+        "local_filename": "batch_inputs/20250123_173136/no-procedures/20250123_173136_jiuzhang_8_0.jsonl",
+        "batch_id": "batch_6792832fc66481908a4ec4fbf38bf283",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-procedures/20250123_173136_jiuzhang_8_0.jsonl"
+    },
+    {
+        "id": "file-Jom23eDspC12F534CB35do",
+        "local_filename": "batch_inputs/20250123_173136/no-procedures/20250123_173136_sunzi_2_0.jsonl",
+        "batch_id": "batch_679283e7835081909d35d431faf3a6f3",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-procedures/20250123_173136_sunzi_2_0.jsonl"
+    },
+    {
+        "id": "file-RTu2CcsTqgTJwDQchsnx1p",
+        "local_filename": "batch_inputs/20250123_173136/no-procedures/20250123_173136_wucao_2_0.jsonl",
+        "batch_id": "batch_679284432f2881909e8879abb9c945f1",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-procedures/20250123_173136_wucao_2_0.jsonl"
+    },
+    {
+        "id": "file-B33WPpTqFuVyA5mHfYrmc8",
+        "local_filename": "batch_inputs/20250123_173136/no-procedures/20250123_173136_wucao_5_0.jsonl",
+        "batch_id": "batch_6792849ebec48190b7488cf5ac571595",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-procedures/20250123_173136_wucao_5_0.jsonl"
+    },
+    {
+        "id": "file-65ivqEaFgWykcKgFVZY3Vs",
+        "local_filename": "batch_inputs/20250123_173136/no-translation/20250123_173136_jiuzhang_7_0.jsonl",
+        "batch_id": "batch_6792853783b081909714954b233e453b",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-translation/20250123_173136_jiuzhang_7_0.jsonl"
+    },
+    {
+        "id": "file-AU2uBycWvy4Lazvr47taM4",
+        "local_filename": "batch_inputs/20250123_173136/no-translation/20250123_173136_sunzi_3_0.jsonl",
+        "batch_id": "batch_679285f272948190bc061acc19fc17b2",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-translation/20250123_173136_sunzi_3_0.jsonl"
+    },
+    {
+        "id": "file-CSF91spc4pkoNDXH3ZJBWJ",
+        "local_filename": "batch_inputs/20250123_173136/no-translation/20250123_173136_jiuzhang_5_0.jsonl",
+        "batch_id": "batch_6792864e31488190a80e3017675d3380",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-translation/20250123_173136_jiuzhang_5_0.jsonl"
+    },
+    {
+        "id": "file-KDvcm7iMHAfUCsrnZ6LLYA",
+        "local_filename": "batch_inputs/20250123_173136/no-translation/20250123_173136_jiuzhang_2_0.jsonl",
+        "batch_id": "batch_679286e6887c8190b8f064159c93888d",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-translation/20250123_173136_jiuzhang_2_0.jsonl"
+    },
+    {
+        "id": "file-2YcTXvucQw8ZYDsXhQXRmc",
+        "local_filename": "batch_inputs/20250123_173136/no-translation/20250123_173136_jigu_1_0.jsonl",
+        "batch_id": "batch_6792874213988190aee38779717e22a7",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-translation/20250123_173136_jigu_1_0.jsonl"
+    },
+    {
+        "id": "file-Trn89GUeoFyx5YQcuGxyYp",
+        "local_filename": "batch_inputs/20250123_173136/no-translation/20250123_173136_jiuzhang_8_0.jsonl",
+        "batch_id": "batch_679287fa23e48190a5b7bf3f8d890765",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-translation/20250123_173136_jiuzhang_8_0.jsonl"
+    },
+    {
+        "id": "file-D3E9Z7mW2Xoo7scGUe6auo",
+        "local_filename": "batch_inputs/20250123_173136/no-translation/20250123_173136_sunzi_2_0.jsonl",
+        "batch_id": "batch_679289670b9481908c8009c73ae15567",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-translation/20250123_173136_sunzi_2_0.jsonl"
+    },
+    {
+        "id": "file-HjB1cVbyPXrku1VwQaHZ1U",
+        "local_filename": "batch_inputs/20250123_173136/no-translation/20250123_173136_wucao_2_0.jsonl",
+        "batch_id": "batch_679289c2b088819093c99c673d21e630",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-translation/20250123_173136_wucao_2_0.jsonl"
+    },
+    {
+        "id": "file-GYxzmrWWKhUAPGEqo8DRwq",
+        "local_filename": "batch_inputs/20250123_173136/no-translation/20250123_173136_wucao_5_0.jsonl",
+        "batch_id": "batch_67928a1e46cc8190bebfac5e8be83171",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-translation/20250123_173136_wucao_5_0.jsonl"
+    },
+    {
+        "id": "file-3Jen3HrwEHrEMH2qz9MCFW",
+        "local_filename": "batch_inputs/20250123_173136/no-translation/20250123_173136_jiuzhang_8_1.jsonl",
+        "batch_id": "batch_67928a9864ac819089807efb361301f4",
+        "batch_status": "completed",
+        "local_output_filename": "batch_outputs/20250123_173136/no-translation/20250123_173136_jiuzhang_8_1.jsonl"
+    }
+]

@@ -1,0 +1,9 @@
+id,run,configuration,problem_id,passed,error
+20250115_183014#few-shot#孫子算經_2_7,0,few-shot,孫子算經_2_7,True,
+20250115_183014#few-shot#孫子算經_2_7,1,few-shot,孫子算經_2_7,True,
+20250115_183014#few-shot#孫子算經_2_7,2,few-shot,孫子算經_2_7,True,
+20250115_183014#few-shot#孫子算經_2_7,3,few-shot,孫子算經_2_7,True,
+20250115_183014#few-shot#孫子算經_2_7,4,few-shot,孫子算經_2_7,True,
+20250115_183014#few-shot#九章算術_4_21,0,few-shot,九章算術_4_21,False,"Variable 'a' has wrong value. Expected: 374/3, Actual: 124"
+20250115_183014#few-shot#九章算術_4_21,1,few-shot,九章算術_4_21,False,"Variable 'a' has wrong value. Expected: 374/3, Actual: 42"
+20250115_183014#few-shot#九章算術_4_21,2,few-shot,九章算術_4_21,False,"Variable 'a' has wrong value. Expected: 374/3, Actual: 16/3"

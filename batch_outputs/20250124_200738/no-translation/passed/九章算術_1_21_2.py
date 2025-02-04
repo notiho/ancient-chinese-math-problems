@@ -1,0 +1,38 @@
+"""
+今有田廣三步、三分步之一，從五步、五分步之二。問：為田幾何？
+大廣田術曰：分母各乘其全，分子從之，相乘為實。分母相乘為法。實如法而一。
+荅曰： a步 。
+"""
+
+"""
+
+"""
+
+#----- content starts here -----
+
+from fractions import Fraction
+
+# 田廣三步、三分步之一
+廣 = 3 + Fraction(1, 3)
+
+# 從五步、五分步之二
+從 = 5 + Fraction(2, 5)
+
+# 分母各乘其全，分子從之，相乘為實
+實 = 廣 * 從
+
+# 分母相乘為法
+法 = 1  # Since the multiplication is already handled by Fraction
+
+# 實如法而一
+a = 實
+#----- content ends here -----
+
+
+"""
+
+"""
+
+
+"""
+"""

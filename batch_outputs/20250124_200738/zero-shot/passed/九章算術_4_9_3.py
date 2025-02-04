@@ -1,0 +1,71 @@
+"""
+今有田廣一步半、三分步之一、四分步之一、五分步之一、六分步之一、七分步之一、八分步之一、九分步之一、十分步之一、十一分步之一。求田一畝，問︰從幾何？
+術曰：下有一十一分，以一為二萬七千七百二十，半為一萬三千八百六十，三分之一為九千二百四十，四分之一為六千九百三十，五分之一為五千五百四十四，六分之一為四千六百二十，七分之一為三千九百六十，八分之一為三千四百六十五，九分之一為三千八十，一十分之一為二千七百七十二，一十一分之一為二千五百二十，并之得八萬三千七百一十一，以為法。置田二百四十步，亦以一為二萬七千七百二十乘之，為實。實如法得從步。
+荅曰： a步 。
+"""
+
+"""
+To solve this problem, we will translate the ancient Chinese math problem into Python code. The problem involves calculating the total area of a field in steps ("步") based on the given fractions and their corresponding values. The solution will compute the number of steps ("a") required for the field.
+
+Here is the Python code:
+
+
+"""
+
+#----- content starts here -----
+
+from fractions import Fraction
+
+# Given values
+total_area = 83711  # Total area in the problem
+field_length = 240  # Field length in steps
+
+# Fractions and their corresponding values
+fractions = [
+    Fraction(1, 1),  # 1
+    Fraction(1, 2),  # 1/2
+    Fraction(1, 3),  # 1/3
+    Fraction(1, 4),  # 1/4
+    Fraction(1, 5),  # 1/5
+    Fraction(1, 6),  # 1/6
+    Fraction(1, 7),  # 1/7
+    Fraction(1, 8),  # 1/8
+    Fraction(1, 9),  # 1/9
+    Fraction(1, 10), # 1/10
+    Fraction(1, 11)  # 1/11
+]
+
+# Corresponding values for each fraction
+values = [
+    27720, 13860, 9240, 6930, 5544, 4620, 3960, 3465, 3080, 2772, 2520
+]
+
+# Verify the total area
+assert sum(values) == total_area, "The total area calculation is incorrect."
+
+# Calculate the area of the field
+field_area = field_length * values[0]  # Multiply field length by the value of 1 step
+
+# Calculate the number of steps (a)
+a = Fraction(field_area, total_area)
+
+# Output the result
+a
+#----- content ends here -----
+
+
+"""
+
+
+### Explanation:
+1. **Fractions and Values**: The problem provides fractions and their corresponding values. These are stored in the `fractions` and `values` lists.
+2. **Total Area**: The total area is the sum of all the values provided, which is verified for correctness.
+3. **Field Area**: The field area is calculated by multiplying the field length (`240 steps`) by the value of `1 step` (27720).
+4. **Steps (a)**: The number of steps (`a`) is calculated by dividing the field area by the total area.
+
+The result will be stored in the variable `a`.
+"""
+
+
+"""
+"""

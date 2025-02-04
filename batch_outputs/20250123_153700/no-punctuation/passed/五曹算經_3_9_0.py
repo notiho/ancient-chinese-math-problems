@@ -1,0 +1,28 @@
+"""
+又有席一領坐客二十三人有席一千五百領問客㡬何？
+術曰列席數一千五百領以二十三人乘之即得
+答曰 a人 
+"""
+
+"""
+Suppose there is one mat that accommodates 23 people. 
+If there are 1500 mats, how many people can they accommodate?
+
+The procedure says: Place the number of mats, 1500. Multiply it by 23 people, and the result is obtained.
+
+Answer: *a* people.
+"""
+
+# 席一領
+席數 = 1
+
+# 坐客二十三人
+客數 = 23
+
+# 席一千五百領
+總席數 = 1500
+
+# 以二十三人乘之，即得
+a = 總席數 * 客數
+"""
+"""
