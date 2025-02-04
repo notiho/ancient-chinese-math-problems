@@ -68,7 +68,8 @@ from fractions import Fraction
 沙礫功 = Fraction(2 * 本人功, 3) 
 
 # Remaining effective capacity
-#ERR: consecutive
+#ERR: misunderstood expression
+# see above
 #法 = 本人功 - 出土功 - 沙礫功
 法 = 本人功 - 沙礫功
 

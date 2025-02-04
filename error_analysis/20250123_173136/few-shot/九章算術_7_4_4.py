@@ -19,7 +19,7 @@ If there is a fraction, simplify it.
 
 Answer: there are *a* people, and the price of the gold is *b*.
 """
-#ERR: misunderstood algorithm (inference required)
+#ERR: misunderstood procedure (inference required)
 
 from fractions import Fraction
 

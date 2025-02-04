@@ -30,7 +30,7 @@ This problem is quite complex and involves multiple steps of calculation. I'll b
 
 
 """
-#ERR: misunderstood algorithm
+#ERR: misunderstood procedure
 # contribution by each county depends on results from other counties
 
 from fractions import Fraction

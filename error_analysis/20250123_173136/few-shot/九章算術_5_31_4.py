@@ -20,7 +20,8 @@ For millet, beans, hemp, and wheat, 1 hu occupies 2 chi 4 cun and 3/10 cun of vo
 
 Answer: the volume is *a* chi³. It makes *b* hu and *c* dou of rice.
 """
-
+#ERR: textual error
+#斛 ， -> 斛、
 from fractions import Fraction
 
 # 下周八尺

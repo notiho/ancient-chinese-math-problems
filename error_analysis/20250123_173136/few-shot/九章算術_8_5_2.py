@@ -36,7 +36,7 @@ from fractions import Fraction
 
 # Eliminate one variable (e.g., 上禾) using the two equations
 # Multiply the first equation by 2 and the second equation by 3 to align 上禾 coefficients
-#ERR: math error
+#ERR: math reasoning
 #上禾系數 = 上禾1 * 2 - 上禾2 * 3
 #下禾系數 = 下禾1 * 2 - 下禾2 * 3
 #常數系數 = 常數1 * 2 - 常數2 * 3

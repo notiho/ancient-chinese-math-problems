@@ -19,7 +19,7 @@ If there is a remainder, divide it by the difference in daily rates to determine
 
 Answer: they meet after *a* days. The good horse travels *b* li, and the slow horse travels *c* li.
 """
-#ERR: misunderstood algorithm (interference required)
+#ERR: misunderstood procedure (inference required)
 from fractions import Fraction
 
 # 齊去長安三千里

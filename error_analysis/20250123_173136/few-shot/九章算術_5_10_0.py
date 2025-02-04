@@ -43,7 +43,7 @@ a = (積 // 人功) + 1  # Number of full workers needed
 b = 人功 * a - 積  # Remaining cubic chi
 
 a = int(a)
-#ERR: code error (fraction)
+#ERR: code error (fractions)
 #b = float(b)
 """
 Variable 'a' has wrong value. Expected: 33582, Actual: 33581

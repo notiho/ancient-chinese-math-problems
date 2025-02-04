@@ -15,7 +15,7 @@ Divide the dividend by the divisor to obtain the number of people. If there is a
 
 Answer: *a* people, and the price of the sheep is *b*.
 """
-#ERR: misunderstood algorithm (interference required)
+#ERR: misunderstood procedure (inference required)
 # 置所出率，盈、不足各居其下
 率1 = 5  # 每人出5
 不足1 = 45  # 不足45

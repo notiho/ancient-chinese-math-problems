@@ -9,7 +9,7 @@ The problem involves finding the cube root of a given volume, expressed as \(195
 
 
 """
-#ERR: misunderstood algorithm
+#ERR: misunderstood procedure
 
 from fractions import Fraction
 

@@ -17,7 +17,7 @@ Divide the dividend by the divisor to get the weight of gold. Multiply the denom
 
 Answer: The weight of gold is *a* jin, and the weight of silver is *b* jin.
 """
-#ERR: misunderstood algorithm
+#ERR: misunderstood procedure (inference required)
 from fractions import Fraction
 
 # 假令黃金三斤，白銀二斤、一十一分斤之五，不足四十九，於右行

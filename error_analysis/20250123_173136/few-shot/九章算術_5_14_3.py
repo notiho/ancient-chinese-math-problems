@@ -36,6 +36,8 @@ Answer: *a* chi.
 積 = 和 * 高
 
 # 三而一
-a = Fraction(積, 3) * 10  # Convert zhang to chi (1 zhang = 10 chi)
+#ERR: unit conversion
+#a = Fraction(積, 3) * 10  # Convert zhang to chi (1 zhang = 10 chi)
+a = Fraction(積, 3) * 1000  # Convert zhang to chi (1 zhang = 10 chi)
 """
 Variable 'a' has wrong value. Expected: 305000/3, Actual: 3050/3"""

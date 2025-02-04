@@ -23,7 +23,7 @@ The dividend becomes the price of the goods, and the divisor becomes the number 
 
 Answer: The principal is *a* Shu, and the profit is *b* Shu.
 """
-#ERR: misunderstood algorithm (interference required)
+#ERR: misunderstood procedure (inference required)
 from fractions import Fraction
 
 # 賈利十三 (profit rate of 13%)

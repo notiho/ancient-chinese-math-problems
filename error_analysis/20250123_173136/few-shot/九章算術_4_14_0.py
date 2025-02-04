@@ -11,7 +11,7 @@ The problem states that the total area is 564752 and 1/4 of a step. We need to f
 
 
 """
-#ERR: misunderstood algorithm
+#ERR: misunderstood procedure
 
 
 from fractions import Fraction

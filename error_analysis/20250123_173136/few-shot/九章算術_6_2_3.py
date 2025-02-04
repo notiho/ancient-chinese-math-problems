@@ -29,12 +29,21 @@ Answer: County A delivers *a* hu, County B delivers *b* hu, County C delivers *c
 """
 
 # Data for each county
-counties = [
+#ERR: misunderstood expression
+# 粟一斛一十錢 -> a millet cost of 1 hu and 10 qian etc.
+"""counties = [
     {"households": 20520, "millet_cost": 120, "distance": 0},   # County A
     {"households": 12312, "millet_cost": 110, "distance": 200}, # County B
     {"households": 7182, "millet_cost": 112, "distance": 150},  # County C
     {"households": 13338, "millet_cost": 117, "distance": 250}, # County D
     {"households": 5130, "millet_cost": 113, "distance": 150},  # County E
+]"""
+counties = [
+    {"households": 20520, "millet_cost": 20, "distance": 0},   # County A
+    {"households": 12312, "millet_cost": 10, "distance": 200}, # County B
+    {"households": 7182, "millet_cost": 12, "distance": 150},  # County C
+    {"households": 13338, "millet_cost": 17, "distance": 250}, # County D
+    {"households": 5130, "millet_cost": 13, "distance": 150},  # County E
 ]
 
 # Constants
@@ -46,12 +55,19 @@ total_millet = 10000  # Total millet to be delivered
 weights = []
 for county in counties:
     # Calculate the cost of delivering 1 hu of millet
-    transport_cost = (transport_cost_per_li * county["distance"]) / cart_capacity
+#ERR: code error (fractions)
+    #transport_cost = (transport_cost_per_li * county["distance"]) / cart_capacity
+    transport_cost = Fraction(transport_cost_per_li * county["distance"], cart_capacity)
     total_cost_per_hu = transport_cost + county["millet_cost"]
     
     # Calculate the weight for the county
-    weight = total_cost_per_hu * county["households"]
+#ERR: misunderstood expression
+    #以約其戶數 -> Multiply this cost by the number of households
+    #weight = total_cost_per_hu * county["households"]
+    weight = county["households"] / total_cost_per_hu
     weights.append(weight)
+
+print(weights)
 
 # Calculate the divisor (sum of weights)
 divisor = sum(weights)

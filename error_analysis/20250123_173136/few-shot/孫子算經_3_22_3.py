@@ -3,7 +3,7 @@
 術曰：重置二位左位減八餘加右位，至盡虛加一，即得。
 答曰： a枚 。
 """
-#ERR: misunderstood problem
+#ERR: misunderstood question
 
 The problem and the procedure provided are somewhat ambiguous and seem to involve a specific ancient Chinese mathematical technique for calculating the total number of items in a bundle based on its external circumference. However, the exact meaning of the procedure is unclear without additional context or clarification.
 

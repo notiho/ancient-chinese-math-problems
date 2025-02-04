@@ -37,7 +37,7 @@ Answer: *a* days.
 少女歸 = 少女到數 * 少女  # 20 * 3 = 60
 
 # 最小公倍數即為答案
-#ERR: mathematical error
+#ERR: math reasoning
 #a = Fraction(長女歸 + 中女歸 + 少女歸, 60)
 a = 長女歸
 """

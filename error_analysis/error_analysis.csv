@@ -1,0 +1,87 @@
+timestamp,problem_id,error_type
+20250123_173136,九章算術_5_31,textual error
+20250123_173136,緝古算經_1_13,misunderstood procedure
+20250123_173136,緝古算經_1_12,misunderstood procedure
+20250123_173136,五曹算經_2_6,code error (variable name)
+20250123_173136,五曹算經_2_6,unit conversion
+20250123_173136,九章算術_2_39,misunderstood question
+20250123_173136,九章算術_9_10,code error (syntax)
+20250123_173136,九章算術_9_10,code error (fractions)
+20250123_173136,九章算術_7_15,misunderstood expression
+20250123_173136,緝古算經_1_9,unit conversion
+20250123_173136,緝古算經_1_9,misunderstood expression
+20250123_173136,緝古算經_1_9,misunderstood expression
+20250123_173136,緝古算經_1_9,misunderstood expression
+20250123_173136,緝古算經_1_9,misunderstood expression
+20250123_173136,緝古算經_1_9,math reasoning
+20250123_173136,五曹算經_1_11,code error (fractions)
+20250123_173136,五曹算經_1_11,code error (fractions)
+20250123_173136,五曹算經_1_11,code error (fractions)
+20250123_173136,九章算術_7_2,misunderstood expression
+20250123_173136,九章算術_7_2,misunderstood expression
+20250123_173136,孫子算經_2_16,unit conversion
+20250123_173136,九章算術_4_14,misunderstood procedure
+20250123_173136,五曹算經_3_12,misunderstood expression
+20250123_173136,五曹算經_1_7,code error (fractions)
+20250123_173136,五曹算經_1_8,code error (fractions)
+20250123_173136,五曹算經_1_8,code error (fractions)
+20250123_173136,五曹算經_1_8,code error (fractions)
+20250123_173136,緝古算經_1_11,misunderstood procedure
+20250123_173136,緝古算經_1_3,misunderstood procedure
+20250123_173136,孫子算經_3_22,misunderstood question
+20250123_173136,九章算術_7_19,misunderstood procedure (inference required)
+20250123_173136,九章算術_4_19,misunderstood procedure
+20250123_173136,九章算術_5_14,unit conversion
+20250123_173136,緝古算經_1_5,misunderstood procedure
+20250123_173136,九章算術_2_35,misunderstood expression
+20250123_173136,孫子算經_3_33,math reasoning
+20250123_173136,九章算術_7_18,misunderstood procedure (inference required)
+20250123_173136,五曹算經_2_2,unit conversion
+20250123_173136,九章算術_7_5,misunderstood procedure (inference required)
+20250123_173136,九章算術_2_42,misunderstood question
+20250123_173136,九章算術_8_14,misunderstood question
+20250123_173136,九章算術_2_21,misunderstood expression
+20250123_173136,九章算術_7_17,misunderstood procedure
+20250123_173136,九章算術_1_17,misunderstood expression
+20250123_173136,九章算術_5_10,misunderstood expression
+20250123_173136,九章算術_5_10,code error (fractions)
+20250123_173136,九章算術_7_4,misunderstood procedure (inference required)
+20250123_173136,孫子算經_3_21,unit conversion
+20250123_173136,緝古算經_1_7,misunderstood expression
+20250123_173136,緝古算經_1_7,misunderstood expression
+20250123_173136,緝古算經_1_7,unit conversion
+20250123_173136,緝古算經_1_7,math reasoning
+20250123_173136,緝古算經_1_7,unit conversion
+20250123_173136,九章算術_8_5,math reasoning
+20250123_173136,九章算術_3_7,code error (variable name)
+20250123_173136,九章算術_9_15,code error (fractions)
+20250123_173136,孫子算經_2_17,unit conversion
+20250123_173136,孫子算經_2_17,unit conversion
+20250123_173136,五曹算經_1_10,code error (fractions)
+20250123_173136,五曹算經_1_10,code error (fractions)
+20250123_173136,五曹算經_1_10,code error (fractions)
+20250123_173136,孫子算經_2_24,textual error
+20250123_173136,九章算術_2_34,misunderstood expression
+20250123_173136,九章算術_2_12,misunderstood expression
+20250123_173136,九章算術_2_12,misunderstood expression
+20250123_173136,海島算經_1_1,unit conversion
+20250123_173136,海島算經_1_1,unit conversion
+20250123_173136,海島算經_1_1,unit conversion
+20250123_173136,海島算經_1_1,unit conversion
+20250123_173136,海島算經_1_1,misunderstood expression
+20250123_173136,海島算經_1_1,unit conversion
+20250123_173136,緝古算經_1_6,unit conversion
+20250123_173136,緝古算經_1_6,misunderstood expression
+20250123_173136,緝古算經_1_6,misunderstood expression
+20250123_173136,緝古算經_1_6,misunderstood expression
+20250123_173136,海島算經_1_8,misunderstood expression
+20250123_173136,海島算經_1_8,unit conversion
+20250123_173136,九章算術_6_2,misunderstood expression
+20250123_173136,九章算術_6_2,code error (fractions)
+20250123_173136,九章算術_6_2,misunderstood expression
+20250123_173136,九章算術_5_8,result rounded in the text
+20250123_173136,九章算術_5_8,code error (fractions)
+20250123_173136,九章算術_5_8,misunderstood expression
+20250123_173136,九章算術_5_8,code error (fractions)
+20250123_173136,九章算術_5_8,misunderstood expression
+20250123_173136,緝古算經_1_18,misunderstood expression
