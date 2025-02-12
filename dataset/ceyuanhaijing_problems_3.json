@@ -1,0 +1,172 @@
+[
+    {
+        "question": "或問乙出東門南行不知歩數而止甲出西門南行四百八十歩望見乙復就乙行五百一十步與乙相㑹問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#0",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 0,
+        "id": "測圓海鏡_3_0",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲出西門南行四百八十步而止乙從艮隅東行八十步望見甲問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#1",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 1,
+        "id": "測圓海鏡_3_1",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲出西門南行四百八十步而止乙從艮隅亦南行一百五十步望見甲問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#2",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 2,
+        "id": "測圓海鏡_3_2",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲出西門南行四百八十步乙出東門直行一十六步望見甲問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#3",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 3,
+        "id": "測圓海鏡_3_3",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問乙出南門東行七十二步而止甲出西門南行四百八十步望乙與城㕘相直問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#4",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 4,
+        "id": "測圓海鏡_3_4",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問乙出南門東行不知步數而立甲出西門南行四百八十步望見乙與城㕘相直又就乙行四百零八步與乙相㑹問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#5",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 5,
+        "id": "測圓海鏡_3_5",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問乙出東門直行不知歩數而止甲出西門南行四百八十步望見乙復就乙斜行五百四十四步與乙相會問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#6",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 6,
+        "id": "測圓海鏡_3_6",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問乙從乾地東行不知幾步而止甲出西門南行四百八十步望見乙復就乙斜行六百八十步與乙相㑹問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#7",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 7,
+        "id": "測圓海鏡_3_7",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問乙出南門南行不知步數而立甲出西門南行四百八十步望乙與城㕘相直復就乙斜行二百五十五步與乙相㑹問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#8",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 8,
+        "id": "測圓海鏡_3_8",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問乙出南門直行一百三十五步而止甲出西門南行四百八十步望乙與城㕘相直問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#9",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 9,
+        "id": "測圓海鏡_3_9",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲乙二人同出西門向南行至西南十字道口分路乙折東行一百九十二步而立甲又南行甲通行四百八十步望乙與城㕘相直問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#10",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 10,
+        "id": "測圓海鏡_3_10",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問見邊股四百八十步□弦三十四步問答同前(此題)(在甲乙二人同出西門南行至十字道乙折東行一百九十二步而立甲又南行甲通行四百八十步望)(見乙與城㕘相問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#11",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 11,
+        "id": "測圓海鏡_3_11",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問見邊股四百八十明弦一百五十三問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#12",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 12,
+        "id": "測圓海鏡_3_12",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問邊股四百八十步髙弦二百五十五步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#13",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 13,
+        "id": "測圓海鏡_3_13",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問邊股四百八十步平弦一百三十六步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#14",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 14,
+        "id": "測圓海鏡_3_14",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問邊股四百八十步明股明弦和二百八十八步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#15",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 15,
+        "id": "測圓海鏡_3_15",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問見邊股四百八十步□勾□弦和五十步問答同前徑和若設勾二十股二十一弦二十九則勾弦較九容圓半徑六併之得十五為邊股股弦較八為小差小差邊股共得二十三勾股較一為中差倍之僅得二則相差二十一矣是知細草乃因題數之偶合而誤非正法也今依其術另設法草於後問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_3_#16",
+        "source_title": "測圓海鏡",
+        "source_juan": 3,
+        "problem_index": 16,
+        "id": "測圓海鏡_3_16",
+        "is_wen_da_tong_qian": true
+    }
+]

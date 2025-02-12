@@ -1,0 +1,82 @@
+[
+    {
+        "question": "或問甲乙同立於乾隅乙向東行不知步數而立甲向南直行多於乙步望見乙復就東北斜行與乙相㑹二人共行了一千六百步又云甲南行不及斜行八十步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_10_#0",
+        "source_title": "測圓海鏡",
+        "source_juan": 10,
+        "problem_index": 0,
+        "id": "測圓海鏡_10_0",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問以前三事和又云大差三百六十步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_10_#1",
+        "source_title": "測圓海鏡",
+        "source_juan": 10,
+        "problem_index": 1,
+        "id": "測圓海鏡_10_1",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問依前見三事和又云中差二百八十步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_10_#2",
+        "source_title": "測圓海鏡",
+        "source_juan": 10,
+        "problem_index": 2,
+        "id": "測圓海鏡_10_2",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問依前見三事和又云小差大差併四百四十步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_10_#3",
+        "source_title": "測圓海鏡",
+        "source_juan": 10,
+        "problem_index": 3,
+        "id": "測圓海鏡_10_3",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問依前見三事和又云小差中差大差共七百二十問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_10_#4",
+        "source_title": "測圓海鏡",
+        "source_juan": 10,
+        "problem_index": 4,
+        "id": "測圓海鏡_10_4",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問依前見三事和又云明黄方叀黄方共六十六問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_10_#5",
+        "source_title": "測圓海鏡",
+        "source_juan": 10,
+        "problem_index": 5,
+        "id": "測圓海鏡_10_5",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問依前見三事和又云皇極弦二百八十九步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_10_#6",
+        "source_title": "測圓海鏡",
+        "source_juan": 10,
+        "problem_index": 6,
+        "id": "測圓海鏡_10_6",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問依前見三事和又云見太虚弦一百二步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_10_#7",
+        "source_title": "測圓海鏡",
+        "source_juan": 10,
+        "problem_index": 7,
+        "id": "測圓海鏡_10_7",
+        "is_wen_da_tong_qian": true
+    }
+]

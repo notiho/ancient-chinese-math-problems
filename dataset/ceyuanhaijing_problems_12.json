@@ -1,0 +1,142 @@
+[
+    {
+        "question": "或問甲乙二人俱在西北隅乙向直東行不知步數而止甲向直南行望見乙復向乙斜行甲告乙云我直行斜行共一千二百八十步汝東行步居我南行步十五分之八",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#0",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 0,
+        "id": "測圓海鏡_12_0",
+        "is_wen_da_tong_qian": false
+    },
+    {
+        "question": "或問甲乙二人俱在西北隅乙直南行不知步數而立甲直東行望見乙復向乙斜行與乙相㑹甲云我共行了一千步又云我東行步居汝南行步十五分之八",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#1",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 1,
+        "id": "測圓海鏡_12_1",
+        "is_wen_da_tong_qian": false
+    },
+    {
+        "question": "或問甲乙俱在城西北隅甲南行不知步數而立乙東行亦不知步數望見甲就甲斜行與之相㑹乙云我東步少于城周九分之五甲云我南行却多于汝東行二百八十步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#2",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 2,
+        "id": "測圓海鏡_12_2",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲出西門南行不知步數而立乙出北門東行望見甲既而乙云我所行居城徑六分之五甲云然則我所行却多于汝二百八十步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#3",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 3,
+        "id": "測圓海鏡_12_3",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲丙二人俱在西北隅甲向東行不知步數而立丙向南行望見甲與之相㑹丙語甲云我行既多于汝又城徑少于我四十分之十六(於我為四十分之十六原文脫為字似十六為股圓差分矣)甲云然則吾二人共行了九百二十步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#4",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 4,
+        "id": "測圓海鏡_12_4",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲乙俱立于城中心乙出東門直行不知步數而立甲出南門直行亦不知步數望見乙向乙斜行與之相㑹乙云我居汝南行十五分之八又云斜行步内若減甲直行餘三十四步若減乙直行餘一百五十三步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#5",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 5,
+        "id": "測圓海鏡_12_5",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲出西門南行乙出北門東行各不知逺近兩相望見復相斜行各行了三百四十步相㑹甲云城徑居我南行二分之一乙云我東行居城徑六分之五問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#6",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 6,
+        "id": "測圓海鏡_12_6",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲出西門南行不知步數而立乙出北門東行見之乙斜行與甲相㑹甲乙二人共行了一千三百六十步其甲南行居斜十七分之十二其乙東行居斜十七分之五問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#7",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 7,
+        "id": "測圓海鏡_12_7",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲出西門南行不知步數而立乙出北門東行望見之既而乙謂甲云我取汝六分之五得六百步甲謂乙云我取汝五分之三亦得六百步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#8",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 8,
+        "id": "測圓海鏡_12_8",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲從坤隅南行不知步數而立乙從艮隅東行望見之既而乙謂甲云我所行取汝所行三分之一得二百步甲謂乙云我所行内減汝所行四分之三得三百步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#9",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 9,
+        "id": "測圓海鏡_12_9",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問股圓差如股五分之三勾圓差如勾四分之一又云其大小差相減餘二百八十步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#10",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 10,
+        "id": "測圓海鏡_12_10",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問股圓差如股五分之三勾圓差如勾四分之一又云勾母每分少于股母每分四十步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#11",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 11,
+        "id": "測圓海鏡_12_11",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲出南門直行乙出東門直行望見甲斜行與甲相㑹甲云我行不及股圓差二十四分之十五乙云我行不及勾圓差五分之四又云甲行多于乙行一百一十九股圓差多于勾圓差二百八十問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#12",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 12,
+        "id": "測圓海鏡_12_12",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問大勾大股大弦三事和一千六百步以明勾除大股得八步三分之一以□股除大勾得一十步三分之二以虚勾明勾相減餘二十四步以虚股□股相減餘六十步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_12_#13",
+        "source_title": "測圓海鏡",
+        "source_juan": 12,
+        "problem_index": 13,
+        "id": "測圓海鏡_12_13",
+        "is_wen_da_tong_qian": true
+    }
+]

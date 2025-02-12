@@ -1,0 +1,212 @@
+[
+    {
+        "question": "或問乙從東門直行一十六步甲從乾隅東行三百二十步望乙與城叅相直問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#0",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 0,
+        "id": "測圓海鏡_6_0",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問乙出東門南行三十步而立甲從乾隅東行三百二十步望乙與城叅相直問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#1",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 1,
+        "id": "測圓海鏡_6_1",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問乙出南門直行一百三十五步而立甲從乾隅東行三百二十步望見乙問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#2",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 2,
+        "id": "測圓海鏡_6_2",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問乙出南門東行七十二步甲從西北隅取直行三百二十步見乙問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#3",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 3,
+        "id": "測圓海鏡_6_3",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問乙從西南隅直東行一百九十二步甲從西北隅直東行三百二十步望見乙問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#4",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 4,
+        "id": "測圓海鏡_6_4",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問乙從坤隅直南行三百六十步而止甲從乾隅直東行三百二十步望見乙問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#5",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 5,
+        "id": "測圓海鏡_6_5",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問東門南不知逺近有樹甲從乾隅東行三百二十步望樹與城叅相直復就樹斜行一百七十步至樹問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#6",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 6,
+        "id": "測圓海鏡_6_6",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "依前問假令乙出東門南行不知步數而止甲從乾東行三百二十步望乙與城相直復就乙斜行一百七十步",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#7",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 7,
+        "id": "測圓海鏡_6_7",
+        "is_wen_da_tong_qian": false
+    },
+    {
+        "question": "或問南門東不知逺近有樹甲從乾隅東行三百二十步見樹復向樹斜行二百七十二步至樹問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#8",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 8,
+        "id": "測圓海鏡_6_8",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲從乾隅東行三百二十步而止乙出南門直行不知步數望見甲復就甲斜行四百二十五步與甲相㑹問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#9",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 9,
+        "id": "測圓海鏡_6_9",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲乙二人俱在乾隅乙直南行不知步數而立甲直東行三百二十步望見乙復就乙斜行六百八十步與乙相㑹問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#10",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 10,
+        "id": "測圓海鏡_6_10",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問東門外不知逺近有樹甲從乾隅東行三百二十步望樹與城叅相直復就樹斜行一百三十六步至樹問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#11",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 11,
+        "id": "測圓海鏡_6_11",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問南門外不知步數有槐一株甲從乾隅直東行至柳樹下望見槐樹復斜行至槐樹下甲自云我共行了七百四十五步乙從坤隅南行望見槐柳與城叅相直復斜行至槐樹下乙自云我南行步多於斜行步一百五步",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#12",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 12,
+        "id": "測圓海鏡_6_12",
+        "is_wen_da_tong_qian": false
+    },
+    {
+        "question": "或問出東門直行不知步數有槐樹一株出南門東行不知步數有柳樹一株槐栁斜相距一百五十三步甲從乾東行三百二十步望槐柳與城㕘相直問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#13",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 13,
+        "id": "測圓海鏡_6_13",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲從乾隅東行三百二十步而止丙出東門南行乙出東門直行各不知步數而立甲廻望乙丙悉與城叅相直既而乙就丙斜行三十四步相㑹問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#14",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 14,
+        "id": "測圓海鏡_6_14",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "依前問假令東門外有樹乙出東門南行不知步數而立(只云樹去城步少於乙南行步)甲從乾隅向東行三百二十步望乙與樹悉與城叅相直乙復就樹斜行三十四步到樹問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#15",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 15,
+        "id": "測圓海鏡_6_15",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問南門外不知步數有樹甲從乾東行三百二十步而立乙出西門便南行望樹及甲與城叅相直却就樹斜行二百五十五步至樹問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#16",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 16,
+        "id": "測圓海鏡_6_16",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問南門外不知步數有槐樹一株東門外不知步數有柳樹一株槐柳相距二百八十九步甲從乾東行三百二十步斜望槐柳與城叅相直問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#17",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 17,
+        "id": "測圓海鏡_6_17",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問甲從乾隅東行三百二十步而立乙出城東行丙出城南行三人相望俱與城相直乙丙共行了一百五十一步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#18",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 18,
+        "id": "測圓海鏡_6_18",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "或問丙出南門東行乙出東門南行各不知步數而立甲從乾隅東行三百二十步望乙丙悉與城㕘相直乙就丙斜行一百二步相㑹問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#19",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 19,
+        "id": "測圓海鏡_6_19",
+        "is_wen_da_tong_qian": true
+    },
+    {
+        "question": "依前問假令乙出東門南行丙出南門東行各不知步數而立(只云丙行多於乙行步)甲從乾隅東行三百二十步望乙丙與城㕘相直其乙丙共行一百二步問徑幾里",
+        "answer": "答曰城徑二百四十步",
+        "procedure_id": "測圓海鏡_6_#20",
+        "source_title": "測圓海鏡",
+        "source_juan": 6,
+        "problem_index": 20,
+        "id": "測圓海鏡_6_20",
+        "is_wen_da_tong_qian": true
+    }
+]
